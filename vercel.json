@@ -2,18 +2,13 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "version": 2,
   "builds": [
-    {
-      "src": "server/index.ts",
-      "use": "@vercel/node",
-      "config": { "runtime": "nodejs22.x" }
-    },
-    {
-      "src": "dist/**/*",
-      "use": "@vercel/static"
-    }
+    { "src": "server/index.ts", "use": "@vercel/node", "config": { "runtime": "nodejs22.x" } },
+    { "src": "dist/**/*", "use": "@vercel/static" }
   ],
   "routes": [
-    { "src": "/api/(.*)", "dest": "server/index.ts" },
-    { "src": "/(.*)", "dest": "/dist/index.html" }
+    { "src": "/api/(.*)", "dest": "/server/index.ts" },
+
+    { "handle": "filesystem" },
+    { "src": "/(.*)", "dest": "/index.html" }
   ]
 }
