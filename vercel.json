@@ -1,0 +1,12 @@
+{
+  "buildCommand": "npm install --include=dev && npx vite build",
+  "outputDirectory": "dist",
+  "framework": "vite",
+  "builds": [
+    { "src": "dist/**/*", "use": "@vercel/static" }
+  ],
+  "routes": [
+    { "src": "/api/(.*)", "dest": "server/index.ts" },
+    { "src": "/(.*)", "dest": "/dist/$1" }
+  ]
+}
