@@ -1,13 +1,17 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "version": 2,
-  "buildCommand": "npm install --include=dev && npx vite build",
-  "outputDirectory": "dist",
-  "functions": {
-    "api/**/*.{ts,js}": {
-      "runtime": "nodejs22.x"
+  "builds": [
+    {
+      "src": "server/index.ts",
+      "use": "@vercel/node",
+      "config": { "runtime": "nodejs22.x" }
+    },
+    {
+      "src": "dist/**/*",
+      "use": "@vercel/static"
     }
-  },
+  ],
   "routes": [
     { "src": "/api/(.*)", "dest": "server/index.ts" },
     { "src": "/(.*)", "dest": "/dist/index.html" }
