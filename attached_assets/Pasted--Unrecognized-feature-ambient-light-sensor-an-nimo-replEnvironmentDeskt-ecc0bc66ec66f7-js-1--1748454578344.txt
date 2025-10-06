@@ -1,0 +1,1429 @@
+ Unrecognized feature: 'ambient-light-sensor'.
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+navigateTo @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+next @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+next @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+s @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+l @ _app-5b17002763bfe5af.js:26
+notify @ _app-5b17002763bfe5af.js:26
+t.apply @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+ Unrecognized feature: 'battery'.
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+navigateTo @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+next @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+next @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+s @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+l @ _app-5b17002763bfe5af.js:26
+notify @ _app-5b17002763bfe5af.js:26
+t.apply @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+ Unrecognized feature: 'execution-while-not-rendered'.
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+navigateTo @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+next @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+next @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+s @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+l @ _app-5b17002763bfe5af.js:26
+notify @ _app-5b17002763bfe5af.js:26
+t.apply @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+ Unrecognized feature: 'execution-while-out-of-viewport'.
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+navigateTo @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+next @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+next @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+s @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+l @ _app-5b17002763bfe5af.js:26
+notify @ _app-5b17002763bfe5af.js:26
+t.apply @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+ Unrecognized feature: 'layout-animations'.
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+navigateTo @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+next @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+next @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+s @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+l @ _app-5b17002763bfe5af.js:26
+notify @ _app-5b17002763bfe5af.js:26
+t.apply @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+ Unrecognized feature: 'legacy-image-formats'.
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+navigateTo @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+next @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+next @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+s @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+l @ _app-5b17002763bfe5af.js:26
+notify @ _app-5b17002763bfe5af.js:26
+t.apply @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+ Unrecognized feature: 'navigation-override'.
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+navigateTo @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+next @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+next @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+s @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+l @ _app-5b17002763bfe5af.js:26
+notify @ _app-5b17002763bfe5af.js:26
+t.apply @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+ Unrecognized feature: 'oversized-images'.
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+navigateTo @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+next @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+next @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+s @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+l @ _app-5b17002763bfe5af.js:26
+notify @ _app-5b17002763bfe5af.js:26
+t.apply @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+ Unrecognized feature: 'publickey-credentials'.
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+navigateTo @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+next @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+next @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+s @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+l @ _app-5b17002763bfe5af.js:26
+notify @ _app-5b17002763bfe5af.js:26
+t.apply @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+ Unrecognized feature: 'speaker-selection'.
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+navigateTo @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+next @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+next @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+s @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+l @ _app-5b17002763bfe5af.js:26
+notify @ _app-5b17002763bfe5af.js:26
+t.apply @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+ Unrecognized feature: 'unoptimized-images'.
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+navigateTo @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+next @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+next @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+s @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+l @ _app-5b17002763bfe5af.js:26
+notify @ _app-5b17002763bfe5af.js:26
+t.apply @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+ Unrecognized feature: 'unsized-media'.
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+navigateTo @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+next @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+next @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+s @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+l @ _app-5b17002763bfe5af.js:26
+notify @ _app-5b17002763bfe5af.js:26
+t.apply @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+ Unrecognized feature: 'pointer-lock'.
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+navigateTo @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+next @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+next @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+s @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+l @ _app-5b17002763bfe5af.js:26
+notify @ _app-5b17002763bfe5af.js:26
+t.apply @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+ Allow attribute will take precedence over 'allowfullscreen'.
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+navigateTo @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+next @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+next @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+s @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+l @ _app-5b17002763bfe5af.js:26
+notify @ _app-5b17002763bfe5af.js:26
+t.apply @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+ Allow attribute will take precedence over 'allowpaymentrequest'.
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+navigateTo @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+next @ replEnvironmentDeskt…ecc0bc66ec66f7.js:1
+next @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+s @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+l @ _app-5b17002763bfe5af.js:26
+notify @ _app-5b17002763bfe5af.js:26
+t.apply @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+content.js:1 Uncaught 
+(anônimo) @ content.js:1
+Tb @ content.js:1
+(anônimo) @ content.js:1
+(anônimo) @ content.js:1
+content.js:1 Uncaught 
+(anônimo) @ content.js:1
+Tb @ content.js:1
+(anônimo) @ content.js:1
+(anônimo) @ content.js:1
+content.js:1 Uncaught 
+(anônimo) @ content.js:1
+Tb @ content.js:1
+(anônimo) @ content.js:1
+(anônimo) @ content.js:1
+content.js:1 Uncaught 
+(anônimo) @ content.js:1
+Tb @ content.js:1
+(anônimo) @ content.js:1
+(anônimo) @ content.js:1
+content.js:1 Uncaught 
+(anônimo) @ content.js:1
+Tb @ content.js:1
+(anônimo) @ content.js:1
+(anônimo) @ content.js:1
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+(anônimo) @ content.js:1
+Tb @ content.js:1
+(anônimo) @ content.js:1
+(anônimo) @ content.js:1
+content.js:1 Uncaught 
+(anônimo) @ content.js:1
+Tb @ content.js:1
+(anônimo) @ content.js:1
+(anônimo) @ content.js:1
+content.js:1 Uncaught 
+(anônimo) @ content.js:1
+Tb @ content.js:1
+(anônimo) @ content.js:1
+(anônimo) @ content.js:1
+content.js:1 Uncaught 
+(anônimo) @ content.js:1
+Tb @ content.js:1
+(anônimo) @ content.js:1
+(anônimo) @ content.js:1
+content.js:1 Uncaught 
+(anônimo) @ content.js:1
+Tb @ content.js:1
+(anônimo) @ content.js:1
+(anônimo) @ content.js:1
+content.js:1 Uncaught 
+(anônimo) @ content.js:1
+Tb @ content.js:1
+(anônimo) @ content.js:1
+(anônimo) @ content.js:1
+content.js:1 Uncaught 
+(anônimo) @ content.js:1
+Tb @ content.js:1
+(anônimo) @ content.js:1
+(anônimo) @ content.js:1
+content.js:1 Uncaught 
+(anônimo) @ content.js:1
+Tb @ content.js:1
+(anônimo) @ content.js:1
+(anônimo) @ content.js:1
+content.js:1 Uncaught 
+(anônimo) @ content.js:1
+Tb @ content.js:1
+(anônimo) @ content.js:1
+(anônimo) @ content.js:1
+content.js:1 Uncaught 
+(anônimo) @ content.js:1
+Tb @ content.js:1
+(anônimo) @ content.js:1
+(anônimo) @ content.js:1
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+(anônimo) @ content.js:1
+Tb @ content.js:1
+(anônimo) @ content.js:1
+(anônimo) @ content.js:1
+ stallwart: failed ping 1
+ stallwart: failed ping 1
+ stallwart: failed ping 1
+ stallwart: failed ping 1
+ stallwart: failed ping 1
+ stallwart: failed ping 1
+ stallwart: failed ping 1
+ stallwart: failed ping 1
+ stallwart: failed ping 2
+ stallwart: failed ping 1
+ stallwart: failed ping 1
+ stallwart: failed ping 1
+ stallwart: failed ping 1
+ stallwart: failed ping 1
+ stallwart: failed ping 1
+ stallwart: failed ping 1
+ stallwart: failed ping 2
+ stallwart: failed ping 1
+ stallwart: failed ping 1
+ stallwart: failed ping 2
+ stallwart: failed ping 1
+ stallwart: failed ping 2
+ stallwart: failed ping 1
+ stallwart: failed ping 1
+ stallwart: failed ping 1
+ stallwart: failed ping 2
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+ stallwart: failed ping 1
+ stallwart: failed ping 1
+ stallwart: failed ping 1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+ WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2Fauth&id=%3Ar16u%3A:32 Unrecognized feature: 'ambient-light-sensor'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2Fauth&id=%3Ar16u%3A:32 Unrecognized feature: 'battery'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2Fauth&id=%3Ar16u%3A:32 Unrecognized feature: 'execution-while-not-rendered'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2Fauth&id=%3Ar16u%3A:32 Unrecognized feature: 'execution-while-out-of-viewport'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2Fauth&id=%3Ar16u%3A:32 Unrecognized feature: 'layout-animations'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2Fauth&id=%3Ar16u%3A:32 Unrecognized feature: 'legacy-image-formats'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2Fauth&id=%3Ar16u%3A:32 Unrecognized feature: 'navigation-override'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2Fauth&id=%3Ar16u%3A:32 Unrecognized feature: 'oversized-images'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2Fauth&id=%3Ar16u%3A:32 Unrecognized feature: 'publickey-credentials'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2Fauth&id=%3Ar16u%3A:32 Unrecognized feature: 'speaker-selection'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2Fauth&id=%3Ar16u%3A:32 Unrecognized feature: 'unoptimized-images'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2Fauth&id=%3Ar16u%3A:32 Unrecognized feature: 'unsized-media'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2Fauth&id=%3Ar16u%3A:32 Allow attribute will take precedence over 'allowfullscreen'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2Fauth&id=%3Ar16u%3A:32 Allow attribute will take precedence over 'allowpaymentrequest'.
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+Console.js:61 Firebase config: Object
+Console.js:61 Criada nova instância do Firebase
+Console.js:61 Setting up auth state listener...
+Console.js:61 Auth state changed: User logged in
+Console.js:61 Getting user profile for UID: sXqCssn1fYMirNtQfqhzvbU3Mhn1
+Console.js:61 🔍 Getting user profile for UID: sXqCssn1fYMirNtQfqhzvbU3Mhn1
+Console.js:61 Trying to get user document with UID as document ID
+Console.js:61 User document reference created: users/sXqCssn1fYMirNtQfqhzvbU3Mhn1
+Console.js:61 User document exists? true
+Console.js:61 User data found by direct ID: sXqCssn1fYMirNtQfqhzvbU3Mhn1
+Console.js:61 Firestore user profile: Object
+Console.js:61 User data set with Firestore profile
+Console.js:61 Tentativa de buscar pacientes (1/3)
+Console.js:61 Configurações de módulos carregadas: 8
+Console.js:61 Pacientes carregados com sucesso: 3
+Console.js:61 Pacientes carregados: 3
+Console.js:61 Módulos carregados (todos): 8
+Console.js:61 Módulos ativos: 2
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+Console.js:61 Firestore timeout reached
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/api/ocr/upload:1 
+            
+            
+           Failed to load resource: the server responded with a status of 503 (Service Unavailable)
+Console.js:61 Erro no upload: Error: Serviço OCR não está configurado. Entre em contato com o administrador.
+    at handleFileUpload (FileUploadOCR.tsx:93:15)
+Mt.forEach.n.<computed> @ Console.js:61
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+
+                
+          
+          
+          
+         Chrome is moving towards a new experience that allows users to choose to browse without third-party cookies.
+8053-d8087d8233e127b4.js:1 WebSocket is already in CLOSING or CLOSED state.
+send @ 8053-d8087d8233e127b4.js:1
+B @ 8053-d8087d8233e127b4.js:1
+send @ 8053-d8087d8233e127b4.js:1
+(anônimo) @ 8053-d8087d8233e127b4.js:1
+writeCb @ 8053-d8087d8233e127b4.js:1
+write @ 8053-d8087d8233e127b4.js:1
+onResizeTerminal @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+fire @ 1c7fb644.53b14b9fa5b19f50.js:3
+(anônimo) @ 1c7fb644.53b14b9fa5b19f50.js:3
+fire @ 1c7fb644.53b14b9fa5b19f50.js:3
+resize @ 1c7fb644.53b14b9fa5b19f50.js:3
+resize @ 1c7fb644.53b14b9fa5b19f50.js:3
+resize @ 1c7fb644.53b14b9fa5b19f50.js:3
+resize @ 1c7fb644.53b14b9fa5b19f50.js:3
+fit @ 1669.b2a769205bd7fb15.js:1
+fit @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+B.type @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ _app-5b17002763bfe5af.js:20
+b @ _app-5b17002763bfe5af.js:26
+w @ _app-5b17002763bfe5af.js:26
+E @ _app-5b17002763bfe5af.js:26
+r @ _app-5b17002763bfe5af.js:38

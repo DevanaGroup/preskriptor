@@ -1,0 +1,93 @@
+memed.ts:93 
+            
+            
+           GET https://integrations.api.memed.com.br/v1/prescritores/sXqCssn1fYMirNtQfqhzvbU3Mhn1 403 (Forbidden)
+window.fetch @ Network.js:219
+obterPrescritor @ memed.ts:93
+initializePrescritor @ prescricoes.tsx:56
+callCallback2 @ chunk-XQLYTHWV.js?v=bc13f525:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=bc13f525:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=bc13f525:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=bc13f525:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=bc13f525:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=bc13f525:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=bc13f525:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=bc13f525:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=bc13f525:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=bc13f525:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=bc13f525:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=bc13f525:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=bc13f525:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=bc13f525:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=bc13f525:5449Entenda o erro
+Console.js:61 Erro ao obter prescritor: Error: Erro ao obter prescritor: 
+    at MemedService.obterPrescritor (memed.ts:103:15)
+    at async initializePrescritor (prescricoes.tsx:56:25)
+Mt.forEach.n.<computed> @ Console.js:61
+obterPrescritor @ memed.ts:109
+await in obterPrescritor
+initializePrescritor @ prescricoes.tsx:56
+callCallback2 @ chunk-XQLYTHWV.js?v=bc13f525:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=bc13f525:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=bc13f525:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=bc13f525:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=bc13f525:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=bc13f525:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=bc13f525:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=bc13f525:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=bc13f525:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=bc13f525:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=bc13f525:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=bc13f525:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=bc13f525:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=bc13f525:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=bc13f525:5449Entenda o erro
+memed.ts:66 
+            
+            
+           POST https://integrations.api.memed.com.br/v1/prescritores 403 (Forbidden)
+window.fetch @ Network.js:219
+cadastrarPrescritor @ memed.ts:66
+initializePrescritor @ prescricoes.tsx:59
+await in initializePrescritor
+callCallback2 @ chunk-XQLYTHWV.js?v=bc13f525:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=bc13f525:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=bc13f525:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=bc13f525:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=bc13f525:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=bc13f525:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=bc13f525:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=bc13f525:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=bc13f525:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=bc13f525:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=bc13f525:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=bc13f525:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=bc13f525:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=bc13f525:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=bc13f525:5449Entenda o erro
+Console.js:61 Erro na integração com Memed: Error: Erro ao cadastrar prescritor: 
+    at MemedService.cadastrarPrescritor (memed.ts:77:15)
+    at async initializePrescritor (prescricoes.tsx:59:25)
+Mt.forEach.n.<computed> @ Console.js:61
+cadastrarPrescritor @ memed.ts:83
+await in cadastrarPrescritor
+initializePrescritor @ prescricoes.tsx:59
+await in initializePrescritor
+callCallback2 @ chunk-XQLYTHWV.js?v=bc13f525:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=bc13f525:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=bc13f525:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=bc13f525:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=bc13f525:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=bc13f525:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=bc13f525:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=bc13f525:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=bc13f525:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=bc13f525:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=bc13f525:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=bc13f525:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=bc13f525:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=bc13f525:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=bc13f525:5449Entenda o erro
+Console.js:61 Erro ao inicializar Memed: Error: Erro ao cadastrar prescritor: 
+    at MemedService.cadastrarPrescritor (memed.ts:77:15)
+    at async initializePrescritor (prescricoes.tsx:59:25)

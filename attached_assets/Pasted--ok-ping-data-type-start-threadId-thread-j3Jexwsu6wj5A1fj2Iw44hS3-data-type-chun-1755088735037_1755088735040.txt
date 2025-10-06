@@ -1,0 +1,508 @@
+:ok
+
+:ping
+
+data: {"type":"start","threadId":"thread_j3Jexwsu6wj5A1fj2Iw44hS3"}
+
+data: {"type":"chunk","content":"Olá"}
+
+:keepalive
+
+data: {"type":"chunk","content":","}
+
+:keepalive
+
+data: {"type":"chunk","content":" eu"}
+
+:keepalive
+
+data: {"type":"chunk","content":" sou"}
+
+:keepalive
+
+data: {"type":"chunk","content":" o"}
+
+:keepalive
+
+data: {"type":"chunk","content":" Pres"}
+
+:keepalive
+
+data: {"type":"chunk","content":"Kr"}
+
+:keepalive
+
+data: {"type":"chunk","content":"ip"}
+
+:keepalive
+
+data: {"type":"chunk","content":"tor"}
+
+:keepalive
+
+data: {"type":"chunk","content":","}
+
+:keepalive
+
+data: {"type":"chunk","content":" seu"}
+
+:keepalive
+
+data: {"type":"chunk","content":" assist"}
+
+:keepalive
+
+data: {"type":"chunk","content":"ente"}
+
+:keepalive
+
+data: {"type":"chunk","content":" clín"}
+
+:keepalive
+
+data: {"type":"chunk","content":"ico"}
+
+:keepalive
+
+data: {"type":"chunk","content":"."}
+
+:keepalive
+
+data: {"type":"chunk","content":"  \n"}
+
+:keepalive
+
+data: {"type":"chunk","content":"Estou"}
+
+:keepalive
+
+data: {"type":"chunk","content":" aqui"}
+
+:keepalive
+
+data: {"type":"chunk","content":" para"}
+
+:keepalive
+
+data: {"type":"chunk","content":" te"}
+
+:keepalive
+
+data: {"type":"chunk","content":" ajudar"}
+
+:keepalive
+
+data: {"type":"chunk","content":" a"}
+
+:keepalive
+
+data: {"type":"chunk","content":" avaliar"}
+
+:keepalive
+
+data: {"type":"chunk","content":" se"}
+
+:keepalive
+
+data: {"type":"chunk","content":" o"}
+
+:keepalive
+
+data: {"type":"chunk","content":" seu"}
+
+:keepalive
+
+data: {"type":"chunk","content":" paciente"}
+
+:keepalive
+
+data: {"type":"chunk","content":" possui"}
+
+:keepalive
+
+data: {"type":"chunk","content":" indicação"}
+
+:keepalive
+
+data: {"type":"chunk","content":" para"}
+
+:keepalive
+
+data: {"type":"chunk","content":" cirurgia"}
+
+:keepalive
+
+data: {"type":"chunk","content":" bari"}
+
+:keepalive
+
+data: {"type":"chunk","content":"á"}
+
+:keepalive
+
+data: {"type":"chunk","content":"trica"}
+
+:keepalive
+
+data: {"type":"chunk","content":" ou"}
+
+:keepalive
+
+data: {"type":"chunk","content":" metab"}
+
+:keepalive
+
+data: {"type":"chunk","content":"ólica"}
+
+:keepalive
+
+data: {"type":"chunk","content":","}
+
+:keepalive
+
+data: {"type":"chunk","content":" com"}
+
+:keepalive
+
+data: {"type":"chunk","content":" base"}
+
+:keepalive
+
+data: {"type":"chunk","content":" nas"}
+
+:keepalive
+
+data: {"type":"chunk","content":" dire"}
+
+:keepalive
+
+data: {"type":"chunk","content":"trizes"}
+
+:keepalive
+
+data: {"type":"chunk","content":" atuais"}
+
+:keepalive
+
+data: {"type":"chunk","content":" do"}
+
+:keepalive
+
+data: {"type":"chunk","content":" Conselho"}
+
+:keepalive
+
+data: {"type":"chunk","content":" Federal"}
+
+:keepalive
+
+data: {"type":"chunk","content":" de"}
+
+:keepalive
+
+data: {"type":"chunk","content":" Medicina"}
+
+:keepalive
+
+data: {"type":"chunk","content":" ("}
+
+:keepalive
+
+data: {"type":"chunk","content":"CF"}
+
+:keepalive
+
+data: {"type":"chunk","content":"M"}
+
+:keepalive
+
+data: {"type":"chunk","content":")."}
+
+:keepalive
+
+data: {"type":"chunk","content":"  \n"}
+
+:keepalive
+
+data: {"type":"chunk","content":"🔹"}
+
+:keepalive
+
+data: {"type":"chunk","content":" Para"}
+
+:keepalive
+
+data: {"type":"chunk","content":" começar"}
+
+:keepalive
+
+data: {"type":"chunk","content":","}
+
+:keepalive
+
+data: {"type":"chunk","content":" por"}
+
+:keepalive
+
+data: {"type":"chunk","content":" favor"}
+
+:keepalive
+
+data: {"type":"chunk","content":" me"}
+
+:keepalive
+
+data: {"type":"chunk","content":" informe"}
+
+:keepalive
+
+data: {"type":"chunk","content":" os"}
+
+:keepalive
+
+data: {"type":"chunk","content":" seguintes"}
+
+:keepalive
+
+data: {"type":"chunk","content":" dados"}
+
+:keepalive
+
+data: {"type":"chunk","content":" do"}
+
+:keepalive
+
+data: {"type":"chunk","content":" paciente"}
+
+:keepalive
+
+data: {"type":"chunk","content":":\n"}
+
+:keepalive
+
+data: {"type":"chunk","content":"-"}
+
+:keepalive
+
+data: {"type":"chunk","content":" Id"}
+
+:keepalive
+
+data: {"type":"chunk","content":"ade"}
+
+:keepalive
+
+data: {"type":"chunk","content":" ("}
+
+:keepalive
+
+data: {"type":"chunk","content":"em"}
+
+:keepalive
+
+data: {"type":"chunk","content":" anos"}
+
+:keepalive
+
+data: {"type":"chunk","content":")"}
+
+:keepalive
+
+data: {"type":"chunk","content":"  \n"}
+
+:keepalive
+
+data: {"type":"chunk","content":"-"}
+
+:keepalive
+
+data: {"type":"chunk","content":" Peso"}
+
+:keepalive
+
+data: {"type":"chunk","content":" ("}
+
+:keepalive
+
+data: {"type":"chunk","content":"em"}
+
+:keepalive
+
+data: {"type":"chunk","content":" kg"}
+
+:keepalive
+
+data: {"type":"chunk","content":")"}
+
+:keepalive
+
+data: {"type":"chunk","content":" e"}
+
+:keepalive
+
+data: {"type":"chunk","content":" altura"}
+
+:keepalive
+
+data: {"type":"chunk","content":" ("}
+
+:keepalive
+
+data: {"type":"chunk","content":"em"}
+
+:keepalive
+
+data: {"type":"chunk","content":" metros"}
+
+:keepalive
+
+data: {"type":"chunk","content":")"}
+
+:keepalive
+
+data: {"type":"chunk","content":"  \n"}
+
+:keepalive
+
+data: {"type":"chunk","content":"💡"}
+
+:keepalive
+
+data: {"type":"chunk","content":" Se"}
+
+:keepalive
+
+data: {"type":"chunk","content":" prefer"}
+
+:keepalive
+
+data: {"type":"chunk","content":"ir"}
+
+:keepalive
+
+data: {"type":"chunk","content":","}
+
+:keepalive
+
+data: {"type":"chunk","content":" você"}
+
+:keepalive
+
+data: {"type":"chunk","content":" pode"}
+
+:keepalive
+
+data: {"type":"chunk","content":" informar"}
+
+:keepalive
+
+data: {"type":"chunk","content":" diretamente"}
+
+:keepalive
+
+data: {"type":"chunk","content":" o"}
+
+:keepalive
+
+data: {"type":"chunk","content":" IM"}
+
+:keepalive
+
+data: {"type":"chunk","content":"C"}
+
+:keepalive
+
+data: {"type":"chunk","content":" ("}
+
+:keepalive
+
+data: {"type":"chunk","content":"í"}
+
+:keepalive
+
+data: {"type":"chunk","content":"ndice"}
+
+:keepalive
+
+data: {"type":"chunk","content":" de"}
+
+:keepalive
+
+data: {"type":"chunk","content":" massa"}
+
+:keepalive
+
+data: {"type":"chunk","content":" corp"}
+
+:keepalive
+
+data: {"type":"chunk","content":"ó"}
+
+:keepalive
+
+data: {"type":"chunk","content":"rea"}
+
+:keepalive
+
+data: {"type":"chunk","content":")."}
+
+:keepalive
+
+data: {"type":"chunk","content":"  \n"}
+
+:keepalive
+
+data: {"type":"chunk","content":"Assim"}
+
+:keepalive
+
+data: {"type":"chunk","content":" que"}
+
+:keepalive
+
+data: {"type":"chunk","content":" os"}
+
+:keepalive
+
+data: {"type":"chunk","content":" dados"}
+
+:keepalive
+
+data: {"type":"chunk","content":" forem"}
+
+:keepalive
+
+data: {"type":"chunk","content":" inform"}
+
+:keepalive
+
+data: {"type":"chunk","content":"ados"}
+
+:keepalive
+
+data: {"type":"chunk","content":","}
+
+:keepalive
+
+data: {"type":"chunk","content":" sigo"}
+
+:keepalive
+
+data: {"type":"chunk","content":" com"}
+
+:keepalive
+
+data: {"type":"chunk","content":" a"}
+
+:keepalive
+
+data: {"type":"chunk","content":" análise"}
+
+:keepalive
+
+data: {"type":"chunk","content":"!"}
+
+:keepalive
+
+data: {"type":"done","threadId":"thread_j3Jexwsu6wj5A1fj2Iw44hS3","fullContent":"Olá, eu sou o PresKriptor, seu assistente clínico.  \nEstou aqui para te ajudar a avaliar se o seu paciente possui indicação para cirurgia bariátrica ou metabólica, com base nas diretrizes atuais do Conselho Federal de Medicina (CFM).  \n🔹 Para começar, por favor me informe os seguintes dados do paciente:\n- Idade (em anos)  \n- Peso (em kg) e altura (em metros)  \n💡 Se preferir, você pode informar diretamente o IMC (índice de massa corpórea).  \nAssim que os dados forem informados, sigo com a análise!"}
+

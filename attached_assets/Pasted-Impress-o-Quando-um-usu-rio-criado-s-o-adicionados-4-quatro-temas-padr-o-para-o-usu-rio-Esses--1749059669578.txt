@@ -1,0 +1,104 @@
+Impressão
+Quando um usuário é criado, são adicionados 4 (quatro) temas padrão para o usuário. Esses temas podem ser customizados via API.
+
+Configurar Impressão
+A Memed permite personalizar algumas configurações relacionadas à impressão, como margens, cabeçalho, rodapé, fonte, entre outros. É possível capturar as configurações de impressão atuais e o PDF da prescrição para visualização. Segue um exemplo em cUrl abaixo:
+
+curl --request POST \
+  --url 'https://integrations.api.memed.com.br/v1/opcoes-receituario?token=user_token' \
+  --header 'Accept: application/vnd.api+json' \
+  --header 'Content-Type: application/json' \
+  --data '{
+    "data": {
+            "type": "configuracoes-prescricao",
+            "attributes": {
+                "medicos_id": 123456,
+                "indice": 1,
+                "mostrar_label_nome_paciente": true,
+                "mostrar_label_paciente_especial": 1,
+                "mostrar_data": 1,
+                "mostrar_data_controle_especial": 1,
+                "fonte": "Helvetica",
+                "tamanho_fonte": 14,
+                "espacamento": 30,
+                "mostrar_unidades": true,
+                "mostrar_unidades_especial": true,
+                "separar_por_uso": false,
+                "mostrar_nome_fabricante": true,
+                "separador_uso": 0,
+                "separador_medicamento": 0,
+                "largura_papel": 21,
+                "altura_papel": 29.7,
+                "margem_esquerda": 1.5,
+                "margem_direita": 1.5,
+                "margem_superior": 1,
+                "margem_inferior": 1,
+                "titulo_fonte": "Droid Serif Italic",
+                "titulo_tamanho_fonte": 22,
+                "titulo": "Dr. Teste da Silva Teste",
+                "titulo_cor": "#20afd6",
+                "subtitulo_fonte": "Proxima Nova",
+                "subtitulo_tamanho_fonte": 14,
+                "subtitulo": "CRM: 12345MG - Ginecologia e obstetrícia",
+                "subtitulo_cor": "#8c8c8c",
+                "tamanho_cabecalho": 2,
+                "rodape_fonte": "Proxima Nova",
+                "rodape_tamanho_fonte": 14,
+                "rodape": "",
+                "rodape_cor": "#8c8c8c",
+                "tamanho_rodape": 8,
+                "modelo_cabecalho_rodape": 1,
+                "ativo": true,
+                "imprimir_controle_especial": false,
+                "imprimir_controle_especial_antibioticos": true,
+                "imprimir_controle_especial_c4": false,
+                "imprimir_lme": false,
+                "nome_medico": "Teste da Silva Teste",
+                "endereco_medico": "RUA MATO GROSSO, 1100 - SANTO AGOSTINHO",
+                "cidade_medico": "São Paulo - MG",
+                "telefone_medico": "(11) 99999-9999",
+                "mostrar_cabecalho_rodape_simples": 1,
+                "modelo_rodape": 0,
+                "width_logo": 0,
+                "height_logo": 0,
+                "mostrar_cabecalho_rodape_especial": 1,
+                "logo_nome": "",
+                "logo_src": "",
+                "zoom_logo": 0,
+                "header_image": "parceiros\/templates\/parceiro-template-teste-header.jpeg",
+                "footer_image": "parceiros\/templates\/parceiro-template-teste-footer.jpeg",
+                "number_of_lme_copies": 1
+            }
+     }
+}'
+
+Dados de impressão adicionais
+É possível colocar dados extras no cabeçalho e rodapé da prescrição como, por exemplo: endereço, nome e registro do prescritor.
+
+Veja Gestão de prescritor.
+
+Recuperar as configurações das opções de receituário
+Para recuperar as configurações cadastradas nas opções de receituário utilize a seguinte requisição abaixo:
+
+curl --request GET \
+  --url 'https://integrations.api.memed.com.br/v1/opcoes-receituario?token=user_token' \
+  --header 'Accept: application/vnd.api+json' \
+  --header 'Content-Type: application/json' \
+
+Importar cabeçalho/rodapé de um PDF
+Como muitas ferramentas já possuem a opção de customização da impressão e que muitas vezes não se encaixam nas opções disponibilizadas pela Memed, criamos uma forma de importar o cabeçalho/rodapé com base em um template (PDF) enviado para a Memed, que será usado como imagem de fundo na prescrição.
+
+Abaixo temos um exemplo de importar o cabeçalho e o rodapé com base em um template PDF enviado para a Memed:
+
+exemplo-importar-cabecalho.webp
+O PDF é enviado para a nossa API contendo somente o cabeçalho e rodapé do prescritor;
+A Memed converte para imagem e faz o recorte, identificando automaticamente onde começa e termina o cabeçalho/rodapé;
+As imagens são usadas como fundo da receita médica.
+curl --request POST \
+  --url 'https://integrations.api.memed.com.br/v1/opcoes-receituario/upload-template?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.WzQ0MTQ2LCI0NDhkZDQyZDcwYTM2NjQ3ZmRmZDRlY2I0OGQzOWM5YyIsIjIwMjMtMDItMDkiLCJzaW5hcHNlLnByZXNjcmljYW8iLCJwYXJ0bmVyLjU1Mi4zOTQ1NiJd.8Ap9NOH_M5o5XGbkf1-cb5wjo4ufCaiq0utFkr22cuE' \
+  --header 'Accept: application/vnd.api+json' \
+  --header 'Content-Type: multipart/form-data' \
+  --form 'template=@'
+
+
+Também é possível enviar apenas um template contendo o header ou o footer. Essa funcionalidade pode ajudar, por exemplo, em casos que o prescritor utilize papel timbrado. Nesse caso, a requisição retornará apenas o caminho do header ou do footer que foi encontrado no template.

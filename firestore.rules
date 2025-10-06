@@ -1,0 +1,136 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Regras para a coleção users
+    match /users/{userId} {
+      // PERMITIR LEITURA PÚBLICA PARA VERIFICAÇÃO DE CRM
+      allow read: if true;
+      allow create: if request.auth != null && request.auth.uid == userId;
+      allow update: if request.auth != null && request.auth.uid == userId;
+      allow delete: if request.auth != null && request.auth.uid == userId;
+    }
+
+    // Regras para a coleção processedSessions
+    match /processedSessions/{sessionId} {
+      allow read, create: if request.auth != null;
+      allow update, delete: if false; // Nunca permitir atualização ou exclusão
+    }
+    
+    // Regras para a coleção patients
+    match /patients/{patientId} {
+      allow read: if request.auth != null;
+      allow create: if request.auth != null;
+      allow update: if request.auth != null;
+      allow delete: if request.auth != null;
+    }
+    
+    // Regras para a coleção agenda
+    match /agenda/{agendaId} {
+      allow read: if request.auth != null;
+      allow create: if request.auth != null;
+      allow update: if request.auth != null;
+      allow delete: if request.auth != null;
+    }
+
+    // Regras para a coleção modules - leitura pública, escrita apenas para admins
+    match /modules/{moduleId} {
+      // Permitir leitura para qualquer pessoa (incluindo usuários não autenticados)
+      // Isso é necessário para exibir módulos na landing page
+      allow read: if true;
+      
+      // Permitir escrita apenas para usuários administradores
+      // Isso requer que o documento do usuário tenha um campo isAdmin = true
+      allow write: if request.auth != null && 
+                   exists(/databases/$(database)/documents/users/$(request.auth.uid)) &&
+                   get(/databases/$(database)/documents/users/$(request.auth.uid)).data.isAdmin == true;
+    }
+    
+    // Regras para a coleção consultations
+    match /consultations/{consultationId} {
+      allow read: if request.auth != null;
+      allow create: if request.auth != null;
+      allow update: if request.auth != null;
+      allow delete: if request.auth != null;
+    }
+    
+    // Regras para a coleção transactions
+    match /transactions/{transactionId} {
+      allow read: if request.auth != null;
+      allow create: if request.auth != null;
+      allow update: if request.auth != null;
+      allow delete: if request.auth != null;
+    }
+    
+    // Regras para a coleção receitas
+    match /receitas/{receitaId} {
+      allow read: if request.auth != null;
+      allow create: if request.auth != null;
+      allow update: if request.auth != null && 
+                    resource.data.userId == request.auth.uid;
+      allow delete: if request.auth != null && 
+                    resource.data.userId == request.auth.uid;
+    }
+    
+    // Regras para a coleção modelosReceitas
+    match /modelosReceitas/{modeloId} {
+      allow read: if request.auth != null;
+      allow create: if request.auth != null;
+      allow update: if request.auth != null && 
+                    resource.data.userId == request.auth.uid;
+      allow delete: if request.auth != null && 
+                    resource.data.userId == request.auth.uid;
+    }
+    
+    // Regras para a coleção messages
+    match /messages/{messageId} {
+      allow read: if request.auth != null;
+      allow create: if true; // Permitir que visitantes enviem mensagens
+      // Apenas administradores podem atualizar ou excluir mensagens
+      allow update, delete: if request.auth != null &&
+                           exists(/databases/$(database)/documents/users/$(request.auth.uid)) &&
+                           get(/databases/$(database)/documents/users/$(request.auth.uid)).data.isAdmin == true;
+    }
+    
+    // Regras para a coleção mail (para Firebase Email Trigger)
+    match /mail/{mailId} {
+      // Permitir que qualquer usuário (incluindo o servidor) crie documentos na coleção mail
+      allow create: if true;
+      
+      // Apenas administradores e sistemas internos podem ler, atualizar ou excluir
+      // Esta permissão é necessária para que a extensão Email Trigger funcione
+      allow read, update, delete: if request.auth != null &&
+                                 exists(/databases/$(database)/documents/users/$(request.auth.uid)) &&
+                                 get(/databases/$(database)/documents/users/$(request.auth.uid)).data.isAdmin == true;
+    }
+    
+    // Regras para a coleção feedback
+    match /feedback/{feedbackId} {
+      // Permitir que usuários autenticados criem feedbacks
+      allow create: if request.auth != null;
+      
+      // Apenas administradores podem ler, atualizar ou excluir feedbacks
+      allow read, update, delete: if request.auth != null &&
+                                 exists(/databases/$(database)/documents/users/$(request.auth.uid)) &&
+                                 get(/databases/$(database)/documents/users/$(request.auth.uid)).data.isAdmin == true;
+    }
+    
+    // Regras para a coleção conversations (sistema de chat)
+    match /conversations/{conversationId} {
+      // Usuários autenticados podem criar conversas
+      allow create: if request.auth != null && 
+                    request.auth.uid == request.resource.data.userId;
+      
+      // Usuários podem ler apenas suas próprias conversas
+      allow read: if request.auth != null && 
+                  request.auth.uid == resource.data.userId;
+      
+      // Usuários podem atualizar apenas suas próprias conversas (para adicionar mensagens)
+      allow update: if request.auth != null && 
+                    request.auth.uid == resource.data.userId;
+      
+      // Usuários podem deletar apenas suas próprias conversas
+      allow delete: if request.auth != null && 
+                    request.auth.uid == resource.data.userId;
+    }
+  }
+}

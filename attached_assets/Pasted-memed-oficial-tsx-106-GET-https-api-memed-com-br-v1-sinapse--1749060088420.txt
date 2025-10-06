@@ -1,0 +1,63 @@
+memed-oficial.tsx:106 
+            
+            
+           GET https://api.memed.com.br/v1/sinapse-prescricao/usuarios/sXqCssn1fYMirNtQfqhzvbU3Mhn1?api-key=833709d9448fcc4c63620c38441bd34271d32e4a35d4eccbdbc5e5ea09f7e03a&secret-key=d3951525cd0ab8ddbdf2476d733e6a1c91df62f25155dc7189d04ed5c66047f4 404 (Not Found)
+window.fetch @ Network.js:219
+configurePrescritor @ memed-oficial.tsx:106
+callCallback2 @ chunk-XQLYTHWV.js?v=80d4bda4:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=80d4bda4:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=80d4bda4:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=80d4bda4:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=80d4bda4:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=80d4bda4:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=80d4bda4:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=80d4bda4:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=80d4bda4:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=80d4bda4:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=80d4bda4:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=80d4bda4:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=80d4bda4:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=80d4bda4:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=80d4bda4:5449
+memed-oficial.tsx:118 
+            
+            
+           POST https://api.memed.com.br/v1/sinapse-prescricao/usuarios?api-key=833709d9448fcc4c63620c38441bd34271d32e4a35d4eccbdbc5e5ea09f7e03a&secret-key=d3951525cd0ab8ddbdf2476d733e6a1c91df62f25155dc7189d04ed5c66047f4 400 (Bad Request)
+window.fetch @ Network.js:219
+configurePrescritor @ memed-oficial.tsx:118
+await in configurePrescritor
+callCallback2 @ chunk-XQLYTHWV.js?v=80d4bda4:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=80d4bda4:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=80d4bda4:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=80d4bda4:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=80d4bda4:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=80d4bda4:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=80d4bda4:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=80d4bda4:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=80d4bda4:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=80d4bda4:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=80d4bda4:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=80d4bda4:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=80d4bda4:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=80d4bda4:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=80d4bda4:5449
+Console.js:61 Erro ao configurar prescritor: Error: CPF precisa ser um CPF válido
+    at configurePrescritor (memed-oficial.tsx:145:15)
+Mt.forEach.n.<computed> @ Console.js:61
+configurePrescritor @ memed-oficial.tsx:148
+await in configurePrescritor
+callCallback2 @ chunk-XQLYTHWV.js?v=80d4bda4:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=80d4bda4:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=80d4bda4:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=80d4bda4:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=80d4bda4:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=80d4bda4:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=80d4bda4:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=80d4bda4:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=80d4bda4:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=80d4bda4:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=80d4bda4:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=80d4bda4:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=80d4bda4:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=80d4bda4:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=80d4bda4:5449

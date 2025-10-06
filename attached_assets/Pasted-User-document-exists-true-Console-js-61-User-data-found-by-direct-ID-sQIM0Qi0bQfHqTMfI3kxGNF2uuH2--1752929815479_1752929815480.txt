@@ -1,0 +1,577 @@
+User document exists? true
+Console.js:61 User data found by direct ID: sQIM0Qi0bQfHqTMfI3kxGNF2uuH2
+Console.js:61 Firestore user profile: {updatedAt: Sat Jul 19 2025 09:08:37 GMT-0300 (Horário Padrão de Brasília), termsAccepted: true, subscriptionUpdatedAt: null, termsAcceptedDate: _Timestamp, uid: 'sQIM0Qi0bQfHqTMfI3kxGNF2uuH2', …}
+Console.js:61 User data set with Firestore profile
+Console.js:61 🔍 Carregando módulos exclusivamente do Firestore
+Console.js:61 📄 Dados do módulo: Algoritmo-Indicação-de-Cirurgia-Bariátrica {title: 'Indicação de Cirurgia Bariátrica', description: '', assistantId: 'asst_ogzkxoMVuL8ycptF3ck0NiWo', id: 'Algoritmo-Indicação-de-Cirurgia-Bariátrica', tier: 'Free', …}
+Console.js:61 📄 Dados do módulo: Medicação Antiobesidade (MAO) - Prescrição Inteligente {tier: 'PRO', description: '', enabled: false, assistantId: 'asst_XUTRgxZdUPmZqN2MH1hx3Xn3', id: 'Medicação Antiobesidade (MAO) - Prescrição Inteligente', …}
+Console.js:61 📄 Dados do módulo: Prontuário Blindado {title: 'Prontuário Blindado', tier: 'PRO', id: 'Prontuário Blindado', enabled: false, description: '', …}
+Console.js:61 📄 Dados do módulo: Reposição de Vitaminas e Minerais {description: '', enabled: false, title: 'Reposição de Vitaminas e Minerais', tier: 'Premium', id: 'Reposição de Vitaminas e Minerais', …}
+Console.js:61 📄 Dados do módulo: algoritmo-mao {id: 'algoritmo-mao', enabled: true, assistantId: 'asst_XUTRgxZdUPmZqN2MH1hx3Xn3', title: 'Indicação de Medicação Antiobesidade (MAO)', description: '', …}
+Console.js:61 📄 Dados do módulo: bioimpedancia {title: 'Bioimpedância', id: 'bioimpedancia', assistantId: 'asst_IP63O2nevkiKSFOOwwwGfDCl', description: 'adsfasdf adf asdf asdf a', enabled: true, …}
+Console.js:61 📄 Dados do módulo: conversor-semaglutina {enabled: false, tier: 'Free', description: '', assistantId: '', title: 'Conversor de Cliques – Semaglutida', …}
+Console.js:61 📄 Dados do módulo: diabetes-tipo-2 {id: 'diabetes-tipo-2', assistantId: '', description: 'Algoritmo para Terapia Medicamentosa do Diabetes.', title: 'Diabetes Tipo 2', enabled: false, …}
+Console.js:61 📄 Dados do módulo: exames-hormonais {assistantId: 'asst_OXaFuhCznx5EYXDlgfhKrC8T', description: 'Análise detalhada de perfis hormonais e recomendações nutricionais personalizadas', title: 'Interpretação Avançada de Exames Hormonais', id: 'exames-hormonais', tier: 'Free', …}
+Console.js:61 📄 Dados do módulo: exames-laboratoriais {title: 'Interpretação de Exames Laboratoriais', assistantId: 'asst_OXaFuhCznx5EYXDlgfhKrC8T', enabled: true, description: 'Análise de resutados de exames com IA.', tier: 'Premium', …}
+Console.js:61 📄 Dados do módulo: fitoterapia-na-obesidade {id: 'fitoterapia-na-obesidade', assistantId: '', description: '', tier: 'Premium', title: 'Fitoterapia na Obesidade', …}
+Console.js:61 📄 Dados do módulo: pre-diabetes {description: 'Intervenções nutricionais para prevenir a progressão para diabetes tipo 2', title: 'Pré-Diabetes', id: 'pre-diabetes', assistantId: '', enabled: false, …}
+Console.js:61 📄 Dados do módulo: terapia-hormonal-feminina {title: 'Terapia Hormonal Feminina', assistantId: 'asst_IP63O2nevkiKSFOOwwwGfDCl', tier: 'PRO', enabled: false, id: 'terapia-hormonal-feminina', …}
+Console.js:61 📄 Dados do módulo: terapia-hormonal-masculina {enabled: false, tier: 'Premium', title: 'Terapia Hormonal Masculina', assistantId: '', description: 'Orientações nutricionais para otimização hormonal masculina', …}
+Console.js:61 ✅ Módulos carregados do Firestore: 14
+Console.js:61 📋 Módulos: (14) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}]
+Console.js:61 Firestore timeout reached
+3430-3d770cc90d759bc9.js:1 Unrecognized feature: 'ambient-light-sensor'.
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+n @ main-b79515c1024d334e.js:1
+u @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+n @ main-b79515c1024d334e.js:1
+u @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+navigateTo @ 3430-3d770cc90d759bc9.js:1
+refresh @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ _app-f10df38f71c1285f.js:11
+(anônimo) @ _app-f10df38f71c1285f.js:6
+onClick @ _app-f10df38f71c1285f.js:11
+(anônimo) @ _app-f10df38f71c1285f.js:1
+eB @ framework-d6ce62f547324137.js:1
+eH @ framework-d6ce62f547324137.js:1
+(anônimo) @ framework-d6ce62f547324137.js:1
+re @ framework-d6ce62f547324137.js:1
+rt @ framework-d6ce62f547324137.js:1
+(anônimo) @ framework-d6ce62f547324137.js:1
+uT @ framework-d6ce62f547324137.js:1
+eM @ framework-d6ce62f547324137.js:1
+ru @ framework-d6ce62f547324137.js:1
+tB @ framework-d6ce62f547324137.js:1
+tD @ framework-d6ce62f547324137.js:1
+n @ _app-f10df38f71c1285f.js:38Entenda o aviso
+3430-3d770cc90d759bc9.js:1 Unrecognized feature: 'battery'.
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+n @ main-b79515c1024d334e.js:1
+u @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+n @ main-b79515c1024d334e.js:1
+u @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+navigateTo @ 3430-3d770cc90d759bc9.js:1
+refresh @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ _app-f10df38f71c1285f.js:11
+(anônimo) @ _app-f10df38f71c1285f.js:6
+onClick @ _app-f10df38f71c1285f.js:11
+(anônimo) @ _app-f10df38f71c1285f.js:1
+eB @ framework-d6ce62f547324137.js:1
+eH @ framework-d6ce62f547324137.js:1
+(anônimo) @ framework-d6ce62f547324137.js:1
+re @ framework-d6ce62f547324137.js:1
+rt @ framework-d6ce62f547324137.js:1
+(anônimo) @ framework-d6ce62f547324137.js:1
+uT @ framework-d6ce62f547324137.js:1
+eM @ framework-d6ce62f547324137.js:1
+ru @ framework-d6ce62f547324137.js:1
+tB @ framework-d6ce62f547324137.js:1
+tD @ framework-d6ce62f547324137.js:1
+n @ _app-f10df38f71c1285f.js:38Entenda o aviso
+3430-3d770cc90d759bc9.js:1 Unrecognized feature: 'execution-while-not-rendered'.
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+n @ main-b79515c1024d334e.js:1
+u @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+n @ main-b79515c1024d334e.js:1
+u @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+navigateTo @ 3430-3d770cc90d759bc9.js:1
+refresh @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ _app-f10df38f71c1285f.js:11
+(anônimo) @ _app-f10df38f71c1285f.js:6
+onClick @ _app-f10df38f71c1285f.js:11
+(anônimo) @ _app-f10df38f71c1285f.js:1
+eB @ framework-d6ce62f547324137.js:1
+eH @ framework-d6ce62f547324137.js:1
+(anônimo) @ framework-d6ce62f547324137.js:1
+re @ framework-d6ce62f547324137.js:1
+rt @ framework-d6ce62f547324137.js:1
+(anônimo) @ framework-d6ce62f547324137.js:1
+uT @ framework-d6ce62f547324137.js:1
+eM @ framework-d6ce62f547324137.js:1
+ru @ framework-d6ce62f547324137.js:1
+tB @ framework-d6ce62f547324137.js:1
+tD @ framework-d6ce62f547324137.js:1
+n @ _app-f10df38f71c1285f.js:38Entenda o aviso
+3430-3d770cc90d759bc9.js:1 Unrecognized feature: 'execution-while-out-of-viewport'.
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+n @ main-b79515c1024d334e.js:1
+u @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+n @ main-b79515c1024d334e.js:1
+u @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+navigateTo @ 3430-3d770cc90d759bc9.js:1
+refresh @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ _app-f10df38f71c1285f.js:11
+(anônimo) @ _app-f10df38f71c1285f.js:6
+onClick @ _app-f10df38f71c1285f.js:11
+(anônimo) @ _app-f10df38f71c1285f.js:1
+eB @ framework-d6ce62f547324137.js:1
+eH @ framework-d6ce62f547324137.js:1
+(anônimo) @ framework-d6ce62f547324137.js:1
+re @ framework-d6ce62f547324137.js:1
+rt @ framework-d6ce62f547324137.js:1
+(anônimo) @ framework-d6ce62f547324137.js:1
+uT @ framework-d6ce62f547324137.js:1
+eM @ framework-d6ce62f547324137.js:1
+ru @ framework-d6ce62f547324137.js:1
+tB @ framework-d6ce62f547324137.js:1
+tD @ framework-d6ce62f547324137.js:1
+n @ _app-f10df38f71c1285f.js:38Entenda o aviso
+3430-3d770cc90d759bc9.js:1 Unrecognized feature: 'layout-animations'.
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+n @ main-b79515c1024d334e.js:1
+u @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+n @ main-b79515c1024d334e.js:1
+u @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+navigateTo @ 3430-3d770cc90d759bc9.js:1
+refresh @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ _app-f10df38f71c1285f.js:11
+(anônimo) @ _app-f10df38f71c1285f.js:6
+onClick @ _app-f10df38f71c1285f.js:11
+(anônimo) @ _app-f10df38f71c1285f.js:1
+eB @ framework-d6ce62f547324137.js:1
+eH @ framework-d6ce62f547324137.js:1
+(anônimo) @ framework-d6ce62f547324137.js:1
+re @ framework-d6ce62f547324137.js:1
+rt @ framework-d6ce62f547324137.js:1
+(anônimo) @ framework-d6ce62f547324137.js:1
+uT @ framework-d6ce62f547324137.js:1
+eM @ framework-d6ce62f547324137.js:1
+ru @ framework-d6ce62f547324137.js:1
+tB @ framework-d6ce62f547324137.js:1
+tD @ framework-d6ce62f547324137.js:1
+n @ _app-f10df38f71c1285f.js:38Entenda o aviso
+3430-3d770cc90d759bc9.js:1 Unrecognized feature: 'legacy-image-formats'.
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+n @ main-b79515c1024d334e.js:1
+u @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+n @ main-b79515c1024d334e.js:1
+u @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+navigateTo @ 3430-3d770cc90d759bc9.js:1
+refresh @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ _app-f10df38f71c1285f.js:11
+(anônimo) @ _app-f10df38f71c1285f.js:6
+onClick @ _app-f10df38f71c1285f.js:11
+(anônimo) @ _app-f10df38f71c1285f.js:1
+eB @ framework-d6ce62f547324137.js:1
+eH @ framework-d6ce62f547324137.js:1
+(anônimo) @ framework-d6ce62f547324137.js:1
+re @ framework-d6ce62f547324137.js:1
+rt @ framework-d6ce62f547324137.js:1
+(anônimo) @ framework-d6ce62f547324137.js:1
+uT @ framework-d6ce62f547324137.js:1
+eM @ framework-d6ce62f547324137.js:1
+ru @ framework-d6ce62f547324137.js:1
+tB @ framework-d6ce62f547324137.js:1
+tD @ framework-d6ce62f547324137.js:1
+n @ _app-f10df38f71c1285f.js:38Entenda o aviso
+3430-3d770cc90d759bc9.js:1 Unrecognized feature: 'navigation-override'.
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+n @ main-b79515c1024d334e.js:1
+u @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+n @ main-b79515c1024d334e.js:1
+u @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+navigateTo @ 3430-3d770cc90d759bc9.js:1
+refresh @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ _app-f10df38f71c1285f.js:11
+(anônimo) @ _app-f10df38f71c1285f.js:6
+onClick @ _app-f10df38f71c1285f.js:11
+(anônimo) @ _app-f10df38f71c1285f.js:1
+eB @ framework-d6ce62f547324137.js:1
+eH @ framework-d6ce62f547324137.js:1
+(anônimo) @ framework-d6ce62f547324137.js:1
+re @ framework-d6ce62f547324137.js:1
+rt @ framework-d6ce62f547324137.js:1
+(anônimo) @ framework-d6ce62f547324137.js:1
+uT @ framework-d6ce62f547324137.js:1
+eM @ framework-d6ce62f547324137.js:1
+ru @ framework-d6ce62f547324137.js:1
+tB @ framework-d6ce62f547324137.js:1
+tD @ framework-d6ce62f547324137.js:1
+n @ _app-f10df38f71c1285f.js:38Entenda o aviso
+3430-3d770cc90d759bc9.js:1 Unrecognized feature: 'oversized-images'.
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+n @ main-b79515c1024d334e.js:1
+u @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+n @ main-b79515c1024d334e.js:1
+u @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+navigateTo @ 3430-3d770cc90d759bc9.js:1
+refresh @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ _app-f10df38f71c1285f.js:11
+(anônimo) @ _app-f10df38f71c1285f.js:6
+onClick @ _app-f10df38f71c1285f.js:11
+(anônimo) @ _app-f10df38f71c1285f.js:1
+eB @ framework-d6ce62f547324137.js:1
+eH @ framework-d6ce62f547324137.js:1
+(anônimo) @ framework-d6ce62f547324137.js:1
+re @ framework-d6ce62f547324137.js:1
+rt @ framework-d6ce62f547324137.js:1
+(anônimo) @ framework-d6ce62f547324137.js:1
+uT @ framework-d6ce62f547324137.js:1
+eM @ framework-d6ce62f547324137.js:1
+ru @ framework-d6ce62f547324137.js:1
+tB @ framework-d6ce62f547324137.js:1
+tD @ framework-d6ce62f547324137.js:1
+n @ _app-f10df38f71c1285f.js:38Entenda o aviso
+3430-3d770cc90d759bc9.js:1 Unrecognized feature: 'publickey-credentials'.
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+n @ main-b79515c1024d334e.js:1
+u @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+n @ main-b79515c1024d334e.js:1
+u @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+navigateTo @ 3430-3d770cc90d759bc9.js:1
+refresh @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ _app-f10df38f71c1285f.js:11
+(anônimo) @ _app-f10df38f71c1285f.js:6
+onClick @ _app-f10df38f71c1285f.js:11
+(anônimo) @ _app-f10df38f71c1285f.js:1
+eB @ framework-d6ce62f547324137.js:1
+eH @ framework-d6ce62f547324137.js:1
+(anônimo) @ framework-d6ce62f547324137.js:1
+re @ framework-d6ce62f547324137.js:1
+rt @ framework-d6ce62f547324137.js:1
+(anônimo) @ framework-d6ce62f547324137.js:1
+uT @ framework-d6ce62f547324137.js:1
+eM @ framework-d6ce62f547324137.js:1
+ru @ framework-d6ce62f547324137.js:1
+tB @ framework-d6ce62f547324137.js:1
+tD @ framework-d6ce62f547324137.js:1
+n @ _app-f10df38f71c1285f.js:38Entenda o aviso
+3430-3d770cc90d759bc9.js:1 Unrecognized feature: 'speaker-selection'.
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+n @ main-b79515c1024d334e.js:1
+u @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+n @ main-b79515c1024d334e.js:1
+u @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+navigateTo @ 3430-3d770cc90d759bc9.js:1
+refresh @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ _app-f10df38f71c1285f.js:11
+(anônimo) @ _app-f10df38f71c1285f.js:6
+onClick @ _app-f10df38f71c1285f.js:11
+(anônimo) @ _app-f10df38f71c1285f.js:1
+eB @ framework-d6ce62f547324137.js:1
+eH @ framework-d6ce62f547324137.js:1
+(anônimo) @ framework-d6ce62f547324137.js:1
+re @ framework-d6ce62f547324137.js:1
+rt @ framework-d6ce62f547324137.js:1
+(anônimo) @ framework-d6ce62f547324137.js:1
+uT @ framework-d6ce62f547324137.js:1
+eM @ framework-d6ce62f547324137.js:1
+ru @ framework-d6ce62f547324137.js:1
+tB @ framework-d6ce62f547324137.js:1
+tD @ framework-d6ce62f547324137.js:1
+n @ _app-f10df38f71c1285f.js:38Entenda o aviso
+3430-3d770cc90d759bc9.js:1 Unrecognized feature: 'unoptimized-images'.
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+n @ main-b79515c1024d334e.js:1
+u @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+n @ main-b79515c1024d334e.js:1
+u @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+navigateTo @ 3430-3d770cc90d759bc9.js:1
+refresh @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ _app-f10df38f71c1285f.js:11
+(anônimo) @ _app-f10df38f71c1285f.js:6
+onClick @ _app-f10df38f71c1285f.js:11
+(anônimo) @ _app-f10df38f71c1285f.js:1
+eB @ framework-d6ce62f547324137.js:1
+eH @ framework-d6ce62f547324137.js:1
+(anônimo) @ framework-d6ce62f547324137.js:1
+re @ framework-d6ce62f547324137.js:1
+rt @ framework-d6ce62f547324137.js:1
+(anônimo) @ framework-d6ce62f547324137.js:1
+uT @ framework-d6ce62f547324137.js:1
+eM @ framework-d6ce62f547324137.js:1
+ru @ framework-d6ce62f547324137.js:1
+tB @ framework-d6ce62f547324137.js:1
+tD @ framework-d6ce62f547324137.js:1
+n @ _app-f10df38f71c1285f.js:38Entenda o aviso
+3430-3d770cc90d759bc9.js:1 Unrecognized feature: 'unsized-media'.
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+n @ main-b79515c1024d334e.js:1
+u @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+n @ main-b79515c1024d334e.js:1
+u @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+navigateTo @ 3430-3d770cc90d759bc9.js:1
+refresh @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ _app-f10df38f71c1285f.js:11
+(anônimo) @ _app-f10df38f71c1285f.js:6
+onClick @ _app-f10df38f71c1285f.js:11
+(anônimo) @ _app-f10df38f71c1285f.js:1
+eB @ framework-d6ce62f547324137.js:1
+eH @ framework-d6ce62f547324137.js:1
+(anônimo) @ framework-d6ce62f547324137.js:1
+re @ framework-d6ce62f547324137.js:1
+rt @ framework-d6ce62f547324137.js:1
+(anônimo) @ framework-d6ce62f547324137.js:1
+uT @ framework-d6ce62f547324137.js:1
+eM @ framework-d6ce62f547324137.js:1
+ru @ framework-d6ce62f547324137.js:1
+tB @ framework-d6ce62f547324137.js:1
+tD @ framework-d6ce62f547324137.js:1
+n @ _app-f10df38f71c1285f.js:38Entenda o aviso
+3430-3d770cc90d759bc9.js:1 Unrecognized feature: 'pointer-lock'.
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+n @ main-b79515c1024d334e.js:1
+u @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+n @ main-b79515c1024d334e.js:1
+u @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+navigateTo @ 3430-3d770cc90d759bc9.js:1
+refresh @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ _app-f10df38f71c1285f.js:11
+(anônimo) @ _app-f10df38f71c1285f.js:6
+onClick @ _app-f10df38f71c1285f.js:11
+(anônimo) @ _app-f10df38f71c1285f.js:1
+eB @ framework-d6ce62f547324137.js:1
+eH @ framework-d6ce62f547324137.js:1
+(anônimo) @ framework-d6ce62f547324137.js:1
+re @ framework-d6ce62f547324137.js:1
+rt @ framework-d6ce62f547324137.js:1
+(anônimo) @ framework-d6ce62f547324137.js:1
+uT @ framework-d6ce62f547324137.js:1
+eM @ framework-d6ce62f547324137.js:1
+ru @ framework-d6ce62f547324137.js:1
+tB @ framework-d6ce62f547324137.js:1
+tD @ framework-d6ce62f547324137.js:1
+n @ _app-f10df38f71c1285f.js:38Entenda o aviso
+3430-3d770cc90d759bc9.js:1 Allow attribute will take precedence over 'allowfullscreen'.
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+n @ main-b79515c1024d334e.js:1
+u @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+n @ main-b79515c1024d334e.js:1
+u @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+navigateTo @ 3430-3d770cc90d759bc9.js:1
+refresh @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ _app-f10df38f71c1285f.js:11
+(anônimo) @ _app-f10df38f71c1285f.js:6
+onClick @ _app-f10df38f71c1285f.js:11
+(anônimo) @ _app-f10df38f71c1285f.js:1
+eB @ framework-d6ce62f547324137.js:1
+eH @ framework-d6ce62f547324137.js:1
+(anônimo) @ framework-d6ce62f547324137.js:1
+re @ framework-d6ce62f547324137.js:1
+rt @ framework-d6ce62f547324137.js:1
+(anônimo) @ framework-d6ce62f547324137.js:1
+uT @ framework-d6ce62f547324137.js:1
+eM @ framework-d6ce62f547324137.js:1
+ru @ framework-d6ce62f547324137.js:1
+tB @ framework-d6ce62f547324137.js:1
+tD @ framework-d6ce62f547324137.js:1
+n @ _app-f10df38f71c1285f.js:38Entenda o aviso
+3430-3d770cc90d759bc9.js:1 Allow attribute will take precedence over 'allowpaymentrequest'.
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+n @ main-b79515c1024d334e.js:1
+u @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+n @ main-b79515c1024d334e.js:1
+u @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ main-b79515c1024d334e.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+navigateTo @ 3430-3d770cc90d759bc9.js:1
+refresh @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ 3430-3d770cc90d759bc9.js:1
+(anônimo) @ _app-f10df38f71c1285f.js:11
+(anônimo) @ _app-f10df38f71c1285f.js:6
+onClick @ _app-f10df38f71c1285f.js:11
+(anônimo) @ _app-f10df38f71c1285f.js:1
+eB @ framework-d6ce62f547324137.js:1
+eH @ framework-d6ce62f547324137.js:1
+(anônimo) @ framework-d6ce62f547324137.js:1
+re @ framework-d6ce62f547324137.js:1
+rt @ framework-d6ce62f547324137.js:1
+(anônimo) @ framework-d6ce62f547324137.js:1
+uT @ framework-d6ce62f547324137.js:1
+eM @ framework-d6ce62f547324137.js:1
+ru @ framework-d6ce62f547324137.js:1
+tB @ framework-d6ce62f547324137.js:1
+tD @ framework-d6ce62f547324137.js:1
+n @ _app-f10df38f71c1285f.js:38Entenda o aviso
+workspace_iframe.html:32 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.Entenda o erro
+workspace_iframe.html:32 Unrecognized feature: 'ambient-light-sensor'.Entenda o aviso
+workspace_iframe.html:32 Unrecognized feature: 'battery'.Entenda o aviso
+workspace_iframe.html:32 Unrecognized feature: 'execution-while-not-rendered'.Entenda o aviso
+workspace_iframe.html:32 Unrecognized feature: 'execution-while-out-of-viewport'.Entenda o aviso
+workspace_iframe.html:32 Unrecognized feature: 'layout-animations'.Entenda o aviso
+workspace_iframe.html:32 Unrecognized feature: 'legacy-image-formats'.Entenda o aviso
+workspace_iframe.html:32 Unrecognized feature: 'navigation-override'.Entenda o aviso
+workspace_iframe.html:32 Unrecognized feature: 'oversized-images'.Entenda o aviso
+workspace_iframe.html:32 Unrecognized feature: 'publickey-credentials'.Entenda o aviso
+workspace_iframe.html:32 Unrecognized feature: 'speaker-selection'.Entenda o aviso
+workspace_iframe.html:32 Unrecognized feature: 'unoptimized-images'.Entenda o aviso
+workspace_iframe.html:32 Unrecognized feature: 'unsized-media'.Entenda o aviso
+workspace_iframe.html:32 Allow attribute will take precedence over 'allowfullscreen'.Entenda o aviso
+workspace_iframe.html:32 Allow attribute will take precedence over 'allowpaymentrequest'.Entenda o aviso
+Console.js:61 Firebase config: {projectId: 'preskriptor-e8a69', authDomain: 'preskriptor-e8a69.firebaseapp.com', storageBucket: 'preskriptor-e8a69.appspot.com', messagingSenderId: '361328259562', appId: '[PRESENTE]', …}
+Console.js:61 Criada nova instância do Firebase
+Console.js:61 Setting up auth state listener...
+Console.js:61 Auth state changed: User logged in
+Console.js:61 Getting user profile for UID: sQIM0Qi0bQfHqTMfI3kxGNF2uuH2
+Console.js:61 🔍 Getting user profile for UID: sQIM0Qi0bQfHqTMfI3kxGNF2uuH2
+Console.js:61 Trying to get user document with UID as document ID
+Console.js:61 User document reference created: users/sQIM0Qi0bQfHqTMfI3kxGNF2uuH2
+Console.js:61 User document exists? true
+Console.js:61 User data found by direct ID: sQIM0Qi0bQfHqTMfI3kxGNF2uuH2
+Console.js:61 Firestore user profile: {crm: '123456', createdAt: Sat Jul 19 2025 09:08:37 GMT-0300 (Horário Padrão de Brasília), stripeSubscriptionId: null, subscriptionUpdatedAt: null, updatedAt: Sat Jul 19 2025 09:08:37 GMT-0300 (Horário Padrão de Brasília), …}
+Console.js:61 User data set with Firestore profile
+Console.js:61 🔍 Carregando módulos exclusivamente do Firestore
+Console.js:61 📄 Dados do módulo: Algoritmo-Indicação-de-Cirurgia-Bariátrica {tier: 'Free', id: 'Algoritmo-Indicação-de-Cirurgia-Bariátrica', enabled: true, description: '', assistantId: 'asst_ogzkxoMVuL8ycptF3ck0NiWo', …}
+Console.js:61 📄 Dados do módulo: Medicação Antiobesidade (MAO) - Prescrição Inteligente {enabled: false, id: 'Medicação Antiobesidade (MAO) - Prescrição Inteligente', title: 'Prescrição de Medicação Antiobesidade', description: '', assistantId: 'asst_XUTRgxZdUPmZqN2MH1hx3Xn3', …}
+Console.js:61 📄 Dados do módulo: Prontuário Blindado {title: 'Prontuário Blindado', enabled: false, id: 'Prontuário Blindado', tier: 'PRO', description: '', …}
+Console.js:61 📄 Dados do módulo: Reposição de Vitaminas e Minerais {enabled: false, description: '', assistantId: '', title: 'Reposição de Vitaminas e Minerais', tier: 'Premium', …}
+Console.js:61 📄 Dados do módulo: algoritmo-mao {assistantId: 'asst_XUTRgxZdUPmZqN2MH1hx3Xn3', tier: 'PRO', id: 'algoritmo-mao', description: '', title: 'Indicação de Medicação Antiobesidade (MAO)', …}
+Console.js:61 📄 Dados do módulo: bioimpedancia {tier: 'PRO', enabled: true, assistantId: 'asst_IP63O2nevkiKSFOOwwwGfDCl', description: 'adsfasdf adf asdf asdf a', title: 'Bioimpedância', …}
+Console.js:61 📄 Dados do módulo: conversor-semaglutina {title: 'Conversor de Cliques – Semaglutida', enabled: false, assistantId: '', id: 'conversor-semaglutina', tier: 'Free', …}
+Console.js:61 📄 Dados do módulo: diabetes-tipo-2 {title: 'Diabetes Tipo 2', enabled: false, assistantId: '', id: 'diabetes-tipo-2', description: 'Algoritmo para Terapia Medicamentosa do Diabetes.', …}
+Console.js:61 📄 Dados do módulo: exames-hormonais {title: 'Interpretação Avançada de Exames Hormonais', assistantId: 'asst_OXaFuhCznx5EYXDlgfhKrC8T', enabled: false, tier: 'Free', id: 'exames-hormonais', …}
+Console.js:61 📄 Dados do módulo: exames-laboratoriais {tier: 'Premium', title: 'Interpretação de Exames Laboratoriais', assistantId: 'asst_OXaFuhCznx5EYXDlgfhKrC8T', id: 'exames-laboratoriais', description: 'Análise de resutados de exames com IA.', …}
+Console.js:61 📄 Dados do módulo: fitoterapia-na-obesidade {title: 'Fitoterapia na Obesidade', enabled: false, id: 'fitoterapia-na-obesidade', assistantId: '', tier: 'Premium', …}
+Console.js:61 📄 Dados do módulo: pre-diabetes {description: 'Intervenções nutricionais para prevenir a progressão para diabetes tipo 2', assistantId: '', tier: 'Premium', id: 'pre-diabetes', enabled: false, …}
+Console.js:61 📄 Dados do módulo: terapia-hormonal-feminina {assistantId: 'asst_IP63O2nevkiKSFOOwwwGfDCl', enabled: false, id: 'terapia-hormonal-feminina', description: 'Abordagem nutricional para equilíbrio hormonal feminino e questões relacionadas', tier: 'PRO', …}
+Console.js:61 📄 Dados do módulo: terapia-hormonal-masculina {tier: 'Premium', description: 'Orientações nutricionais para otimização hormonal masculina', assistantId: '', title: 'Terapia Hormonal Masculina', enabled: false, …}
+Console.js:61 ✅ Módulos carregados do Firestore: 14
+Console.js:61 📋 Módulos: (14) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}]
+Console.js:61 Firestore timeout reached

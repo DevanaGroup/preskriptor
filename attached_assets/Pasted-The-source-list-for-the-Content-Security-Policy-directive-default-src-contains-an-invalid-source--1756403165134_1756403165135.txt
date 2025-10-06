@@ -1,0 +1,594 @@
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+_app-7a255c24e5511ccd.js:38 
+      /////////////////////
+   ///////////////////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////        Curious and driven?
+  ///////////////@@@@@@@///////        Work with us!
+  ///////////////@@@@@@@///////
+  ///////////////@@@@@@@///////        https://join.replit.com/hack.with.us
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@#//////////////
+   ///////////////////////////
+      /////////////////////
+      
+/~:1 The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+/~:1 The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+/~:1 The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+content.js:1 Object
+_app-7a255c24e5511ccd.js:38 [LaunchDarkly] LaunchDarkly client initialized
+paletteBuilder.js:1 Refused to load the font 'https://js.stripe.com/resources/colfax/Colfax-Medium.woff' because it violates the following Content Security Policy directive: "font-src 'none'".
+
+(anônimo) @ paletteBuilder.js:1
+ Refused to load the font 'https://js.stripe.com/resources/colfax/Colfax-Medium.woff' because it violates the following Content Security Policy directive: "font-src 'none'".
+
+(anônimo) @ paletteBuilder.js:1
+paletteBuilder.js:1 [Report Only] Refused to load the font 'https://js.stripe.com/resources/colfax/Colfax-Medium.woff' because it violates the following Content Security Policy directive: "font-src 'none'".
+
+ [Report Only] Refused to load the font 'https://js.stripe.com/resources/colfax/Colfax-Medium.woff' because it violates the following Content Security Policy directive: "font-src 'none'".
+
+paletteBuilder.js:1 Refused to load the font 'https://js.stripe.com/resources/colfax/Colfax-Medium.woff' because it violates the following Content Security Policy directive: "font-src 'none'".
+
+(anônimo) @ paletteBuilder.js:1
+ Refused to load the font 'https://js.stripe.com/resources/colfax/Colfax-Medium.woff' because it violates the following Content Security Policy directive: "font-src 'none'".
+
+(anônimo) @ paletteBuilder.js:1
+/repls:1 Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.
+_app-7a255c24e5511ccd.js:38 task queue exceeded allotted deadline by 24ms
+(anônimo) @ _app-7a255c24e5511ccd.js:38
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+framework-f2734605c7f0bb61.js:1 Unrecognized feature: 'ambient-light-sensor'.
+_ @ framework-f2734605c7f0bb61.js:1
+framework-f2734605c7f0bb61.js:1 Unrecognized feature: 'battery'.
+_ @ framework-f2734605c7f0bb61.js:1
+framework-f2734605c7f0bb61.js:1 Unrecognized feature: 'execution-while-not-rendered'.
+_ @ framework-f2734605c7f0bb61.js:1
+framework-f2734605c7f0bb61.js:1 Unrecognized feature: 'execution-while-out-of-viewport'.
+_ @ framework-f2734605c7f0bb61.js:1
+framework-f2734605c7f0bb61.js:1 Unrecognized feature: 'layout-animations'.
+_ @ framework-f2734605c7f0bb61.js:1
+framework-f2734605c7f0bb61.js:1 Unrecognized feature: 'legacy-image-formats'.
+_ @ framework-f2734605c7f0bb61.js:1
+framework-f2734605c7f0bb61.js:1 Unrecognized feature: 'navigation-override'.
+_ @ framework-f2734605c7f0bb61.js:1
+framework-f2734605c7f0bb61.js:1 Unrecognized feature: 'oversized-images'.
+_ @ framework-f2734605c7f0bb61.js:1
+framework-f2734605c7f0bb61.js:1 Unrecognized feature: 'publickey-credentials'.
+_ @ framework-f2734605c7f0bb61.js:1
+framework-f2734605c7f0bb61.js:1 Unrecognized feature: 'speaker-selection'.
+_ @ framework-f2734605c7f0bb61.js:1
+framework-f2734605c7f0bb61.js:1 Unrecognized feature: 'unoptimized-images'.
+_ @ framework-f2734605c7f0bb61.js:1
+framework-f2734605c7f0bb61.js:1 Unrecognized feature: 'unsized-media'.
+_ @ framework-f2734605c7f0bb61.js:1
+framework-f2734605c7f0bb61.js:1 Unrecognized feature: 'pointer-lock'.
+_ @ framework-f2734605c7f0bb61.js:1
+framework-f2734605c7f0bb61.js:1 Allow attribute will take precedence over 'allowfullscreen'.
+_ @ framework-f2734605c7f0bb61.js:1
+framework-f2734605c7f0bb61.js:1 Allow attribute will take precedence over 'allowpaymentrequest'.
+_ @ framework-f2734605c7f0bb61.js:1
+stallwart.build.js:1 stallwart: failed ping 1
+stallwart.build.js:1 stallwart: failed ping 2
+workspace_iframe.html?initialPath=%2F&id=%3Arpl%3A:32 Unrecognized feature: 'ambient-light-sensor'.
+workspace_iframe.html?initialPath=%2F&id=%3Arpl%3A:32 Unrecognized feature: 'battery'.
+workspace_iframe.html?initialPath=%2F&id=%3Arpl%3A:32 Unrecognized feature: 'execution-while-not-rendered'.
+workspace_iframe.html?initialPath=%2F&id=%3Arpl%3A:32 Unrecognized feature: 'execution-while-out-of-viewport'.
+workspace_iframe.html?initialPath=%2F&id=%3Arpl%3A:32 Unrecognized feature: 'layout-animations'.
+workspace_iframe.html?initialPath=%2F&id=%3Arpl%3A:32 Unrecognized feature: 'legacy-image-formats'.
+workspace_iframe.html?initialPath=%2F&id=%3Arpl%3A:32 Unrecognized feature: 'navigation-override'.
+workspace_iframe.html?initialPath=%2F&id=%3Arpl%3A:32 Unrecognized feature: 'oversized-images'.
+workspace_iframe.html?initialPath=%2F&id=%3Arpl%3A:32 Unrecognized feature: 'publickey-credentials'.
+workspace_iframe.html?initialPath=%2F&id=%3Arpl%3A:32 Unrecognized feature: 'speaker-selection'.
+workspace_iframe.html?initialPath=%2F&id=%3Arpl%3A:32 Unrecognized feature: 'unoptimized-images'.
+workspace_iframe.html?initialPath=%2F&id=%3Arpl%3A:32 Unrecognized feature: 'unsized-media'.
+workspace_iframe.html?initialPath=%2F&id=%3Arpl%3A:32 Allow attribute will take precedence over 'allowfullscreen'.
+workspace_iframe.html?initialPath=%2F&id=%3Arpl%3A:32 Allow attribute will take precedence over 'allowpaymentrequest'.
+_app-7a255c24e5511ccd.js:38 task queue exceeded allotted deadline by 90ms
+(anônimo) @ _app-7a255c24e5511ccd.js:38
+Console.js:61 Firebase config: Object
+Console.js:61 Criada nova instância do Firebase
+Console.js:61 🔐 USUÁRIO LOGADO - DADOS COMPLETOS: Object
+Console.js:61 📋 Detalhes do perfil Firestore: Object
+Console.js:61 🔥 Dados básicos do Firebase Auth: Object
+Console.js:61 Erro ao buscar conversas: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+Console.js:61 Erro ao carregar histórico: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+Console.js:61 Erro ao criar conversa: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+Console.js:61 Erro ao criar conversa: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+firestore.googleapis.com/google.firestore.v1.Firestore/Write/channel?VER=8&database=projects%2Fpreskriptor-e8a69%2Fdatabases%2F(default)&gsessionid=AvXcd-nsUwixiFaZBKWNTo7hSLKK44E7Mml3CRBoQbI&SID=NQxL8in1apG80IUWl_NCdg&RID=10810&TYPE=terminate&zx=vabpxcm8nhqo:1  Failed to load resource: the server responded with a status of 400 ()
+Console.js:61 🟢 STREAMING INICIADO NO OPENAI.TS
+Console.js:61 🔸 CHUNK NO OPENAI.TS: Olá
+Console.js:61 📨 CHAMANDO onChunk callback com: Olá tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: ,
+Console.js:61 📨 CHAMANDO onChunk callback com: , tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  eu
+Console.js:61 📨 CHAMANDO onChunk callback com:  eu tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  sou
+Console.js:61 📨 CHAMANDO onChunk callback com:  sou tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  o
+Console.js:61 📨 CHAMANDO onChunk callback com:  o tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  Pres
+Console.js:61 📨 CHAMANDO onChunk callback com:  Pres tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: kr
+Console.js:61 📨 CHAMANDO onChunk callback com: kr tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: ip
+Console.js:61 📨 CHAMANDO onChunk callback com: ip tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: tor
+Console.js:61 📨 CHAMANDO onChunk callback com: tor tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  e
+Console.js:61 📨 CHAMANDO onChunk callback com:  e tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  vou
+Console.js:61 📨 CHAMANDO onChunk callback com:  vou tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  te
+Console.js:61 📨 CHAMANDO onChunk callback com:  te tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  ajudar
+Console.js:61 📨 CHAMANDO onChunk callback com:  ajudar tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  a
+Console.js:61 📨 CHAMANDO onChunk callback com:  a tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  selecionar
+Console.js:61 📨 CHAMANDO onChunk callback com:  selecionar tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  o
+Console.js:61 📨 CHAMANDO onChunk callback com:  o tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  melhor
+Console.js:61 📨 CHAMANDO onChunk callback com:  melhor tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  fit
+Console.js:61 📨 CHAMANDO onChunk callback com:  fit tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: oter
+Console.js:61 📨 CHAMANDO onChunk callback com: oter tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: áp
+Console.js:61 📨 CHAMANDO onChunk callback com: áp tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: ico
+Console.js:61 📨 CHAMANDO onChunk callback com: ico tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  para
+Console.js:61 📨 CHAMANDO onChunk callback com:  para tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  o
+Console.js:61 📨 CHAMANDO onChunk callback com:  o tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  seu
+Console.js:61 📨 CHAMANDO onChunk callback com:  seu tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  paciente
+Console.js:61 📨 CHAMANDO onChunk callback com:  paciente tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  com
+Console.js:61 📨 CHAMANDO onChunk callback com:  com tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  dis
+Console.js:61 📨 CHAMANDO onChunk callback com:  dis tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: fun
+Console.js:61 📨 CHAMANDO onChunk callback com: fun tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: ção
+Console.js:61 📨 CHAMANDO onChunk callback com: ção tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  sexual
+Console.js:61 📨 CHAMANDO onChunk callback com:  sexual tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: .
+Console.js:61 📨 CHAMANDO onChunk callback com: . tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:   
+
+Console.js:61 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: Por
+Console.js:61 📨 CHAMANDO onChunk callback com: Por tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  favor
+Console.js:61 📨 CHAMANDO onChunk callback com:  favor tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: ,
+Console.js:61 📨 CHAMANDO onChunk callback com: , tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  me
+Console.js:61 📨 CHAMANDO onChunk callback com:  me tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  diga
+Console.js:61 📨 CHAMANDO onChunk callback com:  diga tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  qual
+Console.js:61 📨 CHAMANDO onChunk callback com:  qual tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  é
+Console.js:61 📨 CHAMANDO onChunk callback com:  é tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  o
+Console.js:61 📨 CHAMANDO onChunk callback com:  o tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  **
+Console.js:61 📨 CHAMANDO onChunk callback com:  ** tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: objet
+Console.js:61 📨 CHAMANDO onChunk callback com: objet tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: ivo
+Console.js:61 📨 CHAMANDO onChunk callback com: ivo tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  principal
+Console.js:61 📨 CHAMANDO onChunk callback com:  principal tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  do
+Console.js:61 📨 CHAMANDO onChunk callback com:  do tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  tratamento
+Console.js:61 📨 CHAMANDO onChunk callback com:  tratamento tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: **
+Console.js:61 📨 CHAMANDO onChunk callback com: ** tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: .
+Console.js:61 📨 CHAMANDO onChunk callback com: . tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  Você
+Console.js:61 📨 CHAMANDO onChunk callback com:  Você tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  pode
+Console.js:61 📨 CHAMANDO onChunk callback com:  pode tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  escolher
+Console.js:61 📨 CHAMANDO onChunk callback com:  escolher tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  uma
+Console.js:61 📨 CHAMANDO onChunk callback com:  uma tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  ou
+Console.js:61 📨 CHAMANDO onChunk callback com:  ou tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  mais
+Console.js:61 📨 CHAMANDO onChunk callback com:  mais tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  das
+Console.js:61 📨 CHAMANDO onChunk callback com:  das tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  opções
+Console.js:61 📨 CHAMANDO onChunk callback com:  opções tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  abaixo
+Console.js:61 📨 CHAMANDO onChunk callback com:  abaixo tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: :
+
+
+Console.js:61 📨 CHAMANDO onChunk callback com: :
+
+ tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: 1
+Console.js:61 📨 CHAMANDO onChunk callback com: 1 tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: .
+Console.js:61 📨 CHAMANDO onChunk callback com: . tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  Melhor
+Console.js:61 📨 CHAMANDO onChunk callback com:  Melhor tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: ar
+Console.js:61 📨 CHAMANDO onChunk callback com: ar tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  função
+Console.js:61 📨 CHAMANDO onChunk callback com:  função tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  er
+Console.js:61 📨 CHAMANDO onChunk callback com:  er tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: é
+Console.js:61 📨 CHAMANDO onChunk callback com: é tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: til
+Console.js:61 📨 CHAMANDO onChunk callback com: til tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  masculina
+Console.js:61 📨 CHAMANDO onChunk callback com:  masculina tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:   
+
+Console.js:61 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: 2
+Console.js:61 📨 CHAMANDO onChunk callback com: 2 tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: .
+Console.js:61 📨 CHAMANDO onChunk callback com: . tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  A
+Console.js:61 📨 CHAMANDO onChunk callback com:  A tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: ument
+Console.js:61 📨 CHAMANDO onChunk callback com: ument tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: ar
+Console.js:61 📨 CHAMANDO onChunk callback com: ar tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  libido
+Console.js:61 📨 CHAMANDO onChunk callback com:  libido tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: /d
+Console.js:61 📨 CHAMANDO onChunk callback com: /d tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: ese
+Console.js:61 📨 CHAMANDO onChunk callback com: ese tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: jo
+Console.js:61 📨 CHAMANDO onChunk callback com: jo tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  sexual
+Console.js:61 📨 CHAMANDO onChunk callback com:  sexual tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:   
+
+Console.js:61 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: 3
+Console.js:61 📨 CHAMANDO onChunk callback com: 3 tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: .
+Console.js:61 📨 CHAMANDO onChunk callback com: . tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  Melhor
+Console.js:61 📨 CHAMANDO onChunk callback com:  Melhor tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: ar
+Console.js:61 📨 CHAMANDO onChunk callback com: ar tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  função
+Console.js:61 📨 CHAMANDO onChunk callback com:  função tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  sexual
+Console.js:61 📨 CHAMANDO onChunk callback com:  sexual tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  feminina
+Console.js:61 📨 CHAMANDO onChunk callback com:  feminina tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  na
+Console.js:61 📨 CHAMANDO onChunk callback com:  na tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  menop
+Console.js:61 📨 CHAMANDO onChunk callback com:  menop tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: ausa
+Console.js:61 📨 CHAMANDO onChunk callback com: ausa tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:   
+
+Console.js:61 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: 4
+Console.js:61 📨 CHAMANDO onChunk callback com: 4 tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: .
+Console.js:61 📨 CHAMANDO onChunk callback com: . tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  Red
+Console.js:61 📨 CHAMANDO onChunk callback com:  Red tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: uz
+Console.js:61 📨 CHAMANDO onChunk callback com: uz tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: ir
+Console.js:61 📨 CHAMANDO onChunk callback com: ir tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  dis
+Console.js:61 📨 CHAMANDO onChunk callback com:  dis tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: fun
+Console.js:61 📨 CHAMANDO onChunk callback com: fun tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: ção
+Console.js:61 📨 CHAMANDO onChunk callback com: ção tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  sexual
+Console.js:61 📨 CHAMANDO onChunk callback com:  sexual tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  por
+Console.js:61 📨 CHAMANDO onChunk callback com:  por tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  antidepress
+Console.js:61 📨 CHAMANDO onChunk callback com:  antidepress tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: ivos
+Console.js:61 📨 CHAMANDO onChunk callback com: ivos tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:   
+
+Console.js:61 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: 5
+Console.js:61 📨 CHAMANDO onChunk callback com: 5 tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: .
+Console.js:61 📨 CHAMANDO onChunk callback com: . tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  A
+Console.js:61 📨 CHAMANDO onChunk callback com:  A tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: ument
+Console.js:61 📨 CHAMANDO onChunk callback com: ument tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: ar
+Console.js:61 📨 CHAMANDO onChunk callback com: ar tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  níveis
+Console.js:61 📨 CHAMANDO onChunk callback com:  níveis tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  de
+Console.js:61 📨 CHAMANDO onChunk callback com:  de tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  testoster
+Console.js:61 📨 CHAMANDO onChunk callback com:  testoster tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: ona
+Console.js:61 📨 CHAMANDO onChunk callback com: ona tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:   
+
+Console.js:61 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: 6
+Console.js:61 📨 CHAMANDO onChunk callback com: 6 tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: .
+Console.js:61 📨 CHAMANDO onChunk callback com: . tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  Melhor
+Console.js:61 📨 CHAMANDO onChunk callback com:  Melhor tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: ar
+Console.js:61 📨 CHAMANDO onChunk callback com: ar tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  circulação
+Console.js:61 📨 CHAMANDO onChunk callback com:  circulação tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  sangu
+Console.js:61 📨 CHAMANDO onChunk callback com:  sangu tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: ínea
+Console.js:61 📨 CHAMANDO onChunk callback com: ínea tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  genital
+Console.js:61 📨 CHAMANDO onChunk callback com:  genital tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:   
+
+Console.js:61 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: 7
+Console.js:61 📨 CHAMANDO onChunk callback com: 7 tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: .
+Console.js:61 📨 CHAMANDO onChunk callback com: . tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  Red
+Console.js:61 📨 CHAMANDO onChunk callback com:  Red tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: uz
+Console.js:61 📨 CHAMANDO onChunk callback com: uz tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: ir
+Console.js:61 📨 CHAMANDO onChunk callback com: ir tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  ansiedade
+Console.js:61 📨 CHAMANDO onChunk callback com:  ansiedade tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  de
+Console.js:61 📨 CHAMANDO onChunk callback com:  de tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  performance
+Console.js:61 📨 CHAMANDO onChunk callback com:  performance tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:   
+
+Console.js:61 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: 8
+Console.js:61 📨 CHAMANDO onChunk callback com: 8 tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: .
+Console.js:61 📨 CHAMANDO onChunk callback com: . tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  A
+Console.js:61 📨 CHAMANDO onChunk callback com:  A tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: ument
+Console.js:61 📨 CHAMANDO onChunk callback com: ument tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: ar
+Console.js:61 📨 CHAMANDO onChunk callback com: ar tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  energia
+Console.js:61 📨 CHAMANDO onChunk callback com:  energia tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  e
+Console.js:61 📨 CHAMANDO onChunk callback com:  e tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  vital
+Console.js:61 📨 CHAMANDO onChunk callback com:  vital tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: idade
+Console.js:61 📨 CHAMANDO onChunk callback com: idade tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  sexual
+Console.js:61 📨 CHAMANDO onChunk callback com:  sexual tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 ✅ STREAMING FINALIZADO NO OPENAI.TS: 568 caracteres

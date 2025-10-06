@@ -1,0 +1,382 @@
+Firebase config: {projectId: 'preskriptor-e8a69', authDomain: 'preskriptor-e8a69.firebaseapp.com', storageBucket: 'preskriptor-e8a69.appspot.com', messagingSenderId: '361328259562', appId: '[PRESENTE]', …}
+Console.js:61 Criada nova instância do Firebase
+Console.js:61 Setting up auth state listener...
+Console.js:61 Auth state changed: User logged in
+Console.js:61 Getting user profile for UID: V17uYhaSupbLGD2LdaSvBBuyzGr2
+2Console.js:61 🔍 Carregando módulos exclusivamente do Firestore
+Console.js:61 Tentativa de buscar pacientes (1/3)
+Console.js:61 📄 Dados do módulo: Algoritmo-Indicação-de-Cirurgia-Bariátrica {title: 'Indicação de Cirurgia Bariátrica', tier: 'Free', id: 'Algoritmo-Indicação-de-Cirurgia-Bariátrica', description: '', icon: 'target', …}
+Console.js:61 📄 Dados do módulo: Medicação Antiobesidade (MAO) - Prescrição Inteligente {icon: 'brain', title: 'Prescrição de Medicação Antiobesidade (MAO)', id: 'Medicação Antiobesidade (MAO) - Prescrição Inteligente', tier: 'PRO', enabled: true, …}
+Console.js:61 📄 Dados do módulo: Prontuário Blindado {enabled: true, tier: 'Premium', assistantId: 'asst_j2C99aw2KyGDImkNPYcDURYT', id: 'Prontuário Blindado', title: 'Prontuário Blindado', …}
+Console.js:61 📄 Dados do módulo: Reposição de Vitaminas e Minerais {icon: '', assistantId: '', tier: 'Premium', description: '', title: 'Reposição de Vitaminas e Minerais', …}
+Console.js:61 📄 Dados do módulo: algoritmo-mao {tier: 'Free', icon: 'calculator', enabled: true, id: 'algoritmo-mao', description: '', …}
+Console.js:61 📄 Dados do módulo: bioimpedancia {tier: 'Free', icon: 'file-text', enabled: true, title: 'Bioimpedância para Texto', assistantId: 'asst_lTmpqwTd2VoRDqoxzAA13n7P', …}
+Console.js:61 📄 Dados do módulo: conversor-semaglutina {icon: 'calculator', enabled: true, tier: 'Free', id: 'conversor-semaglutina', assistantId: 'asst_rVN12nFSfsZY6R8X99UyWjOP', …}
+Console.js:61 📄 Dados do módulo: diabetes-tipo-2 {tier: 'Premium', enabled: false, assistantId: '', icon: '', id: 'diabetes-tipo-2', …}
+Console.js:61 📄 Dados do módulo: exames-hormonais {id: 'exames-hormonais', title: 'Interpretação Avançada de Exames Hormonais', assistantId: 'asst_OXaFuhCznx5EYXDlgfhKrC8T', icon: '', description: 'Análise detalhada de perfis hormonais e recomendações nutricionais personalizadas', …}
+Console.js:61 📄 Dados do módulo: exames-laboratoriais {title: 'Interpretação de Exames Laboratoriais', id: 'exames-laboratoriais', assistantId: 'asst_OXaFuhCznx5EYXDlgfhKrC8T', enabled: true, description: 'Análise de resutados de exames com IA.', …}
+Console.js:61 📄 Dados do módulo: fitoterapia-na-obesidade {tier: 'Free', description: '', assistantId: 'asst_o2175y3b1TFUte2fC1c0L51H', title: 'Fitoterapios nos Distúrbios Sexuais', enabled: true, …}
+Console.js:61 📄 Dados do módulo: fitoterapia-na-obesidade-vf {icon: 'leaf', assistantId: 'asst_HRncqcptYPleLodvW9ke9OPA', id: 'fitoterapia-na-obesidade-vf', title: 'Fitoterápicos na Obesidade', enabled: true, …}
+Console.js:61 📄 Dados do módulo: medicacoes-impacto-no-peso {enabled: true, title: 'Medicações X Impacto no Peso', tier: 'PRO', description: 'Classifica as medicações em uso pelo pelo paciente em relação ao seu impacto no peso corporal.', assistantId: 'asst_dBebapJlpIQ0prWpFHJFiy85', …}
+Console.js:61 📄 Dados do módulo: pre-diabetes {title: 'Pré-Diabetes', assistantId: '', id: 'pre-diabetes', tier: 'Premium', description: 'Intervenções nutricionais para prevenir a progressão para diabetes tipo 2', …}
+Console.js:61 📄 Dados do módulo: terapia-hormonal-feminina {id: 'terapia-hormonal-feminina', title: 'Terapia Hormonal Feminina', tier: 'PRO', assistantId: 'asst_IP63O2nevkiKSFOOwwwGfDCl', enabled: false, …}
+Console.js:61 📄 Dados do módulo: terapia-hormonal-masculina {tier: 'Premium', icon: '', enabled: false, assistantId: '', title: 'Terapia Hormonal Masculina', …}
+Console.js:61 ✅ Módulos carregados do Firestore: 16
+Console.js:61 📋 Módulos: (16) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}]
+Console.js:61 📄 Dados do módulo: Algoritmo-Indicação-de-Cirurgia-Bariátrica {title: 'Indicação de Cirurgia Bariátrica', tier: 'Free', id: 'Algoritmo-Indicação-de-Cirurgia-Bariátrica', description: '', icon: 'target', …}
+Console.js:61 📄 Dados do módulo: Medicação Antiobesidade (MAO) - Prescrição Inteligente {icon: 'brain', title: 'Prescrição de Medicação Antiobesidade (MAO)', id: 'Medicação Antiobesidade (MAO) - Prescrição Inteligente', tier: 'PRO', enabled: true, …}
+Console.js:61 📄 Dados do módulo: Prontuário Blindado {enabled: true, tier: 'Premium', assistantId: 'asst_j2C99aw2KyGDImkNPYcDURYT', id: 'Prontuário Blindado', title: 'Prontuário Blindado', …}
+Console.js:61 📄 Dados do módulo: Reposição de Vitaminas e Minerais {icon: '', assistantId: '', tier: 'Premium', description: '', title: 'Reposição de Vitaminas e Minerais', …}
+Console.js:61 📄 Dados do módulo: algoritmo-mao {tier: 'Free', icon: 'calculator', enabled: true, id: 'algoritmo-mao', description: '', …}
+Console.js:61 📄 Dados do módulo: bioimpedancia {tier: 'Free', icon: 'file-text', enabled: true, title: 'Bioimpedância para Texto', assistantId: 'asst_lTmpqwTd2VoRDqoxzAA13n7P', …}
+Console.js:61 📄 Dados do módulo: conversor-semaglutina {icon: 'calculator', enabled: true, tier: 'Free', id: 'conversor-semaglutina', assistantId: 'asst_rVN12nFSfsZY6R8X99UyWjOP', …}
+Console.js:61 📄 Dados do módulo: diabetes-tipo-2 {tier: 'Premium', enabled: false, assistantId: '', icon: '', id: 'diabetes-tipo-2', …}
+Console.js:61 📄 Dados do módulo: exames-hormonais {id: 'exames-hormonais', title: 'Interpretação Avançada de Exames Hormonais', assistantId: 'asst_OXaFuhCznx5EYXDlgfhKrC8T', icon: '', description: 'Análise detalhada de perfis hormonais e recomendações nutricionais personalizadas', …}
+Console.js:61 📄 Dados do módulo: exames-laboratoriais {title: 'Interpretação de Exames Laboratoriais', id: 'exames-laboratoriais', assistantId: 'asst_OXaFuhCznx5EYXDlgfhKrC8T', enabled: true, description: 'Análise de resutados de exames com IA.', …}
+Console.js:61 📄 Dados do módulo: fitoterapia-na-obesidade {tier: 'Free', description: '', assistantId: 'asst_o2175y3b1TFUte2fC1c0L51H', title: 'Fitoterapios nos Distúrbios Sexuais', enabled: true, …}
+Console.js:61 📄 Dados do módulo: fitoterapia-na-obesidade-vf {icon: 'leaf', assistantId: 'asst_HRncqcptYPleLodvW9ke9OPA', id: 'fitoterapia-na-obesidade-vf', title: 'Fitoterápicos na Obesidade', enabled: true, …}
+Console.js:61 📄 Dados do módulo: medicacoes-impacto-no-peso {enabled: true, title: 'Medicações X Impacto no Peso', tier: 'PRO', description: 'Classifica as medicações em uso pelo pelo paciente em relação ao seu impacto no peso corporal.', assistantId: 'asst_dBebapJlpIQ0prWpFHJFiy85', …}
+Console.js:61 📄 Dados do módulo: pre-diabetes {title: 'Pré-Diabetes', assistantId: '', id: 'pre-diabetes', tier: 'Premium', description: 'Intervenções nutricionais para prevenir a progressão para diabetes tipo 2', …}
+Console.js:61 📄 Dados do módulo: terapia-hormonal-feminina {id: 'terapia-hormonal-feminina', title: 'Terapia Hormonal Feminina', tier: 'PRO', assistantId: 'asst_IP63O2nevkiKSFOOwwwGfDCl', enabled: false, …}
+Console.js:61 📄 Dados do módulo: terapia-hormonal-masculina {tier: 'Premium', icon: '', enabled: false, assistantId: '', title: 'Terapia Hormonal Masculina', …}
+Console.js:61 ✅ Módulos carregados do Firestore: 16
+Console.js:61 📋 Módulos: (16) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}]
+Console.js:61 Pacientes carregados com sucesso: 0
+Console.js:61 Pacientes carregados: 0
+Console.js:61 Módulos carregados (todos): 16
+Console.js:61 Módulos ativos: 10
+Console.js:61 [LOG] Alex Alvarenga: Iniciou consulta
+Console.js:61 Consumindo crédito para usuário: V17uYhaSupbLGD2LdaSvBBuyzGr2 (primeira mensagem)
+Console.js:61 Crédito consumido com sucesso
+Console.js:61 [LOG] Alex Alvarenga: Enviou mensagem
+Console.js:61 🚀 FRONTEND STREAM: Iniciando requisição streaming
+Console.js:61 🔄 ChatMessage effect - isUser: true, content length: 3, isStreaming: false
+Console.js:61 🔵 USER MODE: Exibindo mensagem do usuário: "Olá..."
+Console.js:61 🔄 ChatMessage effect - isUser: false, content length: 0, isStreaming: true
+Console.js:61 📡 FRONTEND STREAM: Resposta recebida, iniciando leitura do stream
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (5 bytes): ":ok\n\n"
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (147 bytes): "data: {\"type\":\"start\",\"threadId\":\"thread_3tpbN0NBoCHdnJPfectc0CMk\"}\n\ndata: {\"type\":\"chunk\",\"content\":\"Olá\"}\n\ndata: {\"type\":\"chunk\",\"content\":\",\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento start: {type: 'start', threadId: 'thread_3tpbN0NBoCHdnJPfectc0CMk'}
+Console.js:61 🚀 FRONTEND STREAM: Iniciando streaming real
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: 'Olá'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "Olá" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ','}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "," (1 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (81 bytes): "data: {\"type\":\"chunk\",\"content\":\" eu\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" sou\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' eu'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " eu" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' sou'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " sou" (4 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (39 bytes): "data: {\"type\":\"chunk\",\"content\":\" o\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' o'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " o" (2 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (42 bytes): "data: {\"type\":\"chunk\",\"content\":\" Pres\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' Pres'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " Pres" (5 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (39 bytes): "data: {\"type\":\"chunk\",\"content\":\"Kr\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: 'Kr'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "Kr" (2 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (39 bytes): "data: {\"type\":\"chunk\",\"content\":\"ip\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: 'ip'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "ip" (2 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (78 bytes): "data: {\"type\":\"chunk\",\"content\":\"tor\"}\n\ndata: {\"type\":\"chunk\",\"content\":\",\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: 'tor'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "tor" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ','}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "," (1 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (85 bytes): "data: {\"type\":\"chunk\",\"content\":\" seu\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" assist\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' seu'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " seu" (4 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' assist'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " assist" (7 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (83 bytes): "data: {\"type\":\"chunk\",\"content\":\"ente\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" clín\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: 'ente'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "ente" (4 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' clín'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " clín" (5 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (40 bytes): "data: {\"type\":\"chunk\",\"content\":\"ico\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: 'ico'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "ico" (3 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (38 bytes): "data: {\"type\":\"chunk\",\"content\":\".\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: '.'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "." (1 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (83 bytes): "data: {\"type\":\"chunk\",\"content\":\"  \\n\"}\n\ndata: {\"type\":\"chunk\",\"content\":\"Estou\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: '  \n'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "  
+" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: 'Estou'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "Estou" (5 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (42 bytes): "data: {\"type\":\"chunk\",\"content\":\" aqui\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' aqui'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " aqui" (5 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (42 bytes): "data: {\"type\":\"chunk\",\"content\":\" para\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' para'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " para" (5 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (84 bytes): "data: {\"type\":\"chunk\",\"content\":\" te\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" ajudar\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' te'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " te" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' ajudar'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " ajudar" (7 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (84 bytes): "data: {\"type\":\"chunk\",\"content\":\" a\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" avaliar\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' a'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " a" (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' avaliar'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " avaliar" (8 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (40 bytes): "data: {\"type\":\"chunk\",\"content\":\" se\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' se'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " se" (3 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (39 bytes): "data: {\"type\":\"chunk\",\"content\":\" o\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' o'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " o" (2 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (41 bytes): "data: {\"type\":\"chunk\",\"content\":\" seu\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' seu'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " seu" (4 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (46 bytes): "data: {\"type\":\"chunk\",\"content\":\" paciente\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' paciente'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " paciente" (9 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (44 bytes): "data: {\"type\":\"chunk\",\"content\":\" possui\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' possui'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " possui" (7 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (47 bytes): "data: {\"type\":\"chunk\",\"content\":\" indicação\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' indicação'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " indicação" (10 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (42 bytes): "data: {\"type\":\"chunk\",\"content\":\" para\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' para'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " para" (5 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (331 bytes): "data: {\"type\":\"chunk\",\"content\":\" cirurgia\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" bari\"}\n\ndata: {\"type\":\"chunk\",\"content\":\"á\"}\n\ndata: {\"type\":\"chunk\",\"content\":\"trica\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" ou\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" metab\"}\n\ndata: {\"type\":\"chunk\",\"content\":\"ólica\"}\n\ndata: {\"type\":\"chunk\",\"content\":\",\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' cirurgia'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " cirurgia" (9 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' bari'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " bari" (5 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: 'á'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "á" (1 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: 'trica'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "trica" (5 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' ou'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " ou" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' metab'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " metab" (6 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: 'ólica'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "ólica" (5 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ','}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "," (1 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (41 bytes): "data: {\"type\":\"chunk\",\"content\":\" com\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' com'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " com" (4 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (42 bytes): "data: {\"type\":\"chunk\",\"content\":\" base\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' base'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " base" (5 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (41 bytes): "data: {\"type\":\"chunk\",\"content\":\" nas\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' nas'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " nas" (4 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (42 bytes): "data: {\"type\":\"chunk\",\"content\":\" dire\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' dire'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " dire" (5 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (43 bytes): "data: {\"type\":\"chunk\",\"content\":\"trizes\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: 'trizes'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "trizes" (6 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (84 bytes): "data: {\"type\":\"chunk\",\"content\":\" atuais\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" do\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' atuais'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " atuais" (7 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' do'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " do" (3 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (91 bytes): "data: {\"type\":\"chunk\",\"content\":\" Conselho\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" Federal\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' Conselho'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " Conselho" (9 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' Federal'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " Federal" (8 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (40 bytes): "data: {\"type\":\"chunk\",\"content\":\" de\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' de'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " de" (3 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (46 bytes): "data: {\"type\":\"chunk\",\"content\":\" Medicina\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' Medicina'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " Medicina" (9 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (39 bytes): "data: {\"type\":\"chunk\",\"content\":\" (\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' ('}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " (" (2 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (116 bytes): "data: {\"type\":\"chunk\",\"content\":\"CF\"}\n\ndata: {\"type\":\"chunk\",\"content\":\"M\"}\n\ndata: {\"type\":\"chunk\",\"content\":\").\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: 'CF'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "CF" (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: 'M'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "M" (1 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ').'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: ")." (2 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (122 bytes): "data: {\"type\":\"chunk\",\"content\":\"  \\n\"}\n\ndata: {\"type\":\"chunk\",\"content\":\"🔹\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" Para\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: '  \n'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "  
+" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: '🔹'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "🔹" (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' Para'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " Para" (5 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (45 bytes): "data: {\"type\":\"chunk\",\"content\":\" começar\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' começar'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " começar" (8 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (38 bytes): "data: {\"type\":\"chunk\",\"content\":\",\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ','}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "," (1 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (84 bytes): "data: {\"type\":\"chunk\",\"content\":\" por\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" favor\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' por'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " por" (4 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' favor'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " favor" (6 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (85 bytes): "data: {\"type\":\"chunk\",\"content\":\" me\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" informe\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' me'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " me" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' informe'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " informe" (8 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (40 bytes): "data: {\"type\":\"chunk\",\"content\":\" os\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' os'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " os" (3 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (90 bytes): "data: {\"type\":\"chunk\",\"content\":\" seguintes\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" dados\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' seguintes'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " seguintes" (10 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' dados'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " dados" (6 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (40 bytes): "data: {\"type\":\"chunk\",\"content\":\" do\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' do'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " do" (3 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (46 bytes): "data: {\"type\":\"chunk\",\"content\":\" paciente\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' paciente'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " paciente" (9 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (40 bytes): "data: {\"type\":\"chunk\",\"content\":\":\\n\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ':\n'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: ":
+" (2 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (38 bytes): "data: {\"type\":\"chunk\",\"content\":\"-\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: '-'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "-" (1 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (40 bytes): "data: {\"type\":\"chunk\",\"content\":\" Id\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' Id'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " Id" (3 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (79 bytes): "data: {\"type\":\"chunk\",\"content\":\"ade\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" (\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: 'ade'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "ade" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' ('}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " (" (2 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (81 bytes): "data: {\"type\":\"chunk\",\"content\":\"em\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" anos\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: 'em'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "em" (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' anos'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " anos" (5 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (38 bytes): "data: {\"type\":\"chunk\",\"content\":\")\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ')'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: ")" (1 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (41 bytes): "data: {\"type\":\"chunk\",\"content\":\"  \\n\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: '  \n'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "  
+" (3 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (38 bytes): "data: {\"type\":\"chunk\",\"content\":\"-\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: '-'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "-" (1 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (42 bytes): "data: {\"type\":\"chunk\",\"content\":\" Peso\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' Peso'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " Peso" (5 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (78 bytes): "data: {\"type\":\"chunk\",\"content\":\" (\"}\n\ndata: {\"type\":\"chunk\",\"content\":\"em\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' ('}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " (" (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: 'em'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "em" (2 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (40 bytes): "data: {\"type\":\"chunk\",\"content\":\" kg\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' kg'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " kg" (3 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (121 bytes): "data: {\"type\":\"chunk\",\"content\":\")\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" e\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" altura\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ')'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: ")" (1 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' e'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " e" (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' altura'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " altura" (7 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (78 bytes): "data: {\"type\":\"chunk\",\"content\":\" (\"}\n\ndata: {\"type\":\"chunk\",\"content\":\"em\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' ('}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " (" (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: 'em'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "em" (2 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (82 bytes): "data: {\"type\":\"chunk\",\"content\":\" metros\"}\n\ndata: {\"type\":\"chunk\",\"content\":\")\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' metros'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " metros" (7 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ')'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: ")" (1 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (41 bytes): "data: {\"type\":\"chunk\",\"content\":\"  \\n\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: '  \n'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "  
+" (3 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (39 bytes): "data: {\"type\":\"chunk\",\"content\":\"💡\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: '💡'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "💡" (2 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (40 bytes): "data: {\"type\":\"chunk\",\"content\":\" Se\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' Se'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " Se" (3 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (44 bytes): "data: {\"type\":\"chunk\",\"content\":\" prefer\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' prefer'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " prefer" (7 chars)
+Console.js:61 📥 FRONTEND STREAM: Chunk bruto recebido (1906 bytes): "data: {\"type\":\"chunk\",\"content\":\"ir\"}\n\ndata: {\"type\":\"chunk\",\"content\":\",\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" você\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" pode\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" informar\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" diretamente\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" o\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" IM\"}\n\ndata: {\"type\":\"chunk\",\"content\":\"C\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" (\"}\n\ndata: {\"type\":\"chunk\",\"content\":\"í\"}\n\ndata: {\"type\":\"chunk\",\"content\":\"ndice\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" de\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" massa\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" corp\"}\n\ndata: {\"type\":\"chunk\",\"content\":\"ó\"}\n\ndata: {\"type\":\"chunk\",\"content\":\"rea\"}\n\ndata: {\"type\":\"chunk\",\"content\":\").\"}\n\ndata: {\"type\":\"chunk\",\"content\":\"  \\n\"}\n\ndata: {\"type\":\"chunk\",\"content\":\"Assim\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" que\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" os\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" dados\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" forem\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" inform\"}\n\ndata: {\"type\":\"chunk\",\"content\":\"ados\"}\n\ndata: {\"type\":\"chunk\",\"content\":\",\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" sigo\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" com\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" a\"}\n\ndata: {\"type\":\"chunk\",\"content\":\" análise\"}\n\ndata: {\"type\":\"chunk\",\"content\":\"!\"}\n\ndata: {\"type\":\"done\",\"threadId\":\"thread_3tpbN0NBoCHdnJPfectc0CMk\",\"fullContent\":\"Olá, eu sou o PresKriptor, seu assistente clínico.  \\nEstou aqui para te ajudar a avaliar se o seu paciente possui indicação para cirurgia bariátrica ou metabólica, com base nas diretrizes atuais do Conselho Federal de Medicina (CFM).  \\n🔹 Para começar, por favor me informe os seguintes dados do paciente:\\n- Idade (em anos)  \\n- Peso (em kg) e altura (em metros)  \\n💡 Se preferir, você pode informar diretamente o IMC (índice de massa corpórea).  \\nAssim que os dados forem informados, sigo com a análise!\"}\n\n"
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: 'ir'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "ir" (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ','}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "," (1 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' você'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " você" (5 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' pode'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " pode" (5 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' informar'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " informar" (9 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' diretamente'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " diretamente" (12 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' o'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " o" (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' IM'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " IM" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: 'C'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "C" (1 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' ('}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " (" (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: 'í'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "í" (1 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: 'ndice'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "ndice" (5 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' de'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " de" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' massa'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " massa" (6 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' corp'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " corp" (5 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: 'ó'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "ó" (1 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: 'rea'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "rea" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ').'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: ")." (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: '  \n'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "  
+" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: 'Assim'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "Assim" (5 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' que'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " que" (4 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' os'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " os" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' dados'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " dados" (6 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' forem'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " forem" (6 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' inform'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " inform" (7 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: 'ados'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "ados" (4 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ','}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "," (1 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' sigo'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " sigo" (5 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' com'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " com" (4 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' a'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " a" (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: ' análise'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: " análise" (8 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento chunk: {type: 'chunk', content: '!'}
+Console.js:61 📡 FRONTEND STREAM: Processando chunk: "!" (1 chars)
+Console.js:61 🔄 FRONTEND STREAM: Processando evento done: {type: 'done', threadId: 'thread_3tpbN0NBoCHdnJPfectc0CMk', fullContent: 'Olá, eu sou o PresKriptor, seu assistente clínico.…ue os dados forem informados, sigo com a análise!'}
+Console.js:61 ✅ FRONTEND STREAM: Stream concluído. Total: 503 chars
+Console.js:61 🔄 ChatMessage effect - isUser: false, content length: 503, isStreaming: false
+Console.js:61 🟢 COMPLETE MODE: Exibindo mensagem completa: "Olá, eu sou o PresKriptor, seu assistente clínico...."

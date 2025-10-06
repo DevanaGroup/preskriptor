@@ -1,0 +1,2483 @@
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+_app-7a255c24e5511ccd.js:38 
+      /////////////////////
+   ///////////////////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////        Curious and driven?
+  ///////////////@@@@@@@///////        Work with us!
+  ///////////////@@@@@@@///////
+  ///////////////@@@@@@@///////        https://join.replit.com/hack.with.us
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@#//////////////
+   ///////////////////////////
+      /////////////////////
+      
+/~:1 The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+/~:1 The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+/~:1 The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+content.js:1 Object
+_app-7a255c24e5511ccd.js:38 [LaunchDarkly] LaunchDarkly client initialized
+paletteBuilder.js:1 Refused to load the font 'https://js.stripe.com/resources/colfax/Colfax-Medium.woff' because it violates the following Content Security Policy directive: "font-src 'none'".
+
+(anônimo) @ paletteBuilder.js:1
+ Refused to load the font 'https://js.stripe.com/resources/colfax/Colfax-Medium.woff' because it violates the following Content Security Policy directive: "font-src 'none'".
+
+(anônimo) @ paletteBuilder.js:1
+paletteBuilder.js:1 [Report Only] Refused to load the font 'https://js.stripe.com/resources/colfax/Colfax-Medium.woff' because it violates the following Content Security Policy directive: "font-src 'none'".
+
+ [Report Only] Refused to load the font 'https://js.stripe.com/resources/colfax/Colfax-Medium.woff' because it violates the following Content Security Policy directive: "font-src 'none'".
+
+paletteBuilder.js:1 Refused to load the font 'https://js.stripe.com/resources/colfax/Colfax-Medium.woff' because it violates the following Content Security Policy directive: "font-src 'none'".
+
+(anônimo) @ paletteBuilder.js:1
+ Refused to load the font 'https://js.stripe.com/resources/colfax/Colfax-Medium.woff' because it violates the following Content Security Policy directive: "font-src 'none'".
+
+(anônimo) @ paletteBuilder.js:1
+/repls:1 Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.
+_app-7a255c24e5511ccd.js:38 task queue exceeded allotted deadline by 24ms
+(anônimo) @ _app-7a255c24e5511ccd.js:38
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Unrecognized feature: 'ambient-light-sensor'.
+Unrecognized feature: 'ambient-light-sensor'.
+Unrecognized feature: 'ambient-light-sensor'.
+Unrecognized feature: 'ambient-light-sensor'.
+Unrecognized feature: 'ambient-light-sensor'.
+Unrecognized feature: 'battery'.
+Unrecognized feature: 'battery'.
+Unrecognized feature: 'battery'.
+Unrecognized feature: 'battery'.
+Unrecognized feature: 'battery'.
+Unrecognized feature: 'execution-while-not-rendered'.
+Unrecognized feature: 'execution-while-not-rendered'.
+Unrecognized feature: 'execution-while-not-rendered'.
+Unrecognized feature: 'execution-while-not-rendered'.
+Unrecognized feature: 'execution-while-not-rendered'.
+Unrecognized feature: 'execution-while-out-of-viewport'.
+Unrecognized feature: 'execution-while-out-of-viewport'.
+Unrecognized feature: 'execution-while-out-of-viewport'.
+Unrecognized feature: 'execution-while-out-of-viewport'.
+Unrecognized feature: 'execution-while-out-of-viewport'.
+Unrecognized feature: 'layout-animations'.
+Unrecognized feature: 'layout-animations'.
+Unrecognized feature: 'layout-animations'.
+Unrecognized feature: 'layout-animations'.
+Unrecognized feature: 'layout-animations'.
+Unrecognized feature: 'legacy-image-formats'.
+Unrecognized feature: 'legacy-image-formats'.
+Unrecognized feature: 'legacy-image-formats'.
+Unrecognized feature: 'legacy-image-formats'.
+Unrecognized feature: 'legacy-image-formats'.
+Unrecognized feature: 'navigation-override'.
+Unrecognized feature: 'navigation-override'.
+Unrecognized feature: 'navigation-override'.
+Unrecognized feature: 'navigation-override'.
+Unrecognized feature: 'navigation-override'.
+Unrecognized feature: 'oversized-images'.
+Unrecognized feature: 'oversized-images'.
+Unrecognized feature: 'oversized-images'.
+Unrecognized feature: 'oversized-images'.
+Unrecognized feature: 'oversized-images'.
+Unrecognized feature: 'publickey-credentials'.
+Unrecognized feature: 'publickey-credentials'.
+Unrecognized feature: 'publickey-credentials'.
+Unrecognized feature: 'publickey-credentials'.
+Unrecognized feature: 'publickey-credentials'.
+Unrecognized feature: 'speaker-selection'.
+Unrecognized feature: 'speaker-selection'.
+Unrecognized feature: 'speaker-selection'.
+Unrecognized feature: 'speaker-selection'.
+Unrecognized feature: 'speaker-selection'.
+Unrecognized feature: 'unoptimized-images'.
+Unrecognized feature: 'unoptimized-images'.
+Unrecognized feature: 'unoptimized-images'.
+Unrecognized feature: 'unoptimized-images'.
+Unrecognized feature: 'unoptimized-images'.
+Unrecognized feature: 'unsized-media'.
+Unrecognized feature: 'unsized-media'.
+Unrecognized feature: 'unsized-media'.
+Unrecognized feature: 'unsized-media'.
+Unrecognized feature: 'unsized-media'.
+framework-f2734605c7f0bb61.js:1 Unrecognized feature: 'pointer-lock'.
+_ @ framework-f2734605c7f0bb61.js:1
+Allow attribute will take precedence over 'allowfullscreen'.
+Allow attribute will take precedence over 'allowfullscreen'.
+Allow attribute will take precedence over 'allowfullscreen'.
+Allow attribute will take precedence over 'allowfullscreen'.
+Allow attribute will take precedence over 'allowfullscreen'.
+Allow attribute will take precedence over 'allowpaymentrequest'.
+Allow attribute will take precedence over 'allowpaymentrequest'.
+Allow attribute will take precedence over 'allowpaymentrequest'.
+Allow attribute will take precedence over 'allowpaymentrequest'.
+Allow attribute will take precedence over 'allowpaymentrequest'.
+stallwart.build.js:1 stallwart: failed ping 1
+stallwart.build.js:1 stallwart: failed ping 2
+_app-7a255c24e5511ccd.js:38 task queue exceeded allotted deadline by 90ms
+(anônimo) @ _app-7a255c24e5511ccd.js:38
+eruda.js:2 Firebase config: Object
+eruda.js:2 Criada nova instância do Firebase
+eruda.js:2 🔐 USUÁRIO LOGADO - DADOS COMPLETOS: Object
+eruda.js:2 📋 Detalhes do perfil Firestore: Object
+eruda.js:2 🔥 Dados básicos do Firebase Auth: Object
+eruda.js:2 Erro ao buscar conversas: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+eruda.js:2 Erro ao carregar histórico: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+eruda.js:2 Erro ao criar conversa: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+eruda.js:2 Erro ao criar conversa: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+firestore.googleapis.com/google.firestore.v1.Firestore/Write/channel?VER=8&database=projects%2Fpreskriptor-e8a69%2Fdatabases%2F(default)&gsessionid=AvXcd-nsUwixiFaZBKWNTo7hSLKK44E7Mml3CRBoQbI&SID=NQxL8in1apG80IUWl_NCdg&RID=10810&TYPE=terminate&zx=vabpxcm8nhqo:1  Failed to load resource: the server responded with a status of 400 ()
+firestore.googleapis.com/google.firestore.v1.Firestore/Write/channel?VER=8&database=projects%2Fpreskriptor-e8a69%2Fdatabases%2F(default)&gsessionid=AvXcd-nsUwixiFaZBKWNTo7hSLKK44E7Mml3CRBoQbI&SID=NQxL8in1apG80IUWl_NCdg&RID=10810&TYPE=terminate&zx=vabpxcm8nhqo:1  Failed to load resource: the server responded with a status of 400 ()
+eruda.js:2 🟢 STREAMING INICIADO NO OPENAI.TS
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: Olá
+eruda.js:2 📨 CHAMANDO onChunk callback com: Olá tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ,
+eruda.js:2 📨 CHAMANDO onChunk callback com: , tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  eu
+eruda.js:2 📨 CHAMANDO onChunk callback com:  eu tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  sou
+eruda.js:2 📨 CHAMANDO onChunk callback com:  sou tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  o
+eruda.js:2 📨 CHAMANDO onChunk callback com:  o tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  Pres
+eruda.js:2 📨 CHAMANDO onChunk callback com:  Pres tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: kr
+eruda.js:2 📨 CHAMANDO onChunk callback com: kr tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ip
+eruda.js:2 📨 CHAMANDO onChunk callback com: ip tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: tor
+eruda.js:2 📨 CHAMANDO onChunk callback com: tor tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  e
+eruda.js:2 📨 CHAMANDO onChunk callback com:  e tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  vou
+eruda.js:2 📨 CHAMANDO onChunk callback com:  vou tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  te
+eruda.js:2 📨 CHAMANDO onChunk callback com:  te tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  ajudar
+eruda.js:2 📨 CHAMANDO onChunk callback com:  ajudar tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  a
+eruda.js:2 📨 CHAMANDO onChunk callback com:  a tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  selecionar
+eruda.js:2 📨 CHAMANDO onChunk callback com:  selecionar tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  o
+eruda.js:2 📨 CHAMANDO onChunk callback com:  o tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  melhor
+eruda.js:2 📨 CHAMANDO onChunk callback com:  melhor tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  fit
+eruda.js:2 📨 CHAMANDO onChunk callback com:  fit tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: oter
+eruda.js:2 📨 CHAMANDO onChunk callback com: oter tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: áp
+eruda.js:2 📨 CHAMANDO onChunk callback com: áp tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ico
+eruda.js:2 📨 CHAMANDO onChunk callback com: ico tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  para
+eruda.js:2 📨 CHAMANDO onChunk callback com:  para tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  o
+eruda.js:2 📨 CHAMANDO onChunk callback com:  o tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  seu
+eruda.js:2 📨 CHAMANDO onChunk callback com:  seu tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  paciente
+eruda.js:2 📨 CHAMANDO onChunk callback com:  paciente tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  com
+eruda.js:2 📨 CHAMANDO onChunk callback com:  com tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  dis
+eruda.js:2 📨 CHAMANDO onChunk callback com:  dis tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: fun
+eruda.js:2 📨 CHAMANDO onChunk callback com: fun tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ção
+eruda.js:2 📨 CHAMANDO onChunk callback com: ção tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  sexual
+eruda.js:2 📨 CHAMANDO onChunk callback com:  sexual tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: .
+eruda.js:2 📨 CHAMANDO onChunk callback com: . tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:   
+
+eruda.js:2 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: Por
+eruda.js:2 📨 CHAMANDO onChunk callback com: Por tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  favor
+eruda.js:2 📨 CHAMANDO onChunk callback com:  favor tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ,
+eruda.js:2 📨 CHAMANDO onChunk callback com: , tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  me
+eruda.js:2 📨 CHAMANDO onChunk callback com:  me tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  diga
+eruda.js:2 📨 CHAMANDO onChunk callback com:  diga tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  qual
+eruda.js:2 📨 CHAMANDO onChunk callback com:  qual tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  é
+eruda.js:2 📨 CHAMANDO onChunk callback com:  é tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  o
+eruda.js:2 📨 CHAMANDO onChunk callback com:  o tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  **
+eruda.js:2 📨 CHAMANDO onChunk callback com:  ** tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: objet
+eruda.js:2 📨 CHAMANDO onChunk callback com: objet tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ivo
+eruda.js:2 📨 CHAMANDO onChunk callback com: ivo tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  principal
+eruda.js:2 📨 CHAMANDO onChunk callback com:  principal tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  do
+eruda.js:2 📨 CHAMANDO onChunk callback com:  do tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  tratamento
+eruda.js:2 📨 CHAMANDO onChunk callback com:  tratamento tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: **
+eruda.js:2 📨 CHAMANDO onChunk callback com: ** tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: .
+eruda.js:2 📨 CHAMANDO onChunk callback com: . tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  Você
+eruda.js:2 📨 CHAMANDO onChunk callback com:  Você tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  pode
+eruda.js:2 📨 CHAMANDO onChunk callback com:  pode tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  escolher
+eruda.js:2 📨 CHAMANDO onChunk callback com:  escolher tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  uma
+eruda.js:2 📨 CHAMANDO onChunk callback com:  uma tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  ou
+eruda.js:2 📨 CHAMANDO onChunk callback com:  ou tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  mais
+eruda.js:2 📨 CHAMANDO onChunk callback com:  mais tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  das
+eruda.js:2 📨 CHAMANDO onChunk callback com:  das tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  opções
+eruda.js:2 📨 CHAMANDO onChunk callback com:  opções tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  abaixo
+eruda.js:2 📨 CHAMANDO onChunk callback com:  abaixo tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: :
+
+
+eruda.js:2 📨 CHAMANDO onChunk callback com: :
+
+ tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: 1
+eruda.js:2 📨 CHAMANDO onChunk callback com: 1 tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: .
+eruda.js:2 📨 CHAMANDO onChunk callback com: . tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  Melhor
+eruda.js:2 📨 CHAMANDO onChunk callback com:  Melhor tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ar
+eruda.js:2 📨 CHAMANDO onChunk callback com: ar tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  função
+eruda.js:2 📨 CHAMANDO onChunk callback com:  função tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  er
+eruda.js:2 📨 CHAMANDO onChunk callback com:  er tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: é
+eruda.js:2 📨 CHAMANDO onChunk callback com: é tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: til
+eruda.js:2 📨 CHAMANDO onChunk callback com: til tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  masculina
+eruda.js:2 📨 CHAMANDO onChunk callback com:  masculina tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:   
+
+eruda.js:2 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: 2
+eruda.js:2 📨 CHAMANDO onChunk callback com: 2 tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: .
+eruda.js:2 📨 CHAMANDO onChunk callback com: . tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  A
+eruda.js:2 📨 CHAMANDO onChunk callback com:  A tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ument
+eruda.js:2 📨 CHAMANDO onChunk callback com: ument tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ar
+eruda.js:2 📨 CHAMANDO onChunk callback com: ar tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  libido
+eruda.js:2 📨 CHAMANDO onChunk callback com:  libido tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: /d
+eruda.js:2 📨 CHAMANDO onChunk callback com: /d tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ese
+eruda.js:2 📨 CHAMANDO onChunk callback com: ese tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: jo
+eruda.js:2 📨 CHAMANDO onChunk callback com: jo tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  sexual
+eruda.js:2 📨 CHAMANDO onChunk callback com:  sexual tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:   
+
+eruda.js:2 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: 3
+eruda.js:2 📨 CHAMANDO onChunk callback com: 3 tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: .
+eruda.js:2 📨 CHAMANDO onChunk callback com: . tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  Melhor
+eruda.js:2 📨 CHAMANDO onChunk callback com:  Melhor tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ar
+eruda.js:2 📨 CHAMANDO onChunk callback com: ar tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  função
+eruda.js:2 📨 CHAMANDO onChunk callback com:  função tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  sexual
+eruda.js:2 📨 CHAMANDO onChunk callback com:  sexual tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  feminina
+eruda.js:2 📨 CHAMANDO onChunk callback com:  feminina tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  na
+eruda.js:2 📨 CHAMANDO onChunk callback com:  na tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  menop
+eruda.js:2 📨 CHAMANDO onChunk callback com:  menop tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ausa
+eruda.js:2 📨 CHAMANDO onChunk callback com: ausa tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:   
+
+eruda.js:2 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: 4
+eruda.js:2 📨 CHAMANDO onChunk callback com: 4 tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: .
+eruda.js:2 📨 CHAMANDO onChunk callback com: . tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  Red
+eruda.js:2 📨 CHAMANDO onChunk callback com:  Red tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: uz
+eruda.js:2 📨 CHAMANDO onChunk callback com: uz tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ir
+eruda.js:2 📨 CHAMANDO onChunk callback com: ir tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  dis
+eruda.js:2 📨 CHAMANDO onChunk callback com:  dis tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: fun
+eruda.js:2 📨 CHAMANDO onChunk callback com: fun tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ção
+eruda.js:2 📨 CHAMANDO onChunk callback com: ção tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  sexual
+eruda.js:2 📨 CHAMANDO onChunk callback com:  sexual tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  por
+eruda.js:2 📨 CHAMANDO onChunk callback com:  por tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  antidepress
+eruda.js:2 📨 CHAMANDO onChunk callback com:  antidepress tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ivos
+eruda.js:2 📨 CHAMANDO onChunk callback com: ivos tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:   
+
+eruda.js:2 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: 5
+eruda.js:2 📨 CHAMANDO onChunk callback com: 5 tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: .
+eruda.js:2 📨 CHAMANDO onChunk callback com: . tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  A
+eruda.js:2 📨 CHAMANDO onChunk callback com:  A tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ument
+eruda.js:2 📨 CHAMANDO onChunk callback com: ument tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ar
+eruda.js:2 📨 CHAMANDO onChunk callback com: ar tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  níveis
+eruda.js:2 📨 CHAMANDO onChunk callback com:  níveis tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  de
+eruda.js:2 📨 CHAMANDO onChunk callback com:  de tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  testoster
+eruda.js:2 📨 CHAMANDO onChunk callback com:  testoster tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ona
+eruda.js:2 📨 CHAMANDO onChunk callback com: ona tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:   
+
+eruda.js:2 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: 6
+eruda.js:2 📨 CHAMANDO onChunk callback com: 6 tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: .
+eruda.js:2 📨 CHAMANDO onChunk callback com: . tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  Melhor
+eruda.js:2 📨 CHAMANDO onChunk callback com:  Melhor tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ar
+eruda.js:2 📨 CHAMANDO onChunk callback com: ar tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  circulação
+eruda.js:2 📨 CHAMANDO onChunk callback com:  circulação tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  sangu
+eruda.js:2 📨 CHAMANDO onChunk callback com:  sangu tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ínea
+eruda.js:2 📨 CHAMANDO onChunk callback com: ínea tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  genital
+eruda.js:2 📨 CHAMANDO onChunk callback com:  genital tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:   
+
+eruda.js:2 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: 7
+eruda.js:2 📨 CHAMANDO onChunk callback com: 7 tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: .
+eruda.js:2 📨 CHAMANDO onChunk callback com: . tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  Red
+eruda.js:2 📨 CHAMANDO onChunk callback com:  Red tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: uz
+eruda.js:2 📨 CHAMANDO onChunk callback com: uz tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ir
+eruda.js:2 📨 CHAMANDO onChunk callback com: ir tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  ansiedade
+eruda.js:2 📨 CHAMANDO onChunk callback com:  ansiedade tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  de
+eruda.js:2 📨 CHAMANDO onChunk callback com:  de tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  performance
+eruda.js:2 📨 CHAMANDO onChunk callback com:  performance tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:   
+
+eruda.js:2 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: 8
+eruda.js:2 📨 CHAMANDO onChunk callback com: 8 tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: .
+eruda.js:2 📨 CHAMANDO onChunk callback com: . tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  A
+eruda.js:2 📨 CHAMANDO onChunk callback com:  A tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ument
+eruda.js:2 📨 CHAMANDO onChunk callback com: ument tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ar
+eruda.js:2 📨 CHAMANDO onChunk callback com: ar tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  energia
+eruda.js:2 📨 CHAMANDO onChunk callback com:  energia tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  e
+eruda.js:2 📨 CHAMANDO onChunk callback com:  e tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  vital
+eruda.js:2 📨 CHAMANDO onChunk callback com:  vital tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: idade
+eruda.js:2 📨 CHAMANDO onChunk callback com: idade tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  sexual
+eruda.js:2 📨 CHAMANDO onChunk callback com:  sexual tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 ✅ STREAMING FINALIZADO NO OPENAI.TS: 568 caracteres
+VM9 content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (VM9 content.js:1:6339)
+    at Tb (VM9 content.js:1:124)
+    at VM9 content.js:1:502
+    at VM9 content.js:1:514
+(anônimo) @ VM9 content.js:1
+Tb @ VM9 content.js:1
+(anônimo) @ VM9 content.js:1
+(anônimo) @ VM9 content.js:1
+VM3868 content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (VM3868 content.js:1:6339)
+    at Tb (VM3868 content.js:1:124)
+    at VM3868 content.js:1:502
+    at VM3868 content.js:1:514
+(anônimo) @ VM3868 content.js:1
+Tb @ VM3868 content.js:1
+(anônimo) @ VM3868 content.js:1
+(anônimo) @ VM3868 content.js:1
+VM13 content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (VM13 content.js:1:6339)
+    at Tb (VM13 content.js:1:124)
+    at VM13 content.js:1:502
+    at VM13 content.js:1:514
+(anônimo) @ VM13 content.js:1
+Tb @ VM13 content.js:1
+(anônimo) @ VM13 content.js:1
+(anônimo) @ VM13 content.js:1
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+(anônimo) @ content.js:1
+Tb @ content.js:1
+(anônimo) @ content.js:1
+(anônimo) @ content.js:1
+VM3869 content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (VM3869 content.js:1:6339)
+    at Tb (VM3869 content.js:1:124)
+    at VM3869 content.js:1:502
+    at VM3869 content.js:1:514
+(anônimo) @ VM3869 content.js:1
+Tb @ VM3869 content.js:1
+(anônimo) @ VM3869 content.js:1
+(anônimo) @ VM3869 content.js:1
+VM14 content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (VM14 content.js:1:6339)
+    at Tb (VM14 content.js:1:124)
+    at VM14 content.js:1:502
+    at VM14 content.js:1:514
+(anônimo) @ VM14 content.js:1
+Tb @ VM14 content.js:1
+(anônimo) @ VM14 content.js:1
+(anônimo) @ VM14 content.js:1
+VM15 content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (VM15 content.js:1:6339)
+    at Tb (VM15 content.js:1:124)
+    at VM15 content.js:1:502
+    at VM15 content.js:1:514
+(anônimo) @ VM15 content.js:1
+Tb @ VM15 content.js:1
+(anônimo) @ VM15 content.js:1
+(anônimo) @ VM15 content.js:1
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+(anônimo) @ content.js:1
+Tb @ content.js:1
+(anônimo) @ content.js:1
+(anônimo) @ content.js:1
+VM382 content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (VM382 content.js:1:6339)
+    at Tb (VM382 content.js:1:124)
+    at VM382 content.js:1:502
+    at VM382 content.js:1:514
+(anônimo) @ VM382 content.js:1
+Tb @ VM382 content.js:1
+(anônimo) @ VM382 content.js:1
+(anônimo) @ VM382 content.js:1
+VM383 content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (VM383 content.js:1:6339)
+    at Tb (VM383 content.js:1:124)
+    at VM383 content.js:1:502
+    at VM383 content.js:1:514
+(anônimo) @ VM383 content.js:1
+Tb @ VM383 content.js:1
+(anônimo) @ VM383 content.js:1
+(anônimo) @ VM383 content.js:1
+VM384 content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (VM384 content.js:1:6339)
+    at Tb (VM384 content.js:1:124)
+    at VM384 content.js:1:502
+    at VM384 content.js:1:514
+(anônimo) @ VM384 content.js:1
+Tb @ VM384 content.js:1
+(anônimo) @ VM384 content.js:1
+(anônimo) @ VM384 content.js:1
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+(anônimo) @ content.js:1
+Tb @ content.js:1
+(anônimo) @ content.js:1
+(anônimo) @ content.js:1
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+(anônimo) @ content.js:1
+Tb @ content.js:1
+(anônimo) @ content.js:1
+(anônimo) @ content.js:1
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+(anônimo) @ content.js:1
+Tb @ content.js:1
+(anônimo) @ content.js:1
+(anônimo) @ content.js:1
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+(anônimo) @ content.js:1
+Tb @ content.js:1
+(anônimo) @ content.js:1
+(anônimo) @ content.js:1
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+(anônimo) @ content.js:1
+Tb @ content.js:1
+(anônimo) @ content.js:1
+(anônimo) @ content.js:1
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+(anônimo) @ content.js:1
+Tb @ content.js:1
+(anônimo) @ content.js:1
+(anônimo) @ content.js:1
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+(anônimo) @ content.js:1
+Tb @ content.js:1
+(anônimo) @ content.js:1
+(anônimo) @ content.js:1
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+(anônimo) @ content.js:1
+Tb @ content.js:1
+(anônimo) @ content.js:1
+(anônimo) @ content.js:1
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+(anônimo) @ content.js:1
+Tb @ content.js:1
+(anônimo) @ content.js:1
+(anônimo) @ content.js:1
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+(anônimo) @ content.js:1
+Tb @ content.js:1
+(anônimo) @ content.js:1
+(anônimo) @ content.js:1
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+(anônimo) @ content.js:1
+Tb @ content.js:1
+(anônimo) @ content.js:1
+(anônimo) @ content.js:1
+eruda.js:2 Firebase config: {projectId: 'preskriptor-e8a69', authDomain: 'preskriptor-e8a69.firebaseapp.com', storageBucket: 'preskriptor-e8a69.appspot.com', messagingSenderId: '361328259562', appId: '[PRESENTE]', …}
+eruda.js:2 Criada nova instância do Firebase
+eruda.js:2 🔐 USUÁRIO LOGADO - DADOS COMPLETOS: {uid: '27EV4avUl6N0gJs7OMWS1vWxxUi2', email: 'assitba@hotmail.com', displayName: null, name: 'assitba', cellphone: '', …}
+eruda.js:2 📋 Detalhes do perfil Firestore: {createdAt: Wed Aug 27 2025 15:47:25 GMT-0300 (Horário Padrão de Brasília), name: 'assitba', uid: '27EV4avUl6N0gJs7OMWS1vWxxUi2', updatedAt: Wed Aug 27 2025 15:47:25 GMT-0300 (Horário Padrão de Brasília), cellphone: '', …}
+eruda.js:2 🔥 Dados básicos do Firebase Auth: {uid: '27EV4avUl6N0gJs7OMWS1vWxxUi2', email: 'assitba@hotmail.com', displayName: null, photoURL: null}
+eruda.js:2 Erro ao buscar conversas: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+getUserConversations @ firebase.ts:1610
+await in getUserConversations
+loadConversations @ SidebarLayout.tsx:63
+(anônimo) @ SidebarLayout.tsx:92
+commitHookEffectListMount @ chunk-XQLYTHWV.js?v=5583f018:16915
+commitPassiveMountOnFiber @ chunk-XQLYTHWV.js?v=5583f018:18156
+commitPassiveMountEffects_complete @ chunk-XQLYTHWV.js?v=5583f018:18129
+commitPassiveMountEffects_begin @ chunk-XQLYTHWV.js?v=5583f018:18119
+commitPassiveMountEffects @ chunk-XQLYTHWV.js?v=5583f018:18109
+flushPassiveEffectsImpl @ chunk-XQLYTHWV.js?v=5583f018:19490
+flushPassiveEffects @ chunk-XQLYTHWV.js?v=5583f018:19447
+performSyncWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18868
+flushSyncCallbacks @ chunk-XQLYTHWV.js?v=5583f018:9119
+commitRootImpl @ chunk-XQLYTHWV.js?v=5583f018:19432
+commitRoot @ chunk-XQLYTHWV.js?v=5583f018:19277
+finishConcurrentRender @ chunk-XQLYTHWV.js?v=5583f018:18805
+performConcurrentWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18718
+workLoop @ chunk-XQLYTHWV.js?v=5583f018:197
+flushWork @ chunk-XQLYTHWV.js?v=5583f018:176
+performWorkUntilDeadline @ chunk-XQLYTHWV.js?v=5583f018:384
+eruda.js:2 Erro ao carregar histórico: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+loadConversations @ SidebarLayout.tsx:67
+await in loadConversations
+(anônimo) @ SidebarLayout.tsx:92
+commitHookEffectListMount @ chunk-XQLYTHWV.js?v=5583f018:16915
+commitPassiveMountOnFiber @ chunk-XQLYTHWV.js?v=5583f018:18156
+commitPassiveMountEffects_complete @ chunk-XQLYTHWV.js?v=5583f018:18129
+commitPassiveMountEffects_begin @ chunk-XQLYTHWV.js?v=5583f018:18119
+commitPassiveMountEffects @ chunk-XQLYTHWV.js?v=5583f018:18109
+flushPassiveEffectsImpl @ chunk-XQLYTHWV.js?v=5583f018:19490
+flushPassiveEffects @ chunk-XQLYTHWV.js?v=5583f018:19447
+performSyncWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18868
+flushSyncCallbacks @ chunk-XQLYTHWV.js?v=5583f018:9119
+commitRootImpl @ chunk-XQLYTHWV.js?v=5583f018:19432
+commitRoot @ chunk-XQLYTHWV.js?v=5583f018:19277
+finishConcurrentRender @ chunk-XQLYTHWV.js?v=5583f018:18805
+performConcurrentWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18718
+workLoop @ chunk-XQLYTHWV.js?v=5583f018:197
+flushWork @ chunk-XQLYTHWV.js?v=5583f018:176
+performWorkUntilDeadline @ chunk-XQLYTHWV.js?v=5583f018:384
+eruda.js:2 Erro ao criar conversa: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+createConversation @ firebase.ts:1538
+await in createConversation
+handleSelectModule @ chat.tsx:206
+onClick @ chat.tsx:640
+callCallback2 @ chunk-XQLYTHWV.js?v=5583f018:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=5583f018:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=5583f018:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=5583f018:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=5583f018:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=5583f018:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=5583f018:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=5583f018:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=5583f018:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=5583f018:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=5583f018:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=5583f018:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=5583f018:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=5583f018:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=5583f018:5449
+eruda.js:2 Erro ao criar conversa: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+handleSelectModule @ chat.tsx:214
+await in handleSelectModule
+onClick @ chat.tsx:640
+callCallback2 @ chunk-XQLYTHWV.js?v=5583f018:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=5583f018:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=5583f018:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=5583f018:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=5583f018:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=5583f018:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=5583f018:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=5583f018:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=5583f018:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=5583f018:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=5583f018:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=5583f018:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=5583f018:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=5583f018:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=5583f018:5449
+firebase_firestore.js?v=5583f018:2145  POST https://firestore.googleapis.com/google.firestore.v1.Firestore/Write/channel?VER=8&database=projects%2Fpreskriptor-e8a69%2Fdatabases%2F(default)&gsessionid=VKtnsR8pfzy__ngz_-WAJhX79Zhj3f4_8DQoA_srJP4&SID=PlzozeecBZb2BQhYCMq04Q&RID=88275&TYPE=terminate&zx=iyqbu6tc553v 400 (Bad Request)
+gc @ firebase_firestore.js?v=5583f018:2145
+Y2.close @ firebase_firestore.js?v=5583f018:2489
+(anônimo) @ firebase_firestore.js?v=5583f018:12572
+(anônimo) @ firebase_firestore.js?v=5583f018:12536
+ab @ firebase_firestore.js?v=5583f018:948
+F2 @ firebase_firestore.js?v=5583f018:918
+Z2.ta @ firebase_firestore.js?v=5583f018:2538
+Rb @ firebase_firestore.js?v=5583f018:1417
+M2.Y @ firebase_firestore.js?v=5583f018:1282
+M2.ca @ firebase_firestore.js?v=5583f018:1213
+ab @ firebase_firestore.js?v=5583f018:948
+F2 @ firebase_firestore.js?v=5583f018:918
+Wc @ firebase_firestore.js?v=5583f018:1952
+h.bb @ firebase_firestore.js?v=5583f018:1947
+h.Ea @ firebase_firestore.js?v=5583f018:1944
+Lc @ firebase_firestore.js?v=5583f018:1844
+h.Pa @ firebase_firestore.js?v=5583f018:1811
+Promise.then
+Nc @ firebase_firestore.js?v=5583f018:1802
+h.Pa @ firebase_firestore.js?v=5583f018:1812
+Promise.then
+Nc @ firebase_firestore.js?v=5583f018:1802
+h.Sa @ firebase_firestore.js?v=5583f018:1798
+Promise.then
+h.send @ firebase_firestore.js?v=5583f018:1779
+h.ea @ firebase_firestore.js?v=5583f018:1920
+Jb @ firebase_firestore.js?v=5583f018:1206
+fd @ firebase_firestore.js?v=5583f018:2339
+h.Fa @ firebase_firestore.js?v=5583f018:2306
+Da @ firebase_firestore.js?v=5583f018:667
+Promise.then
+x2 @ firebase_firestore.js?v=5583f018:661
+fc @ firebase_firestore.js?v=5583f018:2170
+Y2.o @ firebase_firestore.js?v=5583f018:2499
+Go @ firebase_firestore.js?v=5583f018:12530
+send @ firebase_firestore.js?v=5583f018:12423
+F_ @ firebase_firestore.js?v=5583f018:12718
+G_ @ firebase_firestore.js?v=5583f018:12929
+__PRIVATE_onWriteHandshakeComplete @ firebase_firestore.js?v=5583f018:13277
+q_ @ firebase_firestore.js?v=5583f018:12904
+(anônimo) @ firebase_firestore.js?v=5583f018:12800
+(anônimo) @ firebase_firestore.js?v=5583f018:12820
+(anônimo) @ firebase_firestore.js?v=5583f018:15859
+(anônimo) @ firebase_firestore.js?v=5583f018:15890
+Promise.then
+Yu @ firebase_firestore.js?v=5583f018:15890
+enqueue @ firebase_firestore.js?v=5583f018:15859
+enqueueAndForget @ firebase_firestore.js?v=5583f018:15841
+(anônimo) @ firebase_firestore.js?v=5583f018:12820
+(anônimo) @ firebase_firestore.js?v=5583f018:12800
+i_ @ firebase_firestore.js?v=5583f018:12435
+(anônimo) @ firebase_firestore.js?v=5583f018:12573
+(anônimo) @ firebase_firestore.js?v=5583f018:12536
+ab @ firebase_firestore.js?v=5583f018:948
+F2 @ firebase_firestore.js?v=5583f018:918
+Z2.ta @ firebase_firestore.js?v=5583f018:2538
+Rb @ firebase_firestore.js?v=5583f018:1417
+M2.Y @ firebase_firestore.js?v=5583f018:1282
+M2.ca @ firebase_firestore.js?v=5583f018:1213
+ab @ firebase_firestore.js?v=5583f018:948
+F2 @ firebase_firestore.js?v=5583f018:918
+Wc @ firebase_firestore.js?v=5583f018:1952
+h.bb @ firebase_firestore.js?v=5583f018:1947
+h.Ea @ firebase_firestore.js?v=5583f018:1944
+Lc @ firebase_firestore.js?v=5583f018:1844
+h.Pa @ firebase_firestore.js?v=5583f018:1811
+Promise.then
+Nc @ firebase_firestore.js?v=5583f018:1802
+h.Sa @ firebase_firestore.js?v=5583f018:1798
+Promise.then
+h.send @ firebase_firestore.js?v=5583f018:1779
+h.ea @ firebase_firestore.js?v=5583f018:1920
+Jb @ firebase_firestore.js?v=5583f018:1206
+fd @ firebase_firestore.js?v=5583f018:2339
+h.ab @ firebase_firestore.js?v=5583f018:2314
+(anônimo) @ firebase_firestore.js?v=5583f018:1065
+setTimeout
+ub @ firebase_firestore.js?v=5583f018:1064
+h.Fa @ firebase_firestore.js?v=5583f018:2310
+Da @ firebase_firestore.js?v=5583f018:667
+Promise.then
+x2 @ firebase_firestore.js?v=5583f018:661
+ec @ firebase_firestore.js?v=5583f018:2292
+Rb @ firebase_firestore.js?v=5583f018:1414
+M2.Y @ firebase_firestore.js?v=5583f018:1282
+M2.ca @ firebase_firestore.js?v=5583f018:1213
+ab @ firebase_firestore.js?v=5583f018:948
+F2 @ firebase_firestore.js?v=5583f018:918
+Wc @ firebase_firestore.js?v=5583f018:1952
+h.bb @ firebase_firestore.js?v=5583f018:1947
+h.Ea @ firebase_firestore.js?v=5583f018:1944
+Lc @ firebase_firestore.js?v=5583f018:1844
+h.Pa @ firebase_firestore.js?v=5583f018:1811
+Promise.then
+Nc @ firebase_firestore.js?v=5583f018:1802
+h.Sa @ firebase_firestore.js?v=5583f018:1798
+Promise.then
+h.send @ firebase_firestore.js?v=5583f018:1779
+h.ea @ firebase_firestore.js?v=5583f018:1920
+Jb @ firebase_firestore.js?v=5583f018:1201
+Hb @ firebase_firestore.js?v=5583f018:1176
+h.Ga @ firebase_firestore.js?v=5583f018:2226
+Da @ firebase_firestore.js?v=5583f018:667
+Promise.then
+x2 @ firebase_firestore.js?v=5583f018:661
+fc @ firebase_firestore.js?v=5583f018:2170
+h.connect @ firebase_firestore.js?v=5583f018:2130
+Y2.m @ firebase_firestore.js?v=5583f018:2486
+Go @ firebase_firestore.js?v=5583f018:12530
+send @ firebase_firestore.js?v=5583f018:12423
+F_ @ firebase_firestore.js?v=5583f018:12718
+H_ @ firebase_firestore.js?v=5583f018:12921
+__PRIVATE_onWriteStreamOpen @ firebase_firestore.js?v=5583f018:13273
+(anônimo) @ firebase_firestore.js?v=5583f018:12796
+(anônimo) @ firebase_firestore.js?v=5583f018:12820
+(anônimo) @ firebase_firestore.js?v=5583f018:15859
+(anônimo) @ firebase_firestore.js?v=5583f018:15890
+Promise.then
+Yu @ firebase_firestore.js?v=5583f018:15890
+enqueue @ firebase_firestore.js?v=5583f018:15859
+enqueueAndForget @ firebase_firestore.js?v=5583f018:15841
+(anônimo) @ firebase_firestore.js?v=5583f018:12820
+(anônimo) @ firebase_firestore.js?v=5583f018:12796
+n_ @ firebase_firestore.js?v=5583f018:12429
+(anônimo) @ firebase_firestore.js?v=5583f018:12578
+setTimeout
+a_ @ firebase_firestore.js?v=5583f018:12577
+k_ @ firebase_firestore.js?v=5583f018:12900
+B_ @ firebase_firestore.js?v=5583f018:12793
+(anônimo) @ firebase_firestore.js?v=5583f018:12783
+Promise.then
+auth @ firebase_firestore.js?v=5583f018:12779
+start @ firebase_firestore.js?v=5583f018:12678
+start @ firebase_firestore.js?v=5583f018:12894
+__PRIVATE_startWriteStream @ firebase_firestore.js?v=5583f018:13270
+__PRIVATE_fillWritePipeline @ firebase_firestore.js?v=5583f018:13256
+await in __PRIVATE_fillWritePipeline
+__PRIVATE_syncEngineWrite @ firebase_firestore.js?v=5583f018:14258
+await in __PRIVATE_syncEngineWrite
+(anônimo) @ firebase_firestore.js?v=5583f018:17621
+await in (anônimo)
+(anônimo) @ firebase_firestore.js?v=5583f018:15859
+(anônimo) @ firebase_firestore.js?v=5583f018:15890
+Promise.then
+Yu @ firebase_firestore.js?v=5583f018:15890
+enqueue @ firebase_firestore.js?v=5583f018:15859
+enqueueAndForget @ firebase_firestore.js?v=5583f018:15841
+__PRIVATE_firestoreClientWrite @ firebase_firestore.js?v=5583f018:17621
+executeWrite @ firebase_firestore.js?v=5583f018:17622
+addDoc @ firebase_firestore.js?v=5583f018:17568
+createConversation @ firebase.ts:1527
+handleSelectModule @ chat.tsx:206
+onClick @ chat.tsx:640
+callCallback2 @ chunk-XQLYTHWV.js?v=5583f018:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=5583f018:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=5583f018:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=5583f018:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=5583f018:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=5583f018:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=5583f018:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=5583f018:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=5583f018:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=5583f018:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=5583f018:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=5583f018:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=5583f018:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=5583f018:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=5583f018:5449
+eruda.js:2 🟢 STREAMING INICIADO NO OPENAI.TS
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: Olá
+eruda.js:2 📨 CHAMANDO onChunk callback com: Olá tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ,
+eruda.js:2 📨 CHAMANDO onChunk callback com: , tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  eu
+eruda.js:2 📨 CHAMANDO onChunk callback com:  eu tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  sou
+eruda.js:2 📨 CHAMANDO onChunk callback com:  sou tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  o
+eruda.js:2 📨 CHAMANDO onChunk callback com:  o tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  Pres
+eruda.js:2 📨 CHAMANDO onChunk callback com:  Pres tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: kr
+eruda.js:2 📨 CHAMANDO onChunk callback com: kr tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ip
+eruda.js:2 📨 CHAMANDO onChunk callback com: ip tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: tor
+eruda.js:2 📨 CHAMANDO onChunk callback com: tor tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  e
+eruda.js:2 📨 CHAMANDO onChunk callback com:  e tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  vou
+eruda.js:2 📨 CHAMANDO onChunk callback com:  vou tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  te
+eruda.js:2 📨 CHAMANDO onChunk callback com:  te tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  ajudar
+eruda.js:2 📨 CHAMANDO onChunk callback com:  ajudar tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  a
+eruda.js:2 📨 CHAMANDO onChunk callback com:  a tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  selecionar
+eruda.js:2 📨 CHAMANDO onChunk callback com:  selecionar tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  o
+eruda.js:2 📨 CHAMANDO onChunk callback com:  o tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  melhor
+eruda.js:2 📨 CHAMANDO onChunk callback com:  melhor tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  fit
+eruda.js:2 📨 CHAMANDO onChunk callback com:  fit tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: oter
+eruda.js:2 📨 CHAMANDO onChunk callback com: oter tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: áp
+eruda.js:2 📨 CHAMANDO onChunk callback com: áp tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ico
+eruda.js:2 📨 CHAMANDO onChunk callback com: ico tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  para
+eruda.js:2 📨 CHAMANDO onChunk callback com:  para tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  o
+eruda.js:2 📨 CHAMANDO onChunk callback com:  o tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  seu
+eruda.js:2 📨 CHAMANDO onChunk callback com:  seu tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  paciente
+eruda.js:2 📨 CHAMANDO onChunk callback com:  paciente tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  com
+eruda.js:2 📨 CHAMANDO onChunk callback com:  com tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  dis
+eruda.js:2 📨 CHAMANDO onChunk callback com:  dis tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: fun
+eruda.js:2 📨 CHAMANDO onChunk callback com: fun tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ção
+eruda.js:2 📨 CHAMANDO onChunk callback com: ção tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  sexual
+eruda.js:2 📨 CHAMANDO onChunk callback com:  sexual tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: .
+eruda.js:2 📨 CHAMANDO onChunk callback com: . tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:   
+
+eruda.js:2 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: Por
+eruda.js:2 📨 CHAMANDO onChunk callback com: Por tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  favor
+eruda.js:2 📨 CHAMANDO onChunk callback com:  favor tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ,
+eruda.js:2 📨 CHAMANDO onChunk callback com: , tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  me
+eruda.js:2 📨 CHAMANDO onChunk callback com:  me tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  diga
+eruda.js:2 📨 CHAMANDO onChunk callback com:  diga tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  qual
+eruda.js:2 📨 CHAMANDO onChunk callback com:  qual tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  é
+eruda.js:2 📨 CHAMANDO onChunk callback com:  é tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  o
+eruda.js:2 📨 CHAMANDO onChunk callback com:  o tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  **
+eruda.js:2 📨 CHAMANDO onChunk callback com:  ** tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: objet
+eruda.js:2 📨 CHAMANDO onChunk callback com: objet tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ivo
+eruda.js:2 📨 CHAMANDO onChunk callback com: ivo tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  principal
+eruda.js:2 📨 CHAMANDO onChunk callback com:  principal tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  do
+eruda.js:2 📨 CHAMANDO onChunk callback com:  do tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  tratamento
+eruda.js:2 📨 CHAMANDO onChunk callback com:  tratamento tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: **
+eruda.js:2 📨 CHAMANDO onChunk callback com: ** tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: .
+eruda.js:2 📨 CHAMANDO onChunk callback com: . tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  Você
+eruda.js:2 📨 CHAMANDO onChunk callback com:  Você tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  pode
+eruda.js:2 📨 CHAMANDO onChunk callback com:  pode tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  escolher
+eruda.js:2 📨 CHAMANDO onChunk callback com:  escolher tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  uma
+eruda.js:2 📨 CHAMANDO onChunk callback com:  uma tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  ou
+eruda.js:2 📨 CHAMANDO onChunk callback com:  ou tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  mais
+eruda.js:2 📨 CHAMANDO onChunk callback com:  mais tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  das
+eruda.js:2 📨 CHAMANDO onChunk callback com:  das tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  opções
+eruda.js:2 📨 CHAMANDO onChunk callback com:  opções tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  abaixo
+eruda.js:2 📨 CHAMANDO onChunk callback com:  abaixo tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: :
+
+
+eruda.js:2 📨 CHAMANDO onChunk callback com: :
+
+ tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: 1
+eruda.js:2 📨 CHAMANDO onChunk callback com: 1 tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: .
+eruda.js:2 📨 CHAMANDO onChunk callback com: . tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  Melhor
+eruda.js:2 📨 CHAMANDO onChunk callback com:  Melhor tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ar
+eruda.js:2 📨 CHAMANDO onChunk callback com: ar tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  função
+eruda.js:2 📨 CHAMANDO onChunk callback com:  função tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  er
+eruda.js:2 📨 CHAMANDO onChunk callback com:  er tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: é
+eruda.js:2 📨 CHAMANDO onChunk callback com: é tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: til
+eruda.js:2 📨 CHAMANDO onChunk callback com: til tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  masculina
+eruda.js:2 📨 CHAMANDO onChunk callback com:  masculina tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:   
+
+eruda.js:2 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: 2
+eruda.js:2 📨 CHAMANDO onChunk callback com: 2 tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: .
+eruda.js:2 📨 CHAMANDO onChunk callback com: . tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  A
+eruda.js:2 📨 CHAMANDO onChunk callback com:  A tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ument
+eruda.js:2 📨 CHAMANDO onChunk callback com: ument tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ar
+eruda.js:2 📨 CHAMANDO onChunk callback com: ar tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  libido
+eruda.js:2 📨 CHAMANDO onChunk callback com:  libido tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: /d
+eruda.js:2 📨 CHAMANDO onChunk callback com: /d tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ese
+eruda.js:2 📨 CHAMANDO onChunk callback com: ese tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: jo
+eruda.js:2 📨 CHAMANDO onChunk callback com: jo tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  sexual
+eruda.js:2 📨 CHAMANDO onChunk callback com:  sexual tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:   
+
+eruda.js:2 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: 3
+eruda.js:2 📨 CHAMANDO onChunk callback com: 3 tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: .
+eruda.js:2 📨 CHAMANDO onChunk callback com: . tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  Melhor
+eruda.js:2 📨 CHAMANDO onChunk callback com:  Melhor tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ar
+eruda.js:2 📨 CHAMANDO onChunk callback com: ar tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  função
+eruda.js:2 📨 CHAMANDO onChunk callback com:  função tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  sexual
+eruda.js:2 📨 CHAMANDO onChunk callback com:  sexual tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  feminina
+eruda.js:2 📨 CHAMANDO onChunk callback com:  feminina tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  na
+eruda.js:2 📨 CHAMANDO onChunk callback com:  na tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  menop
+eruda.js:2 📨 CHAMANDO onChunk callback com:  menop tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ausa
+eruda.js:2 📨 CHAMANDO onChunk callback com: ausa tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:   
+
+eruda.js:2 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: 4
+eruda.js:2 📨 CHAMANDO onChunk callback com: 4 tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: .
+eruda.js:2 📨 CHAMANDO onChunk callback com: . tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  Red
+eruda.js:2 📨 CHAMANDO onChunk callback com:  Red tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: uz
+eruda.js:2 📨 CHAMANDO onChunk callback com: uz tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ir
+eruda.js:2 📨 CHAMANDO onChunk callback com: ir tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  dis
+eruda.js:2 📨 CHAMANDO onChunk callback com:  dis tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: fun
+eruda.js:2 📨 CHAMANDO onChunk callback com: fun tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ção
+eruda.js:2 📨 CHAMANDO onChunk callback com: ção tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  sexual
+eruda.js:2 📨 CHAMANDO onChunk callback com:  sexual tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  por
+eruda.js:2 📨 CHAMANDO onChunk callback com:  por tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  antidepress
+eruda.js:2 📨 CHAMANDO onChunk callback com:  antidepress tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ivos
+eruda.js:2 📨 CHAMANDO onChunk callback com: ivos tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:   
+
+eruda.js:2 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: 5
+eruda.js:2 📨 CHAMANDO onChunk callback com: 5 tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: .
+eruda.js:2 📨 CHAMANDO onChunk callback com: . tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  A
+eruda.js:2 📨 CHAMANDO onChunk callback com:  A tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ument
+eruda.js:2 📨 CHAMANDO onChunk callback com: ument tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ar
+eruda.js:2 📨 CHAMANDO onChunk callback com: ar tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  níveis
+eruda.js:2 📨 CHAMANDO onChunk callback com:  níveis tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  de
+eruda.js:2 📨 CHAMANDO onChunk callback com:  de tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  testoster
+eruda.js:2 📨 CHAMANDO onChunk callback com:  testoster tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ona
+eruda.js:2 📨 CHAMANDO onChunk callback com: ona tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:   
+
+eruda.js:2 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: 6
+eruda.js:2 📨 CHAMANDO onChunk callback com: 6 tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: .
+eruda.js:2 📨 CHAMANDO onChunk callback com: . tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  Melhor
+eruda.js:2 📨 CHAMANDO onChunk callback com:  Melhor tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ar
+eruda.js:2 📨 CHAMANDO onChunk callback com: ar tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  circulação
+eruda.js:2 📨 CHAMANDO onChunk callback com:  circulação tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  sangu
+eruda.js:2 📨 CHAMANDO onChunk callback com:  sangu tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ínea
+eruda.js:2 📨 CHAMANDO onChunk callback com: ínea tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  genital
+eruda.js:2 📨 CHAMANDO onChunk callback com:  genital tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:   
+
+eruda.js:2 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: 7
+eruda.js:2 📨 CHAMANDO onChunk callback com: 7 tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: .
+eruda.js:2 📨 CHAMANDO onChunk callback com: . tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  Red
+eruda.js:2 📨 CHAMANDO onChunk callback com:  Red tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: uz
+eruda.js:2 📨 CHAMANDO onChunk callback com: uz tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ir
+eruda.js:2 📨 CHAMANDO onChunk callback com: ir tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  ansiedade
+eruda.js:2 📨 CHAMANDO onChunk callback com:  ansiedade tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  de
+eruda.js:2 📨 CHAMANDO onChunk callback com:  de tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  performance
+eruda.js:2 📨 CHAMANDO onChunk callback com:  performance tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:   
+
+eruda.js:2 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: 8
+eruda.js:2 📨 CHAMANDO onChunk callback com: 8 tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: .
+eruda.js:2 📨 CHAMANDO onChunk callback com: . tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  A
+eruda.js:2 📨 CHAMANDO onChunk callback com:  A tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ument
+eruda.js:2 📨 CHAMANDO onChunk callback com: ument tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ar
+eruda.js:2 📨 CHAMANDO onChunk callback com: ar tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  energia
+eruda.js:2 📨 CHAMANDO onChunk callback com:  energia tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  e
+eruda.js:2 📨 CHAMANDO onChunk callback com:  e tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  vital
+eruda.js:2 📨 CHAMANDO onChunk callback com:  vital tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: idade
+eruda.js:2 📨 CHAMANDO onChunk callback com: idade tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  sexual
+eruda.js:2 📨 CHAMANDO onChunk callback com:  sexual tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 ✅ STREAMING FINALIZADO NO OPENAI.TS: 568 caracteres
+eruda.js:2 [vite] server connection lost. Polling for restart...
+Console.js:61 Firebase config: {projectId: 'preskriptor-e8a69', authDomain: 'preskriptor-e8a69.firebaseapp.com', storageBucket: 'preskriptor-e8a69.appspot.com', messagingSenderId: '361328259562', appId: '[PRESENTE]', …}
+Console.js:61 Criada nova instância do Firebase
+Console.js:61 🔐 USUÁRIO LOGADO - DADOS COMPLETOS: {uid: '27EV4avUl6N0gJs7OMWS1vWxxUi2', email: 'assitba@hotmail.com', displayName: null, name: 'assitba', cellphone: '', …}
+Console.js:61 📋 Detalhes do perfil Firestore: {createdAt: Wed Aug 27 2025 15:47:25 GMT-0300 (Horário Padrão de Brasília), email: 'assitba@hotmail.com', verified: true, uid: '27EV4avUl6N0gJs7OMWS1vWxxUi2', updatedAt: Wed Aug 27 2025 15:47:25 GMT-0300 (Horário Padrão de Brasília), …}
+Console.js:61 🔥 Dados básicos do Firebase Auth: {uid: '27EV4avUl6N0gJs7OMWS1vWxxUi2', email: 'assitba@hotmail.com', displayName: null, photoURL: null}
+Console.js:61 Erro ao buscar conversas: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+getUserConversations @ firebase.ts:1610
+await in getUserConversations
+loadConversations @ SidebarLayout.tsx:63
+(anônimo) @ SidebarLayout.tsx:92
+commitHookEffectListMount @ chunk-XQLYTHWV.js?v=5583f018:16915
+commitPassiveMountOnFiber @ chunk-XQLYTHWV.js?v=5583f018:18156
+commitPassiveMountEffects_complete @ chunk-XQLYTHWV.js?v=5583f018:18129
+commitPassiveMountEffects_begin @ chunk-XQLYTHWV.js?v=5583f018:18119
+commitPassiveMountEffects @ chunk-XQLYTHWV.js?v=5583f018:18109
+flushPassiveEffectsImpl @ chunk-XQLYTHWV.js?v=5583f018:19490
+flushPassiveEffects @ chunk-XQLYTHWV.js?v=5583f018:19447
+performSyncWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18868
+flushSyncCallbacks @ chunk-XQLYTHWV.js?v=5583f018:9119
+commitRootImpl @ chunk-XQLYTHWV.js?v=5583f018:19432
+commitRoot @ chunk-XQLYTHWV.js?v=5583f018:19277
+finishConcurrentRender @ chunk-XQLYTHWV.js?v=5583f018:18805
+performConcurrentWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18718
+workLoop @ chunk-XQLYTHWV.js?v=5583f018:197
+flushWork @ chunk-XQLYTHWV.js?v=5583f018:176
+performWorkUntilDeadline @ chunk-XQLYTHWV.js?v=5583f018:384
+Console.js:61 Erro ao carregar histórico: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+loadConversations @ SidebarLayout.tsx:67
+await in loadConversations
+(anônimo) @ SidebarLayout.tsx:92
+commitHookEffectListMount @ chunk-XQLYTHWV.js?v=5583f018:16915
+commitPassiveMountOnFiber @ chunk-XQLYTHWV.js?v=5583f018:18156
+commitPassiveMountEffects_complete @ chunk-XQLYTHWV.js?v=5583f018:18129
+commitPassiveMountEffects_begin @ chunk-XQLYTHWV.js?v=5583f018:18119
+commitPassiveMountEffects @ chunk-XQLYTHWV.js?v=5583f018:18109
+flushPassiveEffectsImpl @ chunk-XQLYTHWV.js?v=5583f018:19490
+flushPassiveEffects @ chunk-XQLYTHWV.js?v=5583f018:19447
+performSyncWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18868
+flushSyncCallbacks @ chunk-XQLYTHWV.js?v=5583f018:9119
+commitRootImpl @ chunk-XQLYTHWV.js?v=5583f018:19432
+commitRoot @ chunk-XQLYTHWV.js?v=5583f018:19277
+finishConcurrentRender @ chunk-XQLYTHWV.js?v=5583f018:18805
+performConcurrentWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18718
+workLoop @ chunk-XQLYTHWV.js?v=5583f018:197
+flushWork @ chunk-XQLYTHWV.js?v=5583f018:176
+performWorkUntilDeadline @ chunk-XQLYTHWV.js?v=5583f018:384
+Console.js:61 Erro ao criar conversa: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+createConversation @ firebase.ts:1538
+await in createConversation
+handleSelectModule @ chat.tsx:206
+onClick @ chat.tsx:640
+callCallback2 @ chunk-XQLYTHWV.js?v=5583f018:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=5583f018:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=5583f018:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=5583f018:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=5583f018:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=5583f018:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=5583f018:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=5583f018:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=5583f018:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=5583f018:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=5583f018:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=5583f018:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=5583f018:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=5583f018:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=5583f018:5449
+Console.js:61 Erro ao criar conversa: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+handleSelectModule @ chat.tsx:214
+await in handleSelectModule
+onClick @ chat.tsx:640
+callCallback2 @ chunk-XQLYTHWV.js?v=5583f018:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=5583f018:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=5583f018:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=5583f018:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=5583f018:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=5583f018:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=5583f018:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=5583f018:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=5583f018:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=5583f018:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=5583f018:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=5583f018:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=5583f018:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=5583f018:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=5583f018:5449
+firebase.ts:1527  POST https://firestore.googleapis.com/google.firestore.v1.Firestore/Write/channel?VER=8&database=projects%2Fpreskriptor-e8a69%2Fdatabases%2F(default)&gsessionid=GAPX4YqdmFEn7EMpIQ7mV6_aI7RawjcEfiEx5WJcitU&SID=L7FH6MrDxOlVrDyFYrWZ8w&RID=79294&TYPE=terminate&zx=a8o5aif7l2 400 (Bad Request)
+gc @ firebase_firestore.js?v=5583f018:2145
+Y2.close @ firebase_firestore.js?v=5583f018:2489
+(anônimo) @ firebase_firestore.js?v=5583f018:12572
+(anônimo) @ firebase_firestore.js?v=5583f018:12536
+ab @ firebase_firestore.js?v=5583f018:948
+F2 @ firebase_firestore.js?v=5583f018:918
+Z2.ta @ firebase_firestore.js?v=5583f018:2538
+Rb @ firebase_firestore.js?v=5583f018:1417
+M2.Y @ firebase_firestore.js?v=5583f018:1282
+M2.ca @ firebase_firestore.js?v=5583f018:1213
+ab @ firebase_firestore.js?v=5583f018:948
+F2 @ firebase_firestore.js?v=5583f018:918
+Wc @ firebase_firestore.js?v=5583f018:1952
+h.bb @ firebase_firestore.js?v=5583f018:1947
+h.Ea @ firebase_firestore.js?v=5583f018:1944
+Lc @ firebase_firestore.js?v=5583f018:1844
+h.Pa @ firebase_firestore.js?v=5583f018:1811
+Promise.then
+Nc @ firebase_firestore.js?v=5583f018:1802
+h.Pa @ firebase_firestore.js?v=5583f018:1812
+Promise.then
+Nc @ firebase_firestore.js?v=5583f018:1802
+h.Sa @ firebase_firestore.js?v=5583f018:1798
+Promise.then
+h.send @ firebase_firestore.js?v=5583f018:1779
+h.ea @ firebase_firestore.js?v=5583f018:1920
+Jb @ firebase_firestore.js?v=5583f018:1206
+fd @ firebase_firestore.js?v=5583f018:2339
+h.Fa @ firebase_firestore.js?v=5583f018:2306
+Da @ firebase_firestore.js?v=5583f018:667
+Promise.then
+x2 @ firebase_firestore.js?v=5583f018:661
+fc @ firebase_firestore.js?v=5583f018:2170
+Y2.o @ firebase_firestore.js?v=5583f018:2499
+Go @ firebase_firestore.js?v=5583f018:12530
+send @ firebase_firestore.js?v=5583f018:12423
+F_ @ firebase_firestore.js?v=5583f018:12718
+G_ @ firebase_firestore.js?v=5583f018:12929
+__PRIVATE_onWriteHandshakeComplete @ firebase_firestore.js?v=5583f018:13277
+q_ @ firebase_firestore.js?v=5583f018:12904
+(anônimo) @ firebase_firestore.js?v=5583f018:12800
+(anônimo) @ firebase_firestore.js?v=5583f018:12820
+(anônimo) @ firebase_firestore.js?v=5583f018:15859
+(anônimo) @ firebase_firestore.js?v=5583f018:15890
+Promise.then
+Yu @ firebase_firestore.js?v=5583f018:15890
+enqueue @ firebase_firestore.js?v=5583f018:15859
+enqueueAndForget @ firebase_firestore.js?v=5583f018:15841
+(anônimo) @ firebase_firestore.js?v=5583f018:12820
+(anônimo) @ firebase_firestore.js?v=5583f018:12800
+i_ @ firebase_firestore.js?v=5583f018:12435
+(anônimo) @ firebase_firestore.js?v=5583f018:12573
+(anônimo) @ firebase_firestore.js?v=5583f018:12536
+ab @ firebase_firestore.js?v=5583f018:948
+F2 @ firebase_firestore.js?v=5583f018:918
+Z2.ta @ firebase_firestore.js?v=5583f018:2538
+Rb @ firebase_firestore.js?v=5583f018:1417
+M2.Y @ firebase_firestore.js?v=5583f018:1282
+M2.ca @ firebase_firestore.js?v=5583f018:1213
+ab @ firebase_firestore.js?v=5583f018:948
+F2 @ firebase_firestore.js?v=5583f018:918
+Wc @ firebase_firestore.js?v=5583f018:1952
+h.bb @ firebase_firestore.js?v=5583f018:1947
+h.Ea @ firebase_firestore.js?v=5583f018:1944
+Lc @ firebase_firestore.js?v=5583f018:1844
+h.Pa @ firebase_firestore.js?v=5583f018:1811
+Promise.then
+Nc @ firebase_firestore.js?v=5583f018:1802
+h.Sa @ firebase_firestore.js?v=5583f018:1798
+Promise.then
+h.send @ firebase_firestore.js?v=5583f018:1779
+h.ea @ firebase_firestore.js?v=5583f018:1920
+Jb @ firebase_firestore.js?v=5583f018:1206
+fd @ firebase_firestore.js?v=5583f018:2339
+h.ab @ firebase_firestore.js?v=5583f018:2314
+(anônimo) @ firebase_firestore.js?v=5583f018:1065
+setTimeout
+ub @ firebase_firestore.js?v=5583f018:1064
+h.Fa @ firebase_firestore.js?v=5583f018:2310
+Da @ firebase_firestore.js?v=5583f018:667
+Promise.then
+x2 @ firebase_firestore.js?v=5583f018:661
+ec @ firebase_firestore.js?v=5583f018:2292
+Rb @ firebase_firestore.js?v=5583f018:1414
+M2.Y @ firebase_firestore.js?v=5583f018:1282
+M2.ca @ firebase_firestore.js?v=5583f018:1213
+ab @ firebase_firestore.js?v=5583f018:948
+F2 @ firebase_firestore.js?v=5583f018:918
+Wc @ firebase_firestore.js?v=5583f018:1952
+h.bb @ firebase_firestore.js?v=5583f018:1947
+h.Ea @ firebase_firestore.js?v=5583f018:1944
+Lc @ firebase_firestore.js?v=5583f018:1844
+h.Pa @ firebase_firestore.js?v=5583f018:1811
+Promise.then
+Nc @ firebase_firestore.js?v=5583f018:1802
+h.Sa @ firebase_firestore.js?v=5583f018:1798
+Promise.then
+h.send @ firebase_firestore.js?v=5583f018:1779
+h.ea @ firebase_firestore.js?v=5583f018:1920
+Jb @ firebase_firestore.js?v=5583f018:1201
+Hb @ firebase_firestore.js?v=5583f018:1176
+h.Ga @ firebase_firestore.js?v=5583f018:2226
+Da @ firebase_firestore.js?v=5583f018:667
+Promise.then
+x2 @ firebase_firestore.js?v=5583f018:661
+fc @ firebase_firestore.js?v=5583f018:2170
+h.connect @ firebase_firestore.js?v=5583f018:2130
+Y2.m @ firebase_firestore.js?v=5583f018:2486
+Go @ firebase_firestore.js?v=5583f018:12530
+send @ firebase_firestore.js?v=5583f018:12423
+F_ @ firebase_firestore.js?v=5583f018:12718
+H_ @ firebase_firestore.js?v=5583f018:12921
+__PRIVATE_onWriteStreamOpen @ firebase_firestore.js?v=5583f018:13273
+(anônimo) @ firebase_firestore.js?v=5583f018:12796
+(anônimo) @ firebase_firestore.js?v=5583f018:12820
+(anônimo) @ firebase_firestore.js?v=5583f018:15859
+(anônimo) @ firebase_firestore.js?v=5583f018:15890
+Promise.then
+Yu @ firebase_firestore.js?v=5583f018:15890
+enqueue @ firebase_firestore.js?v=5583f018:15859
+enqueueAndForget @ firebase_firestore.js?v=5583f018:15841
+(anônimo) @ firebase_firestore.js?v=5583f018:12820
+(anônimo) @ firebase_firestore.js?v=5583f018:12796
+n_ @ firebase_firestore.js?v=5583f018:12429
+(anônimo) @ firebase_firestore.js?v=5583f018:12578
+setTimeout
+a_ @ firebase_firestore.js?v=5583f018:12577
+k_ @ firebase_firestore.js?v=5583f018:12900
+B_ @ firebase_firestore.js?v=5583f018:12793
+(anônimo) @ firebase_firestore.js?v=5583f018:12783
+Promise.then
+auth @ firebase_firestore.js?v=5583f018:12779
+start @ firebase_firestore.js?v=5583f018:12678
+start @ firebase_firestore.js?v=5583f018:12894
+__PRIVATE_startWriteStream @ firebase_firestore.js?v=5583f018:13270
+__PRIVATE_fillWritePipeline @ firebase_firestore.js?v=5583f018:13256
+await in __PRIVATE_fillWritePipeline
+__PRIVATE_syncEngineWrite @ firebase_firestore.js?v=5583f018:14258
+await in __PRIVATE_syncEngineWrite
+(anônimo) @ firebase_firestore.js?v=5583f018:17621
+await in (anônimo)
+(anônimo) @ firebase_firestore.js?v=5583f018:15859
+(anônimo) @ firebase_firestore.js?v=5583f018:15890
+Promise.then
+Yu @ firebase_firestore.js?v=5583f018:15890
+enqueue @ firebase_firestore.js?v=5583f018:15859
+enqueueAndForget @ firebase_firestore.js?v=5583f018:15841
+__PRIVATE_firestoreClientWrite @ firebase_firestore.js?v=5583f018:17621
+executeWrite @ firebase_firestore.js?v=5583f018:17622
+addDoc @ firebase_firestore.js?v=5583f018:17568
+createConversation @ firebase.ts:1527
+handleSelectModule @ chat.tsx:206
+onClick @ chat.tsx:640
+callCallback2 @ chunk-XQLYTHWV.js?v=5583f018:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=5583f018:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=5583f018:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=5583f018:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=5583f018:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=5583f018:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=5583f018:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=5583f018:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=5583f018:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=5583f018:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=5583f018:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=5583f018:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=5583f018:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=5583f018:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=5583f018:5449
+  POST https://firestore.googleapis.com/google.firestore.v1.Firestore/Write/channel?VER=8&database=projects%2Fpreskriptor-e8a69%2Fdatabases%2F(default)&gsessionid=GAPX4YqdmFEn7EMpIQ7mV6_aI7RawjcEfiEx5WJcitU&SID=L7FH6MrDxOlVrDyFYrWZ8w&RID=79294&TYPE=terminate&zx=a8o5aif7l2 400 (Bad Request)
+gc @ firebase_firestore.js?v=5583f018:2145
+Y2.close @ firebase_firestore.js?v=5583f018:2489
+(anônimo) @ firebase_firestore.js?v=5583f018:12572
+(anônimo) @ firebase_firestore.js?v=5583f018:12536
+ab @ firebase_firestore.js?v=5583f018:948
+F2 @ firebase_firestore.js?v=5583f018:918
+Z2.ta @ firebase_firestore.js?v=5583f018:2538
+Rb @ firebase_firestore.js?v=5583f018:1417
+M2.Y @ firebase_firestore.js?v=5583f018:1282
+M2.ca @ firebase_firestore.js?v=5583f018:1213
+ab @ firebase_firestore.js?v=5583f018:948
+F2 @ firebase_firestore.js?v=5583f018:918
+Wc @ firebase_firestore.js?v=5583f018:1952
+h.bb @ firebase_firestore.js?v=5583f018:1947
+h.Ea @ firebase_firestore.js?v=5583f018:1944
+Lc @ firebase_firestore.js?v=5583f018:1844
+h.Pa @ firebase_firestore.js?v=5583f018:1811
+Promise.then
+Nc @ firebase_firestore.js?v=5583f018:1802
+h.Pa @ firebase_firestore.js?v=5583f018:1812
+Promise.then
+Nc @ firebase_firestore.js?v=5583f018:1802
+h.Sa @ firebase_firestore.js?v=5583f018:1798
+Promise.then
+h.send @ firebase_firestore.js?v=5583f018:1779
+h.ea @ firebase_firestore.js?v=5583f018:1920
+Jb @ firebase_firestore.js?v=5583f018:1206
+fd @ firebase_firestore.js?v=5583f018:2339
+h.Fa @ firebase_firestore.js?v=5583f018:2306
+Da @ firebase_firestore.js?v=5583f018:667
+Promise.then
+x2 @ firebase_firestore.js?v=5583f018:661
+fc @ firebase_firestore.js?v=5583f018:2170
+Y2.o @ firebase_firestore.js?v=5583f018:2499
+Go @ firebase_firestore.js?v=5583f018:12530
+send @ firebase_firestore.js?v=5583f018:12423
+F_ @ firebase_firestore.js?v=5583f018:12718
+G_ @ firebase_firestore.js?v=5583f018:12929
+__PRIVATE_onWriteHandshakeComplete @ firebase_firestore.js?v=5583f018:13277
+q_ @ firebase_firestore.js?v=5583f018:12904
+(anônimo) @ firebase_firestore.js?v=5583f018:12800
+(anônimo) @ firebase_firestore.js?v=5583f018:12820
+(anônimo) @ firebase_firestore.js?v=5583f018:15859
+(anônimo) @ firebase_firestore.js?v=5583f018:15890
+Promise.then
+Yu @ firebase_firestore.js?v=5583f018:15890
+enqueue @ firebase_firestore.js?v=5583f018:15859
+enqueueAndForget @ firebase_firestore.js?v=5583f018:15841
+(anônimo) @ firebase_firestore.js?v=5583f018:12820
+(anônimo) @ firebase_firestore.js?v=5583f018:12800
+i_ @ firebase_firestore.js?v=5583f018:12435
+(anônimo) @ firebase_firestore.js?v=5583f018:12573
+(anônimo) @ firebase_firestore.js?v=5583f018:12536
+ab @ firebase_firestore.js?v=5583f018:948
+F2 @ firebase_firestore.js?v=5583f018:918
+Z2.ta @ firebase_firestore.js?v=5583f018:2538
+Rb @ firebase_firestore.js?v=5583f018:1417
+M2.Y @ firebase_firestore.js?v=5583f018:1282
+M2.ca @ firebase_firestore.js?v=5583f018:1213
+ab @ firebase_firestore.js?v=5583f018:948
+F2 @ firebase_firestore.js?v=5583f018:918
+Wc @ firebase_firestore.js?v=5583f018:1952
+h.bb @ firebase_firestore.js?v=5583f018:1947
+h.Ea @ firebase_firestore.js?v=5583f018:1944
+Lc @ firebase_firestore.js?v=5583f018:1844
+h.Pa @ firebase_firestore.js?v=5583f018:1811
+Promise.then
+Nc @ firebase_firestore.js?v=5583f018:1802
+h.Sa @ firebase_firestore.js?v=5583f018:1798
+Promise.then
+h.send @ firebase_firestore.js?v=5583f018:1779
+h.ea @ firebase_firestore.js?v=5583f018:1920
+Jb @ firebase_firestore.js?v=5583f018:1206
+fd @ firebase_firestore.js?v=5583f018:2339
+h.ab @ firebase_firestore.js?v=5583f018:2314
+(anônimo) @ firebase_firestore.js?v=5583f018:1065
+setTimeout
+ub @ firebase_firestore.js?v=5583f018:1064
+h.Fa @ firebase_firestore.js?v=5583f018:2310
+Da @ firebase_firestore.js?v=5583f018:667
+Promise.then
+x2 @ firebase_firestore.js?v=5583f018:661
+ec @ firebase_firestore.js?v=5583f018:2292
+Rb @ firebase_firestore.js?v=5583f018:1414
+M2.Y @ firebase_firestore.js?v=5583f018:1282
+M2.ca @ firebase_firestore.js?v=5583f018:1213
+ab @ firebase_firestore.js?v=5583f018:948
+F2 @ firebase_firestore.js?v=5583f018:918
+Wc @ firebase_firestore.js?v=5583f018:1952
+h.bb @ firebase_firestore.js?v=5583f018:1947
+h.Ea @ firebase_firestore.js?v=5583f018:1944
+Lc @ firebase_firestore.js?v=5583f018:1844
+h.Pa @ firebase_firestore.js?v=5583f018:1811
+Promise.then
+Nc @ firebase_firestore.js?v=5583f018:1802
+h.Sa @ firebase_firestore.js?v=5583f018:1798
+Promise.then
+h.send @ firebase_firestore.js?v=5583f018:1779
+h.ea @ firebase_firestore.js?v=5583f018:1920
+Jb @ firebase_firestore.js?v=5583f018:1201
+Hb @ firebase_firestore.js?v=5583f018:1176
+h.Ga @ firebase_firestore.js?v=5583f018:2226
+Da @ firebase_firestore.js?v=5583f018:667
+Promise.then
+x2 @ firebase_firestore.js?v=5583f018:661
+fc @ firebase_firestore.js?v=5583f018:2170
+h.connect @ firebase_firestore.js?v=5583f018:2130
+Y2.m @ firebase_firestore.js?v=5583f018:2486
+Go @ firebase_firestore.js?v=5583f018:12530
+send @ firebase_firestore.js?v=5583f018:12423
+F_ @ firebase_firestore.js?v=5583f018:12718
+H_ @ firebase_firestore.js?v=5583f018:12921
+__PRIVATE_onWriteStreamOpen @ firebase_firestore.js?v=5583f018:13273
+(anônimo) @ firebase_firestore.js?v=5583f018:12796
+(anônimo) @ firebase_firestore.js?v=5583f018:12820
+(anônimo) @ firebase_firestore.js?v=5583f018:15859
+(anônimo) @ firebase_firestore.js?v=5583f018:15890
+Promise.then
+Yu @ firebase_firestore.js?v=5583f018:15890
+enqueue @ firebase_firestore.js?v=5583f018:15859
+enqueueAndForget @ firebase_firestore.js?v=5583f018:15841
+(anônimo) @ firebase_firestore.js?v=5583f018:12820
+(anônimo) @ firebase_firestore.js?v=5583f018:12796
+n_ @ firebase_firestore.js?v=5583f018:12429
+(anônimo) @ firebase_firestore.js?v=5583f018:12578
+setTimeout
+a_ @ firebase_firestore.js?v=5583f018:12577
+k_ @ firebase_firestore.js?v=5583f018:12900
+B_ @ firebase_firestore.js?v=5583f018:12793
+(anônimo) @ firebase_firestore.js?v=5583f018:12783
+Promise.then
+auth @ firebase_firestore.js?v=5583f018:12779
+start @ firebase_firestore.js?v=5583f018:12678
+start @ firebase_firestore.js?v=5583f018:12894
+__PRIVATE_startWriteStream @ firebase_firestore.js?v=5583f018:13270
+__PRIVATE_fillWritePipeline @ firebase_firestore.js?v=5583f018:13256
+await in __PRIVATE_fillWritePipeline
+__PRIVATE_syncEngineWrite @ firebase_firestore.js?v=5583f018:14258
+await in __PRIVATE_syncEngineWrite
+(anônimo) @ firebase_firestore.js?v=5583f018:17621
+await in (anônimo)
+(anônimo) @ firebase_firestore.js?v=5583f018:15859
+(anônimo) @ firebase_firestore.js?v=5583f018:15890
+Promise.then
+Yu @ firebase_firestore.js?v=5583f018:15890
+enqueue @ firebase_firestore.js?v=5583f018:15859
+enqueueAndForget @ firebase_firestore.js?v=5583f018:15841
+__PRIVATE_firestoreClientWrite @ firebase_firestore.js?v=5583f018:17621
+executeWrite @ firebase_firestore.js?v=5583f018:17622
+addDoc @ firebase_firestore.js?v=5583f018:17568
+createConversation @ firebase.ts:1107
+handleSelectModule @ chat.tsx:153
+onClick @ chat.tsx:647
+callCallback2 @ chunk-XQLYTHWV.js?v=5583f018:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=5583f018:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=5583f018:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=5583f018:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=5583f018:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=5583f018:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=5583f018:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=5583f018:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=5583f018:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=5583f018:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=5583f018:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=5583f018:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=5583f018:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=5583f018:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=5583f018:5449
+Console.js:61 🟢 STREAMING INICIADO NO OPENAI.TS
+Console.js:61 🔸 CHUNK NO OPENAI.TS: Ol
+Console.js:61 📨 CHAMANDO onChunk callback com: Ol tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: á
+Console.js:61 📨 CHAMANDO onChunk callback com: á tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: ,
+Console.js:61 📨 CHAMANDO onChunk callback com: , tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  eu
+Console.js:61 📨 CHAMANDO onChunk callback com:  eu tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  sou
+Console.js:61 📨 CHAMANDO onChunk callback com:  sou tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  o
+Console.js:61 📨 CHAMANDO onChunk callback com:  o tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  Derm
+Console.js:61 📨 CHAMANDO onChunk callback com:  Derm tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: ask
+Console.js:61 📨 CHAMANDO onChunk callback com: ask tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: ri
+Console.js:61 📨 CHAMANDO onChunk callback com: ri tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: pt
+Console.js:61 📨 CHAMANDO onChunk callback com: pt tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: or
+Console.js:61 📨 CHAMANDO onChunk callback com: or tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  e
+Console.js:61 📨 CHAMANDO onChunk callback com:  e tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  vou
+Console.js:61 📨 CHAMANDO onChunk callback com:  vou tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  te
+Console.js:61 📨 CHAMANDO onChunk callback com:  te tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  ajud
+Console.js:61 📨 CHAMANDO onChunk callback com:  ajud tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: ar
+Console.js:61 📨 CHAMANDO onChunk callback com: ar tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  na
+Console.js:61 📨 CHAMANDO onChunk callback com:  na tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  anál
+Console.js:61 📨 CHAMANDO onChunk callback com:  anál tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS: ise
+Console.js:61 📨 CHAMANDO onChunk callback com: ise tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  do
+Console.js:61 📨 CHAMANDO onChunk callback com:  do tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  caso
+Console.js:61 📨 CHAMANDO onChunk callback com:  caso tipo: string
+Console.js:61 ✅ onChunk callback EXECUTADO COM SUCESSO
+Console.js:61 🔸 CHUNK NO OPENAI.TS:  dermat
+ 📨 CHAMANDO onChunk callback com:  dermat tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: ológ
+ 📨 CHAMANDO onChunk callback com: ológ tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: ico
+ 📨 CHAMANDO onChunk callback com: ico tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: .
+ 📨 CHAMANDO onChunk callback com: . tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS:   
+
+ 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: Por
+ 📨 CHAMANDO onChunk callback com: Por tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS:  favor
+ 📨 CHAMANDO onChunk callback com:  favor tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: ,
+ 📨 CHAMANDO onChunk callback com: , tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS:  ins
+ 📨 CHAMANDO onChunk callback com:  ins tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: ira
+ 📨 CHAMANDO onChunk callback com: ira tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS:  a
+ 📨 CHAMANDO onChunk callback com:  a tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS:  descri
+ 📨 CHAMANDO onChunk callback com:  descri tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: ção
+ 📨 CHAMANDO onChunk callback com: ção tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS:  cl
+ 📨 CHAMANDO onChunk callback com:  cl tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: ín
+ 📨 CHAMANDO onChunk callback com: ín tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: ica
+ 📨 CHAMANDO onChunk callback com: ica tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS:  (
+ 📨 CHAMANDO onChunk callback com:  ( tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: temp
+ 📨 CHAMANDO onChunk callback com: temp tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: o
+ 📨 CHAMANDO onChunk callback com: o tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS:  de
+ 📨 CHAMANDO onChunk callback com:  de tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS:  ev
+ 📨 CHAMANDO onChunk callback com:  ev tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: olu
+ 📨 CHAMANDO onChunk callback com: olu tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: ção
+ 📨 CHAMANDO onChunk callback com: ção tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: ,
+ 📨 CHAMANDO onChunk callback com: , tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS:  sint
+ 📨 CHAMANDO onChunk callback com:  sint tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: omas
+ 📨 CHAMANDO onChunk callback com: omas tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: ,
+ 📨 CHAMANDO onChunk callback com: , tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS:  histó
+ 📨 CHAMANDO onChunk callback com:  histó tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: rico
+ 📨 CHAMANDO onChunk callback com: rico tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: ,
+ 📨 CHAMANDO onChunk callback com: , tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS:  trat
+ 📨 CHAMANDO onChunk callback com:  trat tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: amentos
+ 📨 CHAMANDO onChunk callback com: amentos tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS:  pré
+ 📨 CHAMANDO onChunk callback com:  pré tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: v
+ 📨 CHAMANDO onChunk callback com: v tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: ios
+ 📨 CHAMANDO onChunk callback com: ios tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: )
+ 📨 CHAMANDO onChunk callback com: ) tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS:  e
+ 📨 CHAMANDO onChunk callback com:  e tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: /
+ 📨 CHAMANDO onChunk callback com: / tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: ou
+ 📨 CHAMANDO onChunk callback com: ou tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS:  a
+ 📨 CHAMANDO onChunk callback com:  a tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS:  foto
+ 📨 CHAMANDO onChunk callback com:  foto tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS:  da
+ 📨 CHAMANDO onChunk callback com:  da tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS:  les
+ 📨 CHAMANDO onChunk callback com:  les tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: ão
+ 📨 CHAMANDO onChunk callback com: ão tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS:  para
+ 📨 CHAMANDO onChunk callback com:  para tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS:  iniciar
+ 📨 CHAMANDO onChunk callback com:  iniciar tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: .
+ 📨 CHAMANDO onChunk callback com: . tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS:   
+
+ 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: Se
+ 📨 CHAMANDO onChunk callback com: Se tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS:  possível
+ 📨 CHAMANDO onChunk callback com:  possível tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: ,
+ 📨 CHAMANDO onChunk callback com: , tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS:  for
+ 📨 CHAMANDO onChunk callback com:  for tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: ne
+ 📨 CHAMANDO onChunk callback com: ne tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: ça
+ 📨 CHAMANDO onChunk callback com: ça tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS:  ambos
+ 📨 CHAMANDO onChunk callback com:  ambos tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS:  para
+ 📨 CHAMANDO onChunk callback com:  para tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS:  aument
+ 📨 CHAMANDO onChunk callback com:  aument tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: ar
+ 📨 CHAMANDO onChunk callback com: ar tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS:  a
+ 📨 CHAMANDO onChunk callback com:  a tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS:  minha
+ 📨 CHAMANDO onChunk callback com:  minha tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS:  taxa
+ 📨 CHAMANDO onChunk callback com:  taxa tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS:  de
+ 📨 CHAMANDO onChunk callback com:  de tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS:  ac
+ 📨 CHAMANDO onChunk callback com:  ac tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: erto
+ 📨 CHAMANDO onChunk callback com: erto tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ 🔸 CHUNK NO OPENAI.TS: !
+ 📨 CHAMANDO onChunk callback com: ! tipo: string
+ ✅ onChunk callback EXECUTADO COM SUCESSO
+ ✅ STREAMING FINALIZADO NO OPENAI.TS: 281 caracteres
+Console.js:61 Firebase config: {projectId: 'preskriptor-e8a69', authDomain: 'preskriptor-e8a69.firebaseapp.com', storageBucket: 'preskriptor-e8a69.appspot.com', messagingSenderId: '361328259562', appId: '[PRESENTE]', …}
+Console.js:61 Criada nova instância do Firebase
+Console.js:61 🔐 USUÁRIO LOGADO - DADOS COMPLETOS: {uid: '27EV4avUl6N0gJs7OMWS1vWxxUi2', email: 'assitba@hotmail.com', displayName: null, name: 'assitba', cellphone: '', …}
+Console.js:61 📋 Detalhes do perfil Firestore: {createdAt: Wed Aug 27 2025 15:47:25 GMT-0300 (Horário Padrão de Brasília), verified: true, cellphone: '', updatedAt: Wed Aug 27 2025 15:47:25 GMT-0300 (Horário Padrão de Brasília), name: 'assitba', …}
+Console.js:61 🔥 Dados básicos do Firebase Auth: {uid: '27EV4avUl6N0gJs7OMWS1vWxxUi2', email: 'assitba@hotmail.com', displayName: null, photoURL: null}
+Console.js:61 Erro ao buscar conversas: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+getUserConversations @ firebase.ts:1610
+await in getUserConversations
+loadConversations @ SidebarLayout.tsx:63
+(anônimo) @ SidebarLayout.tsx:92
+commitHookEffectListMount @ chunk-XQLYTHWV.js?v=5583f018:16915
+commitPassiveMountOnFiber @ chunk-XQLYTHWV.js?v=5583f018:18156
+commitPassiveMountEffects_complete @ chunk-XQLYTHWV.js?v=5583f018:18129
+commitPassiveMountEffects_begin @ chunk-XQLYTHWV.js?v=5583f018:18119
+commitPassiveMountEffects @ chunk-XQLYTHWV.js?v=5583f018:18109
+flushPassiveEffectsImpl @ chunk-XQLYTHWV.js?v=5583f018:19490
+flushPassiveEffects @ chunk-XQLYTHWV.js?v=5583f018:19447
+performSyncWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18868
+flushSyncCallbacks @ chunk-XQLYTHWV.js?v=5583f018:9119
+commitRootImpl @ chunk-XQLYTHWV.js?v=5583f018:19432
+commitRoot @ chunk-XQLYTHWV.js?v=5583f018:19277
+finishConcurrentRender @ chunk-XQLYTHWV.js?v=5583f018:18805
+performConcurrentWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18718
+workLoop @ chunk-XQLYTHWV.js?v=5583f018:197
+flushWork @ chunk-XQLYTHWV.js?v=5583f018:176
+performWorkUntilDeadline @ chunk-XQLYTHWV.js?v=5583f018:384
+Console.js:61 Erro ao carregar histórico: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+loadConversations @ SidebarLayout.tsx:67
+await in loadConversations
+(anônimo) @ SidebarLayout.tsx:92
+commitHookEffectListMount @ chunk-XQLYTHWV.js?v=5583f018:16915
+commitPassiveMountOnFiber @ chunk-XQLYTHWV.js?v=5583f018:18156
+commitPassiveMountEffects_complete @ chunk-XQLYTHWV.js?v=5583f018:18129
+commitPassiveMountEffects_begin @ chunk-XQLYTHWV.js?v=5583f018:18119
+commitPassiveMountEffects @ chunk-XQLYTHWV.js?v=5583f018:18109
+flushPassiveEffectsImpl @ chunk-XQLYTHWV.js?v=5583f018:19490
+flushPassiveEffects @ chunk-XQLYTHWV.js?v=5583f018:19447
+performSyncWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18868
+flushSyncCallbacks @ chunk-XQLYTHWV.js?v=5583f018:9119
+commitRootImpl @ chunk-XQLYTHWV.js?v=5583f018:19432
+commitRoot @ chunk-XQLYTHWV.js?v=5583f018:19277
+finishConcurrentRender @ chunk-XQLYTHWV.js?v=5583f018:18805
+performConcurrentWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18718
+workLoop @ chunk-XQLYTHWV.js?v=5583f018:197
+flushWork @ chunk-XQLYTHWV.js?v=5583f018:176
+performWorkUntilDeadline @ chunk-XQLYTHWV.js?v=5583f018:384
+Console.js:61 Erro ao criar conversa: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+createConversation @ firebase.ts:1538
+await in createConversation
+handleSelectModule @ chat.tsx:206
+onClick @ chat.tsx:640
+callCallback2 @ chunk-XQLYTHWV.js?v=5583f018:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=5583f018:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=5583f018:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=5583f018:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=5583f018:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=5583f018:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=5583f018:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=5583f018:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=5583f018:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=5583f018:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=5583f018:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=5583f018:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=5583f018:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=5583f018:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=5583f018:5449
+Console.js:61 Erro ao criar conversa: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+handleSelectModule @ chat.tsx:214
+await in handleSelectModule
+onClick @ chat.tsx:640
+callCallback2 @ chunk-XQLYTHWV.js?v=5583f018:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=5583f018:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=5583f018:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=5583f018:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=5583f018:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=5583f018:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=5583f018:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=5583f018:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=5583f018:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=5583f018:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=5583f018:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=5583f018:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=5583f018:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=5583f018:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=5583f018:5449
+firebase.ts:1527  POST https://firestore.googleapis.com/google.firestore.v1.Firestore/Write/channel?VER=8&database=projects%2Fpreskriptor-e8a69%2Fdatabases%2F(default)&gsessionid=wxd6hN6jIftHWfPeUdONl_VilUa7Ye_NialZPwut8e4&SID=QYTKKTeCtFlPFoxsjNNhzg&RID=83873&TYPE=terminate&zx=np9nx2p83szc 400 (Bad Request)
+gc @ firebase_firestore.js?v=5583f018:2145
+Y2.close @ firebase_firestore.js?v=5583f018:2489
+(anônimo) @ firebase_firestore.js?v=5583f018:12572
+(anônimo) @ firebase_firestore.js?v=5583f018:12536
+ab @ firebase_firestore.js?v=5583f018:948
+F2 @ firebase_firestore.js?v=5583f018:918
+Z2.ta @ firebase_firestore.js?v=5583f018:2538
+Rb @ firebase_firestore.js?v=5583f018:1417
+M2.Y @ firebase_firestore.js?v=5583f018:1282
+M2.ca @ firebase_firestore.js?v=5583f018:1213
+ab @ firebase_firestore.js?v=5583f018:948
+F2 @ firebase_firestore.js?v=5583f018:918
+Wc @ firebase_firestore.js?v=5583f018:1952
+h.bb @ firebase_firestore.js?v=5583f018:1947
+h.Ea @ firebase_firestore.js?v=5583f018:1944
+Lc @ firebase_firestore.js?v=5583f018:1844
+h.Pa @ firebase_firestore.js?v=5583f018:1811
+Promise.then
+Nc @ firebase_firestore.js?v=5583f018:1802
+h.Pa @ firebase_firestore.js?v=5583f018:1812
+Promise.then
+Nc @ firebase_firestore.js?v=5583f018:1802
+h.Sa @ firebase_firestore.js?v=5583f018:1798
+Promise.then
+h.send @ firebase_firestore.js?v=5583f018:1779
+h.ea @ firebase_firestore.js?v=5583f018:1920
+Jb @ firebase_firestore.js?v=5583f018:1206
+fd @ firebase_firestore.js?v=5583f018:2339
+h.Fa @ firebase_firestore.js?v=5583f018:2306
+Da @ firebase_firestore.js?v=5583f018:667
+Promise.then
+x2 @ firebase_firestore.js?v=5583f018:661
+fc @ firebase_firestore.js?v=5583f018:2170
+Y2.o @ firebase_firestore.js?v=5583f018:2499
+Go @ firebase_firestore.js?v=5583f018:12530
+send @ firebase_firestore.js?v=5583f018:12423
+F_ @ firebase_firestore.js?v=5583f018:12718
+G_ @ firebase_firestore.js?v=5583f018:12929
+__PRIVATE_onWriteHandshakeComplete @ firebase_firestore.js?v=5583f018:13277
+q_ @ firebase_firestore.js?v=5583f018:12904
+(anônimo) @ firebase_firestore.js?v=5583f018:12800
+(anônimo) @ firebase_firestore.js?v=5583f018:12820
+(anônimo) @ firebase_firestore.js?v=5583f018:15859
+(anônimo) @ firebase_firestore.js?v=5583f018:15890
+Promise.then
+Yu @ firebase_firestore.js?v=5583f018:15890
+enqueue @ firebase_firestore.js?v=5583f018:15859
+enqueueAndForget @ firebase_firestore.js?v=5583f018:15841
+(anônimo) @ firebase_firestore.js?v=5583f018:12820
+(anônimo) @ firebase_firestore.js?v=5583f018:12800
+i_ @ firebase_firestore.js?v=5583f018:12435
+(anônimo) @ firebase_firestore.js?v=5583f018:12573
+(anônimo) @ firebase_firestore.js?v=5583f018:12536
+ab @ firebase_firestore.js?v=5583f018:948
+F2 @ firebase_firestore.js?v=5583f018:918
+Z2.ta @ firebase_firestore.js?v=5583f018:2538
+Rb @ firebase_firestore.js?v=5583f018:1417
+M2.Y @ firebase_firestore.js?v=5583f018:1282
+M2.ca @ firebase_firestore.js?v=5583f018:1213
+ab @ firebase_firestore.js?v=5583f018:948
+F2 @ firebase_firestore.js?v=5583f018:918
+Wc @ firebase_firestore.js?v=5583f018:1952
+h.bb @ firebase_firestore.js?v=5583f018:1947
+h.Ea @ firebase_firestore.js?v=5583f018:1944
+Lc @ firebase_firestore.js?v=5583f018:1844
+h.Pa @ firebase_firestore.js?v=5583f018:1811
+Promise.then
+Nc @ firebase_firestore.js?v=5583f018:1802
+h.Sa @ firebase_firestore.js?v=5583f018:1798
+Promise.then
+h.send @ firebase_firestore.js?v=5583f018:1779
+h.ea @ firebase_firestore.js?v=5583f018:1920
+Jb @ firebase_firestore.js?v=5583f018:1206
+fd @ firebase_firestore.js?v=5583f018:2339
+h.ab @ firebase_firestore.js?v=5583f018:2314
+(anônimo) @ firebase_firestore.js?v=5583f018:1065
+setTimeout
+ub @ firebase_firestore.js?v=5583f018:1064
+h.Fa @ firebase_firestore.js?v=5583f018:2310
+Da @ firebase_firestore.js?v=5583f018:667
+Promise.then
+x2 @ firebase_firestore.js?v=5583f018:661
+ec @ firebase_firestore.js?v=5583f018:2292
+Rb @ firebase_firestore.js?v=5583f018:1414
+M2.Y @ firebase_firestore.js?v=5583f018:1282
+M2.ca @ firebase_firestore.js?v=5583f018:1213
+ab @ firebase_firestore.js?v=5583f018:948
+F2 @ firebase_firestore.js?v=5583f018:918
+Wc @ firebase_firestore.js?v=5583f018:1952
+h.bb @ firebase_firestore.js?v=5583f018:1947
+h.Ea @ firebase_firestore.js?v=5583f018:1944
+Lc @ firebase_firestore.js?v=5583f018:1844
+h.Pa @ firebase_firestore.js?v=5583f018:1811
+Promise.then
+Nc @ firebase_firestore.js?v=5583f018:1802
+h.Sa @ firebase_firestore.js?v=5583f018:1798
+Promise.then
+h.send @ firebase_firestore.js?v=5583f018:1779
+h.ea @ firebase_firestore.js?v=5583f018:1920
+Jb @ firebase_firestore.js?v=5583f018:1201
+Hb @ firebase_firestore.js?v=5583f018:1176
+h.Ga @ firebase_firestore.js?v=5583f018:2226
+Da @ firebase_firestore.js?v=5583f018:667
+Promise.then
+x2 @ firebase_firestore.js?v=5583f018:661
+fc @ firebase_firestore.js?v=5583f018:2170
+h.connect @ firebase_firestore.js?v=5583f018:2130
+Y2.m @ firebase_firestore.js?v=5583f018:2486
+Go @ firebase_firestore.js?v=5583f018:12530
+send @ firebase_firestore.js?v=5583f018:12423
+F_ @ firebase_firestore.js?v=5583f018:12718
+H_ @ firebase_firestore.js?v=5583f018:12921
+__PRIVATE_onWriteStreamOpen @ firebase_firestore.js?v=5583f018:13273
+(anônimo) @ firebase_firestore.js?v=5583f018:12796
+(anônimo) @ firebase_firestore.js?v=5583f018:12820
+(anônimo) @ firebase_firestore.js?v=5583f018:15859
+(anônimo) @ firebase_firestore.js?v=5583f018:15890
+Promise.then
+Yu @ firebase_firestore.js?v=5583f018:15890
+enqueue @ firebase_firestore.js?v=5583f018:15859
+enqueueAndForget @ firebase_firestore.js?v=5583f018:15841
+(anônimo) @ firebase_firestore.js?v=5583f018:12820
+(anônimo) @ firebase_firestore.js?v=5583f018:12796
+n_ @ firebase_firestore.js?v=5583f018:12429
+(anônimo) @ firebase_firestore.js?v=5583f018:12578
+setTimeout
+a_ @ firebase_firestore.js?v=5583f018:12577
+k_ @ firebase_firestore.js?v=5583f018:12900
+B_ @ firebase_firestore.js?v=5583f018:12793
+(anônimo) @ firebase_firestore.js?v=5583f018:12783
+Promise.then
+auth @ firebase_firestore.js?v=5583f018:12779
+start @ firebase_firestore.js?v=5583f018:12678
+start @ firebase_firestore.js?v=5583f018:12894
+__PRIVATE_startWriteStream @ firebase_firestore.js?v=5583f018:13270
+__PRIVATE_fillWritePipeline @ firebase_firestore.js?v=5583f018:13256
+await in __PRIVATE_fillWritePipeline
+__PRIVATE_syncEngineWrite @ firebase_firestore.js?v=5583f018:14258
+await in __PRIVATE_syncEngineWrite
+(anônimo) @ firebase_firestore.js?v=5583f018:17621
+await in (anônimo)
+(anônimo) @ firebase_firestore.js?v=5583f018:15859
+(anônimo) @ firebase_firestore.js?v=5583f018:15890
+Promise.then
+Yu @ firebase_firestore.js?v=5583f018:15890
+enqueue @ firebase_firestore.js?v=5583f018:15859
+enqueueAndForget @ firebase_firestore.js?v=5583f018:15841
+__PRIVATE_firestoreClientWrite @ firebase_firestore.js?v=5583f018:17621
+executeWrite @ firebase_firestore.js?v=5583f018:17622
+addDoc @ firebase_firestore.js?v=5583f018:17568
+createConversation @ firebase.ts:1527
+handleSelectModule @ chat.tsx:206
+onClick @ chat.tsx:640
+callCallback2 @ chunk-XQLYTHWV.js?v=5583f018:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=5583f018:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=5583f018:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=5583f018:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=5583f018:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=5583f018:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=5583f018:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=5583f018:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=5583f018:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=5583f018:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=5583f018:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=5583f018:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=5583f018:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=5583f018:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=5583f018:5449

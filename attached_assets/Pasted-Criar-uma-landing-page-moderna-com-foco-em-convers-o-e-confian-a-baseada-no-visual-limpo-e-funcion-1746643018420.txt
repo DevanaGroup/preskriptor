@@ -1,0 +1,149 @@
+Criar uma landing page moderna, com foco em conversão e confiança, baseada no visual limpo e funcional do site da Transkriptor.
+
+Estrutura da Landing Page
+1. Header fixo (Sticky)
+Logo no canto esquerdo (simples, tipográfico, com ícone se possível)
+
+Menu com as opções:
+
+Funcionalidades
+
+Planos
+
+Sobre o idealizador
+
+Fale conosco
+
+No canto direito:
+
+Botão “Agende uma demonstração” (outline, azul)
+
+Botão “Experimente grátis” (azul sólido)
+
+2. Hero Section (full width, fundo branco com leve degradê)
+Título (grande, bold):
+Inteligência Artificial para Consultas Nutrológicas Mais Eficientes
+
+Subtítulo (peso médio):
+Cadastre pacientes, registre atendimentos com IA, emita prescrições e gerencie sua agenda – tudo em uma plataforma criada por quem entende da prática clínica.
+
+Botões principais (lado a lado, centralizados):
+
+“Experimente gratuitamente” (cor azul sólido)
+
+“Agende uma demonstração” (borda azul, texto azul)
+
+Linha inferior (opcional):
+Texto pequeno: “Plataforma voltada para nutrólogos, nutricionistas e clínicas especializadas”
+
+3. Seção: Funcionalidades principais (fundo cinza claro #f9f9f9)
+Use um grid com 4 ícones (SVG simples e modernos), com títulos e descrições curtas:
+
+Cadastro de Pacientes
+Armazene dados completos, histórico e preferências alimentares.
+
+IA para Consultas
+Assistente inteligente treinado para ajudar no diagnóstico e conduta clínica.
+
+Prescrições Nutrológicas
+Gere prescrições, dietas e orientações com base nos dados da consulta.
+
+Agenda Integrada
+Organize horários, consulte seu dia e receba alertas automáticos.
+
+4. Seção: Sobre o Idealizador (fundo branco)
+Layout em duas colunas:
+
+Lado esquerdo:
+
+Foto do Dr. Noé (placeholder)
+
+Nome: Dr. Noé – Nutrólogo
+
+Endereço: R. Visc. de Ouro Preto, 5 - 5º Andar - Botafogo, Rio de Janeiro - RJ, 22250-180
+
+Link clicável para Instagram: @drnoe.nutrologo
+
+Lado direito:
+Texto institucional:
+
+“Idealizada por um profissional da área, a Nutro.AI nasceu da prática clínica do Dr. Noé. Com anos de experiência e foco em inovação, ele criou uma solução que realmente entende as necessidades dos nutrólogos.”
+
+5. Seção: Planos de Assinatura (fundo azul claro #eef6ff)
+Título: Escolha o plano ideal para sua rotina de atendimentos
+
+Três cartões de plano em layout horizontal (desktop) ou empilhado (mobile):
+
+Cartão 1 – Started
+Até 50 consultas por mês
+
+Suporte básico
+
+R$ XX/mês
+
+R$ XX/ano (15% de desconto)
+
+Botão: “Assinar plano”
+
+Cartão 2 – Essentials (recomendado)
+Até 250 consultas por mês
+
+Suporte via chat
+
+R$ XX/mês
+
+R$ XX/ano (15% de desconto)
+
+Destaque visual com borda ou sombra
+
+Botão: “Assinar plano”
+
+Cartão 3 – PRO
+Até 500 consultas por mês
+
+Suporte premium + prioridade em atualizações
+
+R$ XX/mês
+
+R$ XX/ano (15% de desconto)
+
+Botão: “Assinar plano”
+
+6. Seção: Fale Conosco (fundo branco ou cinza muito claro)
+Título: Entre em contato com nossa equipe
+
+Subtítulo curto: “Ficou com dúvidas ou quer entender melhor como a plataforma pode te ajudar? Envie uma mensagem.”
+
+Formulário com os seguintes campos:
+
+Nome completo
+
+E-mail
+
+Telefone
+
+Mensagem (campo grande)
+
+Botão “Enviar mensagem” (azul sólido)
+
+Opcional: Ícone de atendimento via WhatsApp no canto inferior direito da página.
+
+7. Rodapé (Footer)
+Logo da plataforma
+
+Links de navegação (os mesmos do menu)
+
+Redes sociais (Instagram do Dr. Noé, LinkedIn da empresa se houver)
+
+Texto pequeno: “© 2025 Nutro.AI – Todos os direitos reservados”
+
+Estilo Visual
+Tipografia: Moderna e clean (ex: Inter, Poppins ou Roboto)
+
+Cores principais: Azul (inspirado no tom do Transkriptor), branco, cinza claro (#f9f9f9), azul claro para destaques (#eef6ff)
+
+Botões com cantos arredondados, sem sombra excessiva
+
+Layout responsivo, com grid que se adapta bem em telas pequenas
+
+Estilo de ícones minimalistas, com espaçamento generoso

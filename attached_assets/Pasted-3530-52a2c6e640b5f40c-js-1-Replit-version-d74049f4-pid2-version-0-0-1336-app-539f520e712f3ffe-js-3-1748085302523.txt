@@ -1,0 +1,179 @@
+3530-52a2c6e640b5f40c.js:1 Replit version d74049f4, pid2 version 0.0.1336
+_app-539f520e712f3ffe.js:38 
+      /////////////////////
+   ///////////////////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////        Curious and driven?
+  ///////////////@@@@@@@///////        Work with us!
+  ///////////////@@@@@@@///////
+  ///////////////@@@@@@@///////        https://join.replit.com/hack.with.us
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@#//////////////
+   ///////////////////////////
+      /////////////////////
+      
+content.js:1 Object
+_app-539f520e712f3ffe.js:38 [LaunchDarkly] LaunchDarkly client initialized
+_app-539f520e712f3ffe.js:38 [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/62b35a865152ab14c5942820/eyJrZXkiOiI0MTU2NzEyMSIsImtpbmQiOiJ1c2VyIiwiYW5vbnltb3VzIjpmYWxzZX0
+ Refused to load the font 'https://js.stripe.com/resources/colfax/Colfax-Medium.woff' because it violates the following Content Security Policy directive: "font-src 'none'".
+
+(anônimo) @ paletteBuilder.js:1
+paletteBuilder.js:1 Refused to load the font 'https://js.stripe.com/resources/colfax/Colfax-Medium.woff' because it violates the following Content Security Policy directive: "font-src 'none'".
+
+(anônimo) @ paletteBuilder.js:1
+_app-539f520e712f3ffe.js:38 [LaunchDarkly] Closing stream connection
+_app-539f520e712f3ffe.js:38 [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/62b35a865152ab14c5942820/eyJrZXkiOiI0MTU2NzEyMSIsImtpbmQiOiJ1c2VyIiwibmFtZSI6ImplZWFuZ2FsdmFvMjMiLCJyb2xlcyI6WyJpbnRlbnRfcGVyc29uYWwiXSwiZW1haWwiOiJqZWVhbmdhbHZhbzIzQGdtYWlsLmNvbSIsInRpbWVfY3JlYXRlZCI6MTc0NDc1MDE3MTUxMSwiX21ldGEiOnsicHJpdmF0ZUF0dHJpYnV0ZXMiOlsiZW1haWwiXX19
+/~:1 Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.
+ [Report Only] Refused to load the font 'https://js.stripe.com/resources/colfax/Colfax-Medium.woff' because it violates the following Content Security Policy directive: "font-src 'none'".
+
+paletteBuilder.js:1 [Report Only] Refused to load the font 'https://js.stripe.com/resources/colfax/Colfax-Medium.woff' because it violates the following Content Security Policy directive: "font-src 'none'".
+
+ Refused to load the font 'https://js.stripe.com/resources/colfax/Colfax-Medium.woff' because it violates the following Content Security Policy directive: "font-src 'none'".
+
+(anônimo) @ paletteBuilder.js:1
+paletteBuilder.js:1 Refused to load the font 'https://js.stripe.com/resources/colfax/Colfax-Medium.woff' because it violates the following Content Security Policy directive: "font-src 'none'".
+
+(anônimo) @ paletteBuilder.js:1
+icons.util.repl.co/bash.svg:1 
+            
+            
+           Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+_app-539f520e712f3ffe.js:38 [LaunchDarkly] Closing stream connection
+_app-539f520e712f3ffe.js:38 [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/62b35a865152ab14c5942820/eyJrZXkiOiI0MTU2NzEyMSIsImtpbmQiOiJ1c2VyIiwibmFtZSI6ImplZWFuZ2FsdmFvMjMiLCJyb2xlcyI6WyJpbnRlbnRfcGVyc29uYWwiXSwiZW1haWwiOiJqZWVhbmdhbHZhbzIzQGdtYWlsLmNvbSIsInRpbWVfY3JlYXRlZCI6MTc0NDc1MDE3MTUxMSwiX21ldGEiOnsicHJpdmF0ZUF0dHJpYnV0ZXMiOlsiZW1haWwiXX19
+icons.util.repl.co/bash.svg:1 
+            
+            
+           Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+icons.util.repl.co/bash.svg:1 
+            
+            
+           Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+_app-539f520e712f3ffe.js:38 If you do not provide children, you must specify an aria-label for accessibility
+(anônimo) @ _app-539f520e712f3ffe.js:38
+_app-539f520e712f3ffe.js:38 If you do not provide children, you must specify an aria-label for accessibility
+(anônimo) @ _app-539f520e712f3ffe.js:38
+_app-539f520e712f3ffe.js:38 If you do not provide children, you must specify an aria-label for accessibility
+(anônimo) @ _app-539f520e712f3ffe.js:38
+_app-539f520e712f3ffe.js:38 [LaunchDarkly] Closing stream connection
+_app-539f520e712f3ffe.js:38 [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/62b35a865152ab14c5942820/eyJrZXkiOiI0MTU2NzEyMSIsImtpbmQiOiJ1c2VyIiwibmFtZSI6ImplZWFuZ2FsdmFvMjMiLCJyb2xlcyI6WyJpbnRlbnRfcGVyc29uYWwiXSwiZW1haWwiOiJqZWVhbmdhbHZhbzIzQGdtYWlsLmNvbSIsInRpbWVfY3JlYXRlZCI6MTc0NDc1MDE3MTUxMSwiX21ldGEiOnsicHJpdmF0ZUF0dHJpYnV0ZXMiOlsiZW1haWwiXX19
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+framework-666f8ac969f2fa8f.js:1 Unrecognized feature: 'ambient-light-sensor'.
+_ @ framework-666f8ac969f2fa8f.js:1
+framework-666f8ac969f2fa8f.js:1 Unrecognized feature: 'battery'.
+_ @ framework-666f8ac969f2fa8f.js:1
+framework-666f8ac969f2fa8f.js:1 Unrecognized feature: 'execution-while-not-rendered'.
+_ @ framework-666f8ac969f2fa8f.js:1
+framework-666f8ac969f2fa8f.js:1 Unrecognized feature: 'execution-while-out-of-viewport'.
+_ @ framework-666f8ac969f2fa8f.js:1
+framework-666f8ac969f2fa8f.js:1 Unrecognized feature: 'layout-animations'.
+_ @ framework-666f8ac969f2fa8f.js:1
+framework-666f8ac969f2fa8f.js:1 Unrecognized feature: 'legacy-image-formats'.
+_ @ framework-666f8ac969f2fa8f.js:1
+framework-666f8ac969f2fa8f.js:1 Unrecognized feature: 'navigation-override'.
+_ @ framework-666f8ac969f2fa8f.js:1
+framework-666f8ac969f2fa8f.js:1 Unrecognized feature: 'oversized-images'.
+_ @ framework-666f8ac969f2fa8f.js:1
+framework-666f8ac969f2fa8f.js:1 Unrecognized feature: 'publickey-credentials'.
+_ @ framework-666f8ac969f2fa8f.js:1
+framework-666f8ac969f2fa8f.js:1 Unrecognized feature: 'speaker-selection'.
+_ @ framework-666f8ac969f2fa8f.js:1
+framework-666f8ac969f2fa8f.js:1 Unrecognized feature: 'unoptimized-images'.
+_ @ framework-666f8ac969f2fa8f.js:1
+framework-666f8ac969f2fa8f.js:1 Unrecognized feature: 'unsized-media'.
+_ @ framework-666f8ac969f2fa8f.js:1
+framework-666f8ac969f2fa8f.js:1 Unrecognized feature: 'pointer-lock'.
+_ @ framework-666f8ac969f2fa8f.js:1
+framework-666f8ac969f2fa8f.js:1 Allow attribute will take precedence over 'allowfullscreen'.
+_ @ framework-666f8ac969f2fa8f.js:1
+framework-666f8ac969f2fa8f.js:1 Allow attribute will take precedence over 'allowpaymentrequest'.
+_ @ framework-666f8ac969f2fa8f.js:1
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar3vv%3A:32 Unrecognized feature: 'ambient-light-sensor'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar3vv%3A:32 Unrecognized feature: 'battery'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar3vv%3A:32 Unrecognized feature: 'execution-while-not-rendered'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar3vv%3A:32 Unrecognized feature: 'execution-while-out-of-viewport'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar3vv%3A:32 Unrecognized feature: 'layout-animations'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar3vv%3A:32 Unrecognized feature: 'legacy-image-formats'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar3vv%3A:32 Unrecognized feature: 'navigation-override'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar3vv%3A:32 Unrecognized feature: 'oversized-images'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar3vv%3A:32 Unrecognized feature: 'publickey-credentials'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar3vv%3A:32 Unrecognized feature: 'speaker-selection'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar3vv%3A:32 Unrecognized feature: 'unoptimized-images'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar3vv%3A:32 Unrecognized feature: 'unsized-media'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar3vv%3A:32 Allow attribute will take precedence over 'allowfullscreen'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar3vv%3A:32 Allow attribute will take precedence over 'allowpaymentrequest'.
+Console.js:61 Firebase config: Object
+Console.js:61 Criada nova instância do Firebase
+Console.js:61 Setting up auth state listener...
+Console.js:61 Auth state changed: User logged in
+Console.js:61 Getting user profile for UID: sXqCssn1fYMirNtQfqhzvbU3Mhn1
+Console.js:61 🔍 Getting user profile for UID: sXqCssn1fYMirNtQfqhzvbU3Mhn1
+Console.js:61 Trying to get user document with UID as document ID
+Console.js:61 User document reference created: users/sXqCssn1fYMirNtQfqhzvbU3Mhn1
+Console.js:61 User document exists? true
+Console.js:61 User data found by direct ID: sXqCssn1fYMirNtQfqhzvbU3Mhn1
+Console.js:61 Firestore user profile: Object
+Console.js:61 User data set with Firestore profile
+Console.js:61 Firestore timeout reached
+Console.js:61 Erro ao carregar configurações de módulos: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+Console.js:61 Erro ao buscar mensagens do Firestore: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+Console.js:61 Encontradas 1 mensagens no localStorage
+Console.js:61 Erro ao carregar configurações de módulos: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+
+                
+          
+          
+          
+         Chrome is moving towards a new experience that allows users to choose to browse without third-party cookies.

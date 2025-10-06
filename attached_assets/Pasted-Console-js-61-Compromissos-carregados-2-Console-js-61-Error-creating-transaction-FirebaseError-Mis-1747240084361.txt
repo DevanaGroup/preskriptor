@@ -1,0 +1,173 @@
+Console.js:61 Compromissos carregados: 2
+Console.js:61 Error creating transaction FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+createTransaction @ firebase.ts:641
+await in createTransaction
+updateAppointmentStatus @ agenda.tsx:491
+await in updateAppointmentStatus
+onClick @ agenda.tsx:595
+callCallback2 @ chunk-RPCDYKBN.js?v=876258e3:3674
+invokeGuardedCallbackDev @ chunk-RPCDYKBN.js?v=876258e3:3699
+invokeGuardedCallback @ chunk-RPCDYKBN.js?v=876258e3:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-RPCDYKBN.js?v=876258e3:3736
+executeDispatch @ chunk-RPCDYKBN.js?v=876258e3:7014
+processDispatchQueueItemsInOrder @ chunk-RPCDYKBN.js?v=876258e3:7034
+processDispatchQueue @ chunk-RPCDYKBN.js?v=876258e3:7043
+dispatchEventsForPlugins @ chunk-RPCDYKBN.js?v=876258e3:7051
+(anônimo) @ chunk-RPCDYKBN.js?v=876258e3:7174
+batchedUpdates$1 @ chunk-RPCDYKBN.js?v=876258e3:18913
+batchedUpdates @ chunk-RPCDYKBN.js?v=876258e3:3579
+dispatchEventForPluginEventSystem @ chunk-RPCDYKBN.js?v=876258e3:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-RPCDYKBN.js?v=876258e3:5478
+dispatchEvent @ chunk-RPCDYKBN.js?v=876258e3:5472
+dispatchDiscreteEvent @ chunk-RPCDYKBN.js?v=876258e3:5449
+Console.js:61 Erro ao criar lançamento financeiro: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+updateAppointmentStatus @ agenda.tsx:509
+await in updateAppointmentStatus
+onClick @ agenda.tsx:595
+callCallback2 @ chunk-RPCDYKBN.js?v=876258e3:3674
+invokeGuardedCallbackDev @ chunk-RPCDYKBN.js?v=876258e3:3699
+invokeGuardedCallback @ chunk-RPCDYKBN.js?v=876258e3:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-RPCDYKBN.js?v=876258e3:3736
+executeDispatch @ chunk-RPCDYKBN.js?v=876258e3:7014
+processDispatchQueueItemsInOrder @ chunk-RPCDYKBN.js?v=876258e3:7034
+processDispatchQueue @ chunk-RPCDYKBN.js?v=876258e3:7043
+dispatchEventsForPlugins @ chunk-RPCDYKBN.js?v=876258e3:7051
+(anônimo) @ chunk-RPCDYKBN.js?v=876258e3:7174
+batchedUpdates$1 @ chunk-RPCDYKBN.js?v=876258e3:18913
+batchedUpdates @ chunk-RPCDYKBN.js?v=876258e3:3579
+dispatchEventForPluginEventSystem @ chunk-RPCDYKBN.js?v=876258e3:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-RPCDYKBN.js?v=876258e3:5478
+dispatchEvent @ chunk-RPCDYKBN.js?v=876258e3:5472
+dispatchDiscreteEvent @ chunk-RPCDYKBN.js?v=876258e3:5449
+firebase.ts:600 
+            
+            
+           POST https://firestore.googleapis.com/google.firestore.v1.Firestore/Write/channel?VER=8&database=projects%2Fpreskriptor-e8a69%2Fdatabases%2F(default)&gsessionid=NXmoU2vTVNK4rnMuBoblHndg-rUYGKziwb0ByOxSJVM&SID=gcWvC-aRv84DGP98Qk55GQ&RID=29951&TYPE=terminate&zx=fu19wl9bvxzr 400 (Bad Request)
+gc @ firebase_firestore.js?v=876258e3:2145
+Y2.close @ firebase_firestore.js?v=876258e3:2489
+(anônimo) @ firebase_firestore.js?v=876258e3:12572
+(anônimo) @ firebase_firestore.js?v=876258e3:12536
+ab @ firebase_firestore.js?v=876258e3:948
+F2 @ firebase_firestore.js?v=876258e3:918
+Z2.ta @ firebase_firestore.js?v=876258e3:2538
+Rb @ firebase_firestore.js?v=876258e3:1417
+M2.Y @ firebase_firestore.js?v=876258e3:1282
+M2.ca @ firebase_firestore.js?v=876258e3:1213
+ab @ firebase_firestore.js?v=876258e3:948
+F2 @ firebase_firestore.js?v=876258e3:918
+Wc @ firebase_firestore.js?v=876258e3:1952
+h.bb @ firebase_firestore.js?v=876258e3:1947
+h.Ea @ firebase_firestore.js?v=876258e3:1944
+Lc @ firebase_firestore.js?v=876258e3:1844
+h.Pa @ firebase_firestore.js?v=876258e3:1811
+Promise.then
+Nc @ firebase_firestore.js?v=876258e3:1802
+h.Pa @ firebase_firestore.js?v=876258e3:1812
+Promise.then
+Nc @ firebase_firestore.js?v=876258e3:1802
+h.Pa @ firebase_firestore.js?v=876258e3:1812
+Promise.then
+Nc @ firebase_firestore.js?v=876258e3:1802
+h.Pa @ firebase_firestore.js?v=876258e3:1812
+Promise.then
+Nc @ firebase_firestore.js?v=876258e3:1802
+h.Sa @ firebase_firestore.js?v=876258e3:1798
+Promise.then
+h.send @ firebase_firestore.js?v=876258e3:1779
+h.ea @ firebase_firestore.js?v=876258e3:1920
+Jb @ firebase_firestore.js?v=876258e3:1206
+fd @ firebase_firestore.js?v=876258e3:2339
+h.Fa @ firebase_firestore.js?v=876258e3:2306
+Da @ firebase_firestore.js?v=876258e3:667
+Promise.then
+x2 @ firebase_firestore.js?v=876258e3:661
+ec @ firebase_firestore.js?v=876258e3:2292
+Rb @ firebase_firestore.js?v=876258e3:1414
+M2.Y @ firebase_firestore.js?v=876258e3:1282
+M2.ca @ firebase_firestore.js?v=876258e3:1213
+ab @ firebase_firestore.js?v=876258e3:948
+F2 @ firebase_firestore.js?v=876258e3:918
+Wc @ firebase_firestore.js?v=876258e3:1952
+h.bb @ firebase_firestore.js?v=876258e3:1947
+h.Ea @ firebase_firestore.js?v=876258e3:1944
+Lc @ firebase_firestore.js?v=876258e3:1844
+h.Pa @ firebase_firestore.js?v=876258e3:1811
+Promise.then
+Nc @ firebase_firestore.js?v=876258e3:1802
+h.Sa @ firebase_firestore.js?v=876258e3:1798
+Promise.then
+h.send @ firebase_firestore.js?v=876258e3:1779
+h.ea @ firebase_firestore.js?v=876258e3:1920
+Jb @ firebase_firestore.js?v=876258e3:1201
+Hb @ firebase_firestore.js?v=876258e3:1176
+h.Ga @ firebase_firestore.js?v=876258e3:2226
+Da @ firebase_firestore.js?v=876258e3:667
+Promise.then
+x2 @ firebase_firestore.js?v=876258e3:661
+fc @ firebase_firestore.js?v=876258e3:2170
+h.connect @ firebase_firestore.js?v=876258e3:2130
+Y2.m @ firebase_firestore.js?v=876258e3:2486
+Go @ firebase_firestore.js?v=876258e3:12530
+send @ firebase_firestore.js?v=876258e3:12423
+F_ @ firebase_firestore.js?v=876258e3:12718
+H_ @ firebase_firestore.js?v=876258e3:12921
+__PRIVATE_onWriteStreamOpen @ firebase_firestore.js?v=876258e3:13273
+(anônimo) @ firebase_firestore.js?v=876258e3:12796
+(anônimo) @ firebase_firestore.js?v=876258e3:12820
+(anônimo) @ firebase_firestore.js?v=876258e3:15859
+(anônimo) @ firebase_firestore.js?v=876258e3:15890
+Promise.then
+Yu @ firebase_firestore.js?v=876258e3:15890
+enqueue @ firebase_firestore.js?v=876258e3:15859
+enqueueAndForget @ firebase_firestore.js?v=876258e3:15841
+(anônimo) @ firebase_firestore.js?v=876258e3:12820
+(anônimo) @ firebase_firestore.js?v=876258e3:12796
+n_ @ firebase_firestore.js?v=876258e3:12429
+(anônimo) @ firebase_firestore.js?v=876258e3:12578
+setTimeout
+a_ @ firebase_firestore.js?v=876258e3:12577
+k_ @ firebase_firestore.js?v=876258e3:12900
+B_ @ firebase_firestore.js?v=876258e3:12793
+(anônimo) @ firebase_firestore.js?v=876258e3:12783
+Promise.then
+auth @ firebase_firestore.js?v=876258e3:12779
+start @ firebase_firestore.js?v=876258e3:12678
+start @ firebase_firestore.js?v=876258e3:12894
+__PRIVATE_startWriteStream @ firebase_firestore.js?v=876258e3:13270
+__PRIVATE_fillWritePipeline @ firebase_firestore.js?v=876258e3:13256
+await in __PRIVATE_fillWritePipeline
+__PRIVATE_syncEngineWrite @ firebase_firestore.js?v=876258e3:14258
+await in __PRIVATE_syncEngineWrite
+(anônimo) @ firebase_firestore.js?v=876258e3:17621
+await in (anônimo)
+(anônimo) @ firebase_firestore.js?v=876258e3:15859
+(anônimo) @ firebase_firestore.js?v=876258e3:15890
+Promise.then
+Yu @ firebase_firestore.js?v=876258e3:15890
+enqueue @ firebase_firestore.js?v=876258e3:15859
+enqueueAndForget @ firebase_firestore.js?v=876258e3:15841
+__PRIVATE_firestoreClientWrite @ firebase_firestore.js?v=876258e3:17621
+executeWrite @ firebase_firestore.js?v=876258e3:17622
+updateDoc @ firebase_firestore.js?v=876258e3:17561
+updateAgendaItem @ firebase.ts:600
+updateAppointmentStatus @ agenda.tsx:485
+await in updateAppointmentStatus
+onClick @ agenda.tsx:605
+callCallback2 @ chunk-RPCDYKBN.js?v=876258e3:3674
+invokeGuardedCallbackDev @ chunk-RPCDYKBN.js?v=876258e3:3699
+invokeGuardedCallback @ chunk-RPCDYKBN.js?v=876258e3:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-RPCDYKBN.js?v=876258e3:3736
+executeDispatch @ chunk-RPCDYKBN.js?v=876258e3:7014
+processDispatchQueueItemsInOrder @ chunk-RPCDYKBN.js?v=876258e3:7034
+processDispatchQueue @ chunk-RPCDYKBN.js?v=876258e3:7043
+dispatchEventsForPlugins @ chunk-RPCDYKBN.js?v=876258e3:7051
+(anônimo) @ chunk-RPCDYKBN.js?v=876258e3:7174
+batchedUpdates$1 @ chunk-RPCDYKBN.js?v=876258e3:18913
+batchedUpdates @ chunk-RPCDYKBN.js?v=876258e3:3579
+dispatchEventForPluginEventSystem @ chunk-RPCDYKBN.js?v=876258e3:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-RPCDYKBN.js?v=876258e3:5478
+dispatchEvent @ chunk-RPCDYKBN.js?v=876258e3:5472
+dispatchDiscreteEvent @ chunk-RPCDYKBN.js?v=876258e3:5449
+Console.js:61 Compromissos carregados: 2

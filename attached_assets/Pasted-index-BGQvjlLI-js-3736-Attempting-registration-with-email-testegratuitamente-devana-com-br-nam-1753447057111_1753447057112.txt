@@ -1,0 +1,63 @@
+index-BGQvjlLI.js:3736 Attempting registration with: {email: 'testegratuitamente@devana.com.br', name: 'Teste Gratuitamente', crm: '654321', termsAccepted: true, termsAcceptedDate: Fri Jul 25 2025 09:37:20 GMT-0300 (Horário Padrão de Brasília), …}
+index-BGQvjlLI.js:3686 Error checking CRM existence: FirebaseError: Missing or insufficient permissions.
+aX @ index-BGQvjlLI.js:3686
+await in aX
+cX @ index-BGQvjlLI.js:3686
+register @ index-BGQvjlLI.js:3686
+T @ index-BGQvjlLI.js:3736
+Nae @ index-BGQvjlLI.js:37
+Oae @ index-BGQvjlLI.js:37
+Rae @ index-BGQvjlLI.js:37
+wF @ index-BGQvjlLI.js:37
+vU @ index-BGQvjlLI.js:37
+(anônimo) @ index-BGQvjlLI.js:37
+dI @ index-BGQvjlLI.js:40
+z7 @ index-BGQvjlLI.js:37
+DS @ index-BGQvjlLI.js:37
+$N @ index-BGQvjlLI.js:37
+Yae @ index-BGQvjlLI.js:37
+index-BGQvjlLI.js:3686 Error registering with email and password FirebaseError: Missing or insufficient permissions.
+cX @ index-BGQvjlLI.js:3686
+await in cX
+register @ index-BGQvjlLI.js:3686
+T @ index-BGQvjlLI.js:3736
+Nae @ index-BGQvjlLI.js:37
+Oae @ index-BGQvjlLI.js:37
+Rae @ index-BGQvjlLI.js:37
+wF @ index-BGQvjlLI.js:37
+vU @ index-BGQvjlLI.js:37
+(anônimo) @ index-BGQvjlLI.js:37
+dI @ index-BGQvjlLI.js:40
+z7 @ index-BGQvjlLI.js:37
+DS @ index-BGQvjlLI.js:37
+$N @ index-BGQvjlLI.js:37
+Yae @ index-BGQvjlLI.js:37
+index-BGQvjlLI.js:3686 Registration error: FirebaseError: Missing or insufficient permissions.
+register @ index-BGQvjlLI.js:3686
+await in register
+T @ index-BGQvjlLI.js:3736
+Nae @ index-BGQvjlLI.js:37
+Oae @ index-BGQvjlLI.js:37
+Rae @ index-BGQvjlLI.js:37
+wF @ index-BGQvjlLI.js:37
+vU @ index-BGQvjlLI.js:37
+(anônimo) @ index-BGQvjlLI.js:37
+dI @ index-BGQvjlLI.js:40
+z7 @ index-BGQvjlLI.js:37
+DS @ index-BGQvjlLI.js:37
+$N @ index-BGQvjlLI.js:37
+Yae @ index-BGQvjlLI.js:37
+index-BGQvjlLI.js:3736 Register error: FirebaseError: Missing or insufficient permissions.
+T @ index-BGQvjlLI.js:3736
+await in T
+Nae @ index-BGQvjlLI.js:37
+Oae @ index-BGQvjlLI.js:37
+Rae @ index-BGQvjlLI.js:37
+wF @ index-BGQvjlLI.js:37
+vU @ index-BGQvjlLI.js:37
+(anônimo) @ index-BGQvjlLI.js:37
+dI @ index-BGQvjlLI.js:40
+z7 @ index-BGQvjlLI.js:37
+DS @ index-BGQvjlLI.js:37
+$N @ index-BGQvjlLI.js:37
+Yae @ index-BGQvjlLI.js:37

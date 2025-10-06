@@ -1,0 +1,293 @@
+_app-6bad3e865020c4b1.js:13 
+      /////////////////////
+   ///////////////////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////        Curious and driven?
+  ///////////////@@@@@@@///////        Work with us!
+  ///////////////@@@@@@@///////
+  ///////////////@@@@@@@///////        https://join.replit.com/hack.with.us
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@#//////////////
+   ///////////////////////////
+      /////////////////////
+      
+content.js:1 Object
+_app-6bad3e865020c4b1.js:13 [LaunchDarkly] LaunchDarkly client initialized
+ Refused to load the font 'https://js.stripe.com/resources/colfax/Colfax-Medium.woff' because it violates the following Content Security Policy directive: "font-src 'none'".
+
+(anônimo) @ paletteBuilder.js:1
+paletteBuilder.js:1 Refused to load the font 'https://js.stripe.com/resources/colfax/Colfax-Medium.woff' because it violates the following Content Security Policy directive: "font-src 'none'".
+
+(anônimo) @ paletteBuilder.js:1
+/~:1 Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.
+ [Report Only] Refused to load the font 'https://js.stripe.com/resources/colfax/Colfax-Medium.woff' because it violates the following Content Security Policy directive: "font-src 'none'".
+
+paletteBuilder.js:1 [Report Only] Refused to load the font 'https://js.stripe.com/resources/colfax/Colfax-Medium.woff' because it violates the following Content Security Policy directive: "font-src 'none'".
+
+ Refused to load the font 'https://js.stripe.com/resources/colfax/Colfax-Medium.woff' because it violates the following Content Security Policy directive: "font-src 'none'".
+
+(anônimo) @ paletteBuilder.js:1
+paletteBuilder.js:1 Refused to load the font 'https://js.stripe.com/resources/colfax/Colfax-Medium.woff' because it violates the following Content Security Policy directive: "font-src 'none'".
+
+(anônimo) @ paletteBuilder.js:1
+m.stripe.com/6:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+_app-6bad3e865020c4b1.js:13 task queue exceeded allotted deadline by 29ms
+(anônimo) @ _app-6bad3e865020c4b1.js:13
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+framework-3ea2b49328ab5055.js:1 Unrecognized feature: 'ambient-light-sensor'.
+_ @ framework-3ea2b49328ab5055.js:1
+framework-3ea2b49328ab5055.js:1 Unrecognized feature: 'battery'.
+_ @ framework-3ea2b49328ab5055.js:1
+framework-3ea2b49328ab5055.js:1 Unrecognized feature: 'execution-while-not-rendered'.
+_ @ framework-3ea2b49328ab5055.js:1
+framework-3ea2b49328ab5055.js:1 Unrecognized feature: 'execution-while-out-of-viewport'.
+_ @ framework-3ea2b49328ab5055.js:1
+framework-3ea2b49328ab5055.js:1 Unrecognized feature: 'layout-animations'.
+_ @ framework-3ea2b49328ab5055.js:1
+framework-3ea2b49328ab5055.js:1 Unrecognized feature: 'legacy-image-formats'.
+_ @ framework-3ea2b49328ab5055.js:1
+framework-3ea2b49328ab5055.js:1 Unrecognized feature: 'navigation-override'.
+_ @ framework-3ea2b49328ab5055.js:1
+framework-3ea2b49328ab5055.js:1 Unrecognized feature: 'oversized-images'.
+_ @ framework-3ea2b49328ab5055.js:1
+framework-3ea2b49328ab5055.js:1 Unrecognized feature: 'publickey-credentials'.
+_ @ framework-3ea2b49328ab5055.js:1
+framework-3ea2b49328ab5055.js:1 Unrecognized feature: 'speaker-selection'.
+_ @ framework-3ea2b49328ab5055.js:1
+framework-3ea2b49328ab5055.js:1 Unrecognized feature: 'unoptimized-images'.
+_ @ framework-3ea2b49328ab5055.js:1
+framework-3ea2b49328ab5055.js:1 Unrecognized feature: 'unsized-media'.
+_ @ framework-3ea2b49328ab5055.js:1
+framework-3ea2b49328ab5055.js:1 Unrecognized feature: 'pointer-lock'.
+_ @ framework-3ea2b49328ab5055.js:1
+framework-3ea2b49328ab5055.js:1 Allow attribute will take precedence over 'allowfullscreen'.
+_ @ framework-3ea2b49328ab5055.js:1
+framework-3ea2b49328ab5055.js:1 Allow attribute will take precedence over 'allowpaymentrequest'.
+_ @ framework-3ea2b49328ab5055.js:1
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+VM5 content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+VM5 content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+content.js:1 Uncaught TypeError: Cannot read properties of undefined (reading 'onMessage')
+    at Object.<anonymous> (content.js:1:6339)
+    at Tb (content.js:1:124)
+    at content.js:1:502
+    at content.js:1:514
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arf8%3A:32 Unrecognized feature: 'ambient-light-sensor'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arf8%3A:32 Unrecognized feature: 'battery'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arf8%3A:32 Unrecognized feature: 'execution-while-not-rendered'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arf8%3A:32 Unrecognized feature: 'execution-while-out-of-viewport'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arf8%3A:32 Unrecognized feature: 'layout-animations'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arf8%3A:32 Unrecognized feature: 'legacy-image-formats'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arf8%3A:32 Unrecognized feature: 'navigation-override'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arf8%3A:32 Unrecognized feature: 'oversized-images'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arf8%3A:32 Unrecognized feature: 'publickey-credentials'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arf8%3A:32 Unrecognized feature: 'speaker-selection'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arf8%3A:32 Unrecognized feature: 'unoptimized-images'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arf8%3A:32 Unrecognized feature: 'unsized-media'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arf8%3A:32 Allow attribute will take precedence over 'allowfullscreen'.
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arf8%3A:32 Allow attribute will take precedence over 'allowpaymentrequest'.
+Console.js:61 Firebase config: Object
+Console.js:61 Criada nova instância do Firebase
+Console.js:61 Setting up auth state listener...
+Console.js:61 Auth state changed: User logged in
+Console.js:61 Getting user profile for UID: V17uYhaSupbLGD2LdaSvBBuyzGr2
+Console.js:61 🔍 Carregando módulos exclusivamente do Firestore
+Console.js:61 🔍 Carregando módulos exclusivamente do Firestore
+Console.js:61 Tentativa de buscar pacientes (1/3)
+Console.js:61 📄 Dados do módulo: Algoritmo-Indicação-de-Cirurgia-Bariátrica Object
+Console.js:61 📄 Dados do módulo: Medicação Antiobesidade (MAO) - Prescrição Inteligente Object
+Console.js:61 📄 Dados do módulo: Prontuário Blindado Object
+Console.js:61 📄 Dados do módulo: Reposição de Vitaminas e Minerais Object
+Console.js:61 📄 Dados do módulo: algoritmo-mao Object
+Console.js:61 📄 Dados do módulo: bioimpedancia Object
+Console.js:61 📄 Dados do módulo: conversor-semaglutina Object
+Console.js:61 📄 Dados do módulo: diabetes-tipo-2 Object
+Console.js:61 📄 Dados do módulo: exames-hormonais Object
+Console.js:61 📄 Dados do módulo: exames-laboratoriais Object
+Console.js:61 📄 Dados do módulo: fitoterapia-na-obesidade Object
+Console.js:61 📄 Dados do módulo: fitoterapia-na-obesidade-vf Object
+Console.js:61 📄 Dados do módulo: medicacoes-impacto-no-peso Object
+Console.js:61 📄 Dados do módulo: pre-diabetes Object
+Console.js:61 📄 Dados do módulo: terapia-hormonal-feminina Object
+Console.js:61 📄 Dados do módulo: terapia-hormonal-masculina Object
+Console.js:61 ✅ Módulos carregados do Firestore: 16
+Console.js:61 📋 Módulos: Array(16)
+Console.js:61 📄 Dados do módulo: Algoritmo-Indicação-de-Cirurgia-Bariátrica Object
+Console.js:61 📄 Dados do módulo: Medicação Antiobesidade (MAO) - Prescrição Inteligente Object
+Console.js:61 📄 Dados do módulo: Prontuário Blindado Object
+Console.js:61 📄 Dados do módulo: Reposição de Vitaminas e Minerais Object
+Console.js:61 📄 Dados do módulo: algoritmo-mao Object
+Console.js:61 📄 Dados do módulo: bioimpedancia Object
+Console.js:61 📄 Dados do módulo: conversor-semaglutina Object
+Console.js:61 📄 Dados do módulo: diabetes-tipo-2 Object
+Console.js:61 📄 Dados do módulo: exames-hormonais Object
+Console.js:61 📄 Dados do módulo: exames-laboratoriais Object
+Console.js:61 📄 Dados do módulo: fitoterapia-na-obesidade Object
+Console.js:61 📄 Dados do módulo: fitoterapia-na-obesidade-vf Object
+Console.js:61 📄 Dados do módulo: medicacoes-impacto-no-peso Object
+Console.js:61 📄 Dados do módulo: pre-diabetes Object
+Console.js:61 📄 Dados do módulo: terapia-hormonal-feminina Object
+Console.js:61 📄 Dados do módulo: terapia-hormonal-masculina Object
+Console.js:61 ✅ Módulos carregados do Firestore: 16
+Console.js:61 📋 Módulos: Array(16)
+Console.js:61 Pacientes carregados com sucesso: 0
+Console.js:61 Pacientes carregados: 0
+Console.js:61 Módulos carregados (todos): 16
+Console.js:61 Módulos ativos: 10
+Console.js:61 [LOG] Alex Alvarenga: Iniciou consulta
+Console.js:61 Consumindo crédito para usuário: V17uYhaSupbLGD2LdaSvBBuyzGr2 (primeira mensagem)
+Console.js:61 Crédito consumido com sucesso
+Console.js:61 [LOG] Alex Alvarenga: Enviou mensagem
+chunk-D7Z7UTZX.js?v=ab0ac0d2:62 Uncaught Assertion: Unexpected value `,false` for `children` prop, expected `string`
+    at assert (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-D7Z7UTZX.js?v=ab0ac0d2:62:56)
+    at unreachable (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-D7Z7UTZX.js?v=ab0ac0d2:58:3)
+    at createFile (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/react-markdown.js?v=ab0ac0d2:7150:5)
+    at Markdown (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/react-markdown.js?v=ab0ac0d2:7094:16)
+    at renderWithHooks (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-XQLYTHWV.js?v=ab0ac0d2:11548:26)
+    at mountIndeterminateComponent (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-XQLYTHWV.js?v=ab0ac0d2:14926:21)
+    at beginWork (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-XQLYTHWV.js?v=ab0ac0d2:15914:22)
+    at HTMLUnknownElement.callCallback2 (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-XQLYTHWV.js?v=ab0ac0d2:3674:22)
+    at Object.invokeGuardedCallbackDev (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-XQLYTHWV.js?v=ab0ac0d2:3699:24)
+    at invokeGuardedCallback (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-XQLYTHWV.js?v=ab0ac0d2:3733:39)
+chunk-D7Z7UTZX.js?v=ab0ac0d2:62 Uncaught Assertion: Unexpected value `,false` for `children` prop, expected `string`
+    at assert (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-D7Z7UTZX.js?v=ab0ac0d2:62:56)
+    at unreachable (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-D7Z7UTZX.js?v=ab0ac0d2:58:3)
+    at createFile (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/react-markdown.js?v=ab0ac0d2:7150:5)
+    at Markdown (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/react-markdown.js?v=ab0ac0d2:7094:16)
+    at renderWithHooks (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-XQLYTHWV.js?v=ab0ac0d2:11548:26)
+    at mountIndeterminateComponent (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-XQLYTHWV.js?v=ab0ac0d2:14926:21)
+    at beginWork (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-XQLYTHWV.js?v=ab0ac0d2:15914:22)
+    at HTMLUnknownElement.callCallback2 (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-XQLYTHWV.js?v=ab0ac0d2:3674:22)
+    at Object.invokeGuardedCallbackDev (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-XQLYTHWV.js?v=ab0ac0d2:3699:24)
+    at invokeGuardedCallback (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-XQLYTHWV.js?v=ab0ac0d2:3733:39)
+Console.js:61 The above error occurred in the <Markdown> component:
+
+    at Markdown (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/react-markdown.js?v=ab0ac0d2:7093:21)
+    at div
+    at div
+    at div
+    at MotionComponent (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/framer-motion.js?v=ab0ac0d2:945:40)
+    at ChatMessage (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/src/components/ChatMessage.tsx:29:31)
+    at div
+    at div
+    at div
+    at MotionComponent (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/framer-motion.js?v=ab0ac0d2:945:40)
+    at div
+    at main
+    at div
+    at div
+    at SidebarLayout (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/src/components/SidebarLayout.tsx:104:26)
+    at ConsultaPage (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/src/pages/dashboard/consulta.tsx:138:35)
+    at ProtectedRoute (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/src/components/ProtectedRoute.tsx:22:34)
+    at Route (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=ab0ac0d2:338:16)
+    at Switch (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=ab0ac0d2:394:17)
+    at Router (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/src/App.tsx?v=--4AoU2DKgNdZvhK7vgl7:47:3)
+    at AuthProvider (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/src/context/AuthContext.tsx:32:32)
+    at Provider (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-2M7HY3UG.js?v=ab0ac0d2:38:15)
+    at TooltipProvider (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=ab0ac0d2:62:5)
+    at QueryClientProvider (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=ab0ac0d2:2875:3)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries.
+Mt.forEach.n.<computed> @ Console.js:61
+chunk-XQLYTHWV.js?v=ab0ac0d2:19413 Uncaught Assertion: Unexpected value `,false` for `children` prop, expected `string`
+    at assert (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-D7Z7UTZX.js?v=ab0ac0d2:62:56)
+    at unreachable (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-D7Z7UTZX.js?v=ab0ac0d2:58:3)
+    at createFile (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/react-markdown.js?v=ab0ac0d2:7150:5)
+    at Markdown (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/react-markdown.js?v=ab0ac0d2:7094:16)
+    at renderWithHooks (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-XQLYTHWV.js?v=ab0ac0d2:11548:26)
+    at mountIndeterminateComponent (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-XQLYTHWV.js?v=ab0ac0d2:14926:21)
+    at beginWork (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-XQLYTHWV.js?v=ab0ac0d2:15914:22)
+    at beginWork$1 (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-XQLYTHWV.js?v=ab0ac0d2:19753:22)
+    at performUnitOfWork (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-XQLYTHWV.js?v=ab0ac0d2:19198:20)
+    at workLoopSync (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-XQLYTHWV.js?v=ab0ac0d2:19137:13)
+Console.js:61 Cleaning up auth state listener

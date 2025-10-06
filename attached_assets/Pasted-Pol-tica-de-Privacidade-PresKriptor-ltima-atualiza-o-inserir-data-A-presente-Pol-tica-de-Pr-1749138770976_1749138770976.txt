@@ -1,0 +1,66 @@
+Política de Privacidade – PresKriptor
+Última atualização: [inserir data]
+A presente Política de Privacidade tem por finalidade demonstrar o compromisso da empresa Protocolos Médicos Avançados Ltda., inscrita no CNPJ sob nº 60.797.490/0001-20, com a privacidade e a proteção dos dados pessoais tratados por meio da plataforma PresKriptor, vinculada ao curso Doutores da Obesidade. Esta Política foi elaborada em conformidade com a Lei nº 13.709/2018 – Lei Geral de Proteção de Dados Pessoais (LGPD), bem como demais normas aplicáveis.
+
+Definições iniciais
+Para os fins desta Política, aplicam-se as seguintes definições:
+Dados Pessoais: informações que identifiquem ou possam identificar uma pessoa natural.
+Dados Sensíveis: dados pessoais sobre saúde, como aqueles referentes aos pacientes inseridos na plataforma.
+Usuário: médico devidamente inscrito no Conselho Regional de Medicina e autorizado a utilizar a plataforma.
+Plataforma: ferramenta digital PresKriptor.
+Controlador: Protocolos Médicos Avançados, Ltda.
+Encarregado (DPO): pessoa indicada para atuar como canal de comunicação entre o controlador, os titulares e a ANPD.
+
+1. Quais dados coletamos
+Podemos coletar e armazenar:
+Dados do médico usuário: nome, e-mail, CRM, CPF, localização de acesso (IP), histórico de uso na plataforma.
+Dados de pacientes cadastrados pelos médicos usuários: nome, idade, sexo, medidas corporais, dados clínicos e qualquer outra informação inserida voluntariamente pelo médico durante o uso da ferramenta.
+
+2. Finalidade
+Os dados são utilizados para:
+Fornecer e personalizar a experiência de uso da plataforma;
+Permitir que o médico acompanhe e organize casos clínicos de maneira educacional;
+Viabilizar sugestões clínicas automatizadas baseadas nas informações inseridas;
+Monitorar acessos, prevenir fraudes e garantir o uso ético da ferramenta;
+Aperfeiçoar o conteúdo técnico e educacional da plataforma.
+Cumprir obrigações legais ou regulatórias;
+Aprimorar a funcionalidade técnica e pedagógica da plataforma;
+Prevenir fraudes e garantir segurança no uso da plataforma.
+
+3. Armazenamento e segurança dos dados
+Adotamos medidas técnicas e administrativas para proteger os dados armazenados, incluindo:
+Criptografia de dados sensíveis;
+Monitoramento de acessos e comportamento de uso;
+Controles de acesso restrito aos dados armazenados;
+Armazenamento seguro em servidores com padrão de segurança internacional.
+
+4. Compartilhamento de dados
+Não compartilhamos dados com terceiros, exceto:
+Quando exigido por lei ou decisão judicial;
+Com parceiros operacionais necessários para o funcionamento da plataforma, sob acordos contratuais de confidencialidade;
+Com o próprio médico usuário, mediante login autorizado.
+Jamais utilizamos dados de pacientes para fins publicitários ou  fins não autorizados.
+
+5. Direitos do titular dos dados
+Nos termos da LGPD, o usuário poderá, a qualquer tempo:
+Solicitar acesso aos dados pessoais que armazenamos;
+Corrigir ou atualizar seus dados;
+Solicitar a exclusão de sua conta e de todos os dados associados.
+Para isso, entre em contato por meio de: [e-mail de suporte]
+
+6. Prazo de retenção dos dados
+Os dados pessoais serão armazenados:
+Enquanto perdurar a relação contratual;
+Pelo prazo necessário ao cumprimento de obrigações legais e regulatórias;
+Pelo prazo prescricional previsto na legislação civil, trabalhista ou fiscal, quando aplicável.
+
+7. Encarregado pelo tratamento (DPO)
+Para assuntos relacionados à privacidade e proteção de dados, o contato deverá ser feito com:
+Encarregado (DPO): [Nome completo]
+E-mail: privacidade@preskriptor.com.br
+
+8. Alterações desta Política
+Esta Política poderá ser atualizada a qualquer tempo. Recomendamos que o usuário consulte periodicamente este documento. Alterações relevantes serão comunicadas previamente, por e-mail ou na plataforma.
+
+09. Foro e legislação aplicável
+Esta Política será interpretada conforme a legislação brasileira, especialmente a LGPD. Fica eleito o foro da Comarca de Rio de Janeiro/RJ, com exclusão de qualquer outro, por mais privilegiado que seja, para dirimir controvérsias oriundas deste instrumento.

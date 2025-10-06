@@ -1,0 +1,2366 @@
+workspace_iframe.html?initialPath=%2F&id=%3Ar14n%3A:1 Unrecognized feature: 'ambient-light-sensor'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar14n%3A:1 Unrecognized feature: 'battery'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar14n%3A:1 Unrecognized feature: 'execution-while-not-rendered'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar14n%3A:1 Unrecognized feature: 'execution-while-out-of-viewport'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar14n%3A:1 Unrecognized feature: 'layout-animations'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar14n%3A:1 Unrecognized feature: 'legacy-image-formats'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar14n%3A:1 Unrecognized feature: 'navigation-override'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar14n%3A:1 Unrecognized feature: 'oversized-images'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar14n%3A:1 Unrecognized feature: 'publickey-credentials'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar14n%3A:1 Unrecognized feature: 'speaker-selection'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar14n%3A:1 Unrecognized feature: 'unoptimized-images'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar14n%3A:1 Unrecognized feature: 'unsized-media'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar14n%3A:1 Allow attribute will take precedence over 'allowfullscreen'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar14n%3A:1 Allow attribute will take precedence over 'allowpaymentrequest'.
+PreskriptorHealth:1 Unrecognized feature: 'ambient-light-sensor'.
+PreskriptorHealth:1 Unrecognized feature: 'battery'.
+PreskriptorHealth:1 Unrecognized feature: 'execution-while-not-rendered'.
+PreskriptorHealth:1 Unrecognized feature: 'execution-while-out-of-viewport'.
+PreskriptorHealth:1 Unrecognized feature: 'layout-animations'.
+PreskriptorHealth:1 Unrecognized feature: 'legacy-image-formats'.
+PreskriptorHealth:1 Unrecognized feature: 'navigation-override'.
+PreskriptorHealth:1 Unrecognized feature: 'oversized-images'.
+PreskriptorHealth:1 Unrecognized feature: 'publickey-credentials'.
+PreskriptorHealth:1 Unrecognized feature: 'speaker-selection'.
+PreskriptorHealth:1 Unrecognized feature: 'unoptimized-images'.
+PreskriptorHealth:1 Unrecognized feature: 'unsized-media'.
+PreskriptorHealth:1 Unrecognized feature: 'pointer-lock'.
+PreskriptorHealth:1 Allow attribute will take precedence over 'allowfullscreen'.
+PreskriptorHealth:1 Allow attribute will take precedence over 'allowpaymentrequest'.
+eruda.js:2 🔐 USUÁRIO LOGADO - DADOS COMPLETOS: {uid: '27EV4avUl6N0gJs7OMWS1vWxxUi2', email: 'assitba@hotmail.com', displayName: null, name: 'assitba', cellphone: '', …}
+eruda.js:2 📋 Detalhes do perfil Firestore: {cellphone: '', verified: true, createdAt: Wed Aug 27 2025 15:47:25 GMT-0300 (Horário Padrão de Brasília), updatedAt: Wed Aug 27 2025 15:47:25 GMT-0300 (Horário Padrão de Brasília), uid: '27EV4avUl6N0gJs7OMWS1vWxxUi2', …}
+eruda.js:2 🔥 Dados básicos do Firebase Auth: {uid: '27EV4avUl6N0gJs7OMWS1vWxxUi2', email: 'assitba@hotmail.com', displayName: null, photoURL: null}
+eruda.js:2 Erro ao buscar conversas: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+getUserConversations @ firebase.ts:1172
+await in getUserConversations
+loadConversations @ SidebarLayout.tsx:64
+(anônimo) @ SidebarLayout.tsx:102
+commitHookEffectListMount @ chunk-XQLYTHWV.js?v=5583f018:16915
+commitPassiveMountOnFiber @ chunk-XQLYTHWV.js?v=5583f018:18156
+commitPassiveMountEffects_complete @ chunk-XQLYTHWV.js?v=5583f018:18129
+commitPassiveMountEffects_begin @ chunk-XQLYTHWV.js?v=5583f018:18119
+commitPassiveMountEffects @ chunk-XQLYTHWV.js?v=5583f018:18109
+flushPassiveEffectsImpl @ chunk-XQLYTHWV.js?v=5583f018:19490
+flushPassiveEffects @ chunk-XQLYTHWV.js?v=5583f018:19447
+performSyncWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18868
+flushSyncCallbacks @ chunk-XQLYTHWV.js?v=5583f018:9119
+commitRootImpl @ chunk-XQLYTHWV.js?v=5583f018:19432
+commitRoot @ chunk-XQLYTHWV.js?v=5583f018:19277
+finishConcurrentRender @ chunk-XQLYTHWV.js?v=5583f018:18805
+performConcurrentWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18718
+workLoop @ chunk-XQLYTHWV.js?v=5583f018:197
+flushWork @ chunk-XQLYTHWV.js?v=5583f018:176
+performWorkUntilDeadline @ chunk-XQLYTHWV.js?v=5583f018:384
+eruda.js:2 Erro ao carregar histórico: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+loadConversations @ SidebarLayout.tsx:68
+await in loadConversations
+(anônimo) @ SidebarLayout.tsx:102
+commitHookEffectListMount @ chunk-XQLYTHWV.js?v=5583f018:16915
+commitPassiveMountOnFiber @ chunk-XQLYTHWV.js?v=5583f018:18156
+commitPassiveMountEffects_complete @ chunk-XQLYTHWV.js?v=5583f018:18129
+commitPassiveMountEffects_begin @ chunk-XQLYTHWV.js?v=5583f018:18119
+commitPassiveMountEffects @ chunk-XQLYTHWV.js?v=5583f018:18109
+flushPassiveEffectsImpl @ chunk-XQLYTHWV.js?v=5583f018:19490
+flushPassiveEffects @ chunk-XQLYTHWV.js?v=5583f018:19447
+performSyncWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18868
+flushSyncCallbacks @ chunk-XQLYTHWV.js?v=5583f018:9119
+commitRootImpl @ chunk-XQLYTHWV.js?v=5583f018:19432
+commitRoot @ chunk-XQLYTHWV.js?v=5583f018:19277
+finishConcurrentRender @ chunk-XQLYTHWV.js?v=5583f018:18805
+performConcurrentWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18718
+workLoop @ chunk-XQLYTHWV.js?v=5583f018:197
+flushWork @ chunk-XQLYTHWV.js?v=5583f018:176
+performWorkUntilDeadline @ chunk-XQLYTHWV.js?v=5583f018:384
+eruda.js:2 Erro ao criar conversa: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+createConversation @ firebase.ts:1117
+await in createConversation
+handleSelectModule @ chat.tsx:155
+onClick @ chat.tsx:745
+callCallback2 @ chunk-XQLYTHWV.js?v=5583f018:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=5583f018:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=5583f018:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=5583f018:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=5583f018:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=5583f018:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=5583f018:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=5583f018:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=5583f018:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=5583f018:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=5583f018:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=5583f018:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=5583f018:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=5583f018:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=5583f018:5449
+eruda.js:2 Erro ao criar conversa: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+handleSelectModule @ chat.tsx:166
+await in handleSelectModule
+onClick @ chat.tsx:745
+callCallback2 @ chunk-XQLYTHWV.js?v=5583f018:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=5583f018:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=5583f018:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=5583f018:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=5583f018:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=5583f018:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=5583f018:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=5583f018:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=5583f018:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=5583f018:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=5583f018:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=5583f018:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=5583f018:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=5583f018:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=5583f018:5449
+firebase_firestore.js?v=5583f018:2145  POST https://firestore.googleapis.com/google.firestore.v1.Firestore/Write/channel?VER=8&database=projects%2Fpreskriptor-e8a69%2Fdatabases%2F(default)&gsessionid=EJMwKGSQ5S9JVUCKV7lAlOmb3MMmtYecEPKvh3iVWos&SID=1dRDSo_rYiwa4E7Th7FY1g&RID=60682&TYPE=terminate&zx=g6sv1ft1c4hr 400 (Bad Request)
+gc @ firebase_firestore.js?v=5583f018:2145
+Y2.close @ firebase_firestore.js?v=5583f018:2489
+(anônimo) @ firebase_firestore.js?v=5583f018:12572
+(anônimo) @ firebase_firestore.js?v=5583f018:12536
+ab @ firebase_firestore.js?v=5583f018:948
+F2 @ firebase_firestore.js?v=5583f018:918
+Z2.ta @ firebase_firestore.js?v=5583f018:2538
+Rb @ firebase_firestore.js?v=5583f018:1417
+M2.Y @ firebase_firestore.js?v=5583f018:1282
+M2.ca @ firebase_firestore.js?v=5583f018:1213
+ab @ firebase_firestore.js?v=5583f018:948
+F2 @ firebase_firestore.js?v=5583f018:918
+Wc @ firebase_firestore.js?v=5583f018:1952
+h.bb @ firebase_firestore.js?v=5583f018:1947
+h.Ea @ firebase_firestore.js?v=5583f018:1944
+Lc @ firebase_firestore.js?v=5583f018:1844
+h.Pa @ firebase_firestore.js?v=5583f018:1811
+Promise.then
+Nc @ firebase_firestore.js?v=5583f018:1802
+h.Pa @ firebase_firestore.js?v=5583f018:1812
+Promise.then
+Nc @ firebase_firestore.js?v=5583f018:1802
+h.Sa @ firebase_firestore.js?v=5583f018:1798
+Promise.then
+h.send @ firebase_firestore.js?v=5583f018:1779
+h.ea @ firebase_firestore.js?v=5583f018:1920
+Jb @ firebase_firestore.js?v=5583f018:1206
+fd @ firebase_firestore.js?v=5583f018:2339
+h.Fa @ firebase_firestore.js?v=5583f018:2306
+Da @ firebase_firestore.js?v=5583f018:667
+Promise.then
+x2 @ firebase_firestore.js?v=5583f018:661
+fc @ firebase_firestore.js?v=5583f018:2170
+Y2.o @ firebase_firestore.js?v=5583f018:2499
+Go @ firebase_firestore.js?v=5583f018:12530
+send @ firebase_firestore.js?v=5583f018:12423
+F_ @ firebase_firestore.js?v=5583f018:12718
+G_ @ firebase_firestore.js?v=5583f018:12929
+__PRIVATE_onWriteHandshakeComplete @ firebase_firestore.js?v=5583f018:13277
+q_ @ firebase_firestore.js?v=5583f018:12904
+(anônimo) @ firebase_firestore.js?v=5583f018:12800
+(anônimo) @ firebase_firestore.js?v=5583f018:12820
+(anônimo) @ firebase_firestore.js?v=5583f018:15859
+(anônimo) @ firebase_firestore.js?v=5583f018:15890
+Promise.then
+Yu @ firebase_firestore.js?v=5583f018:15890
+enqueue @ firebase_firestore.js?v=5583f018:15859
+enqueueAndForget @ firebase_firestore.js?v=5583f018:15841
+(anônimo) @ firebase_firestore.js?v=5583f018:12820
+(anônimo) @ firebase_firestore.js?v=5583f018:12800
+i_ @ firebase_firestore.js?v=5583f018:12435
+(anônimo) @ firebase_firestore.js?v=5583f018:12573
+(anônimo) @ firebase_firestore.js?v=5583f018:12536
+ab @ firebase_firestore.js?v=5583f018:948
+F2 @ firebase_firestore.js?v=5583f018:918
+Z2.ta @ firebase_firestore.js?v=5583f018:2538
+Rb @ firebase_firestore.js?v=5583f018:1417
+M2.Y @ firebase_firestore.js?v=5583f018:1282
+M2.ca @ firebase_firestore.js?v=5583f018:1213
+ab @ firebase_firestore.js?v=5583f018:948
+F2 @ firebase_firestore.js?v=5583f018:918
+Wc @ firebase_firestore.js?v=5583f018:1952
+h.bb @ firebase_firestore.js?v=5583f018:1947
+h.Ea @ firebase_firestore.js?v=5583f018:1944
+Lc @ firebase_firestore.js?v=5583f018:1844
+h.Pa @ firebase_firestore.js?v=5583f018:1811
+Promise.then
+Nc @ firebase_firestore.js?v=5583f018:1802
+h.Sa @ firebase_firestore.js?v=5583f018:1798
+Promise.then
+h.send @ firebase_firestore.js?v=5583f018:1779
+h.ea @ firebase_firestore.js?v=5583f018:1920
+Jb @ firebase_firestore.js?v=5583f018:1206
+fd @ firebase_firestore.js?v=5583f018:2339
+h.ab @ firebase_firestore.js?v=5583f018:2314
+(anônimo) @ firebase_firestore.js?v=5583f018:1065
+setTimeout
+ub @ firebase_firestore.js?v=5583f018:1064
+h.Fa @ firebase_firestore.js?v=5583f018:2310
+Da @ firebase_firestore.js?v=5583f018:667
+Promise.then
+x2 @ firebase_firestore.js?v=5583f018:661
+ec @ firebase_firestore.js?v=5583f018:2292
+Rb @ firebase_firestore.js?v=5583f018:1414
+M2.Y @ firebase_firestore.js?v=5583f018:1282
+M2.ca @ firebase_firestore.js?v=5583f018:1213
+ab @ firebase_firestore.js?v=5583f018:948
+F2 @ firebase_firestore.js?v=5583f018:918
+Wc @ firebase_firestore.js?v=5583f018:1952
+h.bb @ firebase_firestore.js?v=5583f018:1947
+h.Ea @ firebase_firestore.js?v=5583f018:1944
+Lc @ firebase_firestore.js?v=5583f018:1844
+h.Pa @ firebase_firestore.js?v=5583f018:1811
+Promise.then
+Nc @ firebase_firestore.js?v=5583f018:1802
+h.Sa @ firebase_firestore.js?v=5583f018:1798
+Promise.then
+h.send @ firebase_firestore.js?v=5583f018:1779
+h.ea @ firebase_firestore.js?v=5583f018:1920
+Jb @ firebase_firestore.js?v=5583f018:1201
+Hb @ firebase_firestore.js?v=5583f018:1176
+h.Ga @ firebase_firestore.js?v=5583f018:2226
+Da @ firebase_firestore.js?v=5583f018:667
+Promise.then
+x2 @ firebase_firestore.js?v=5583f018:661
+fc @ firebase_firestore.js?v=5583f018:2170
+h.connect @ firebase_firestore.js?v=5583f018:2130
+Y2.m @ firebase_firestore.js?v=5583f018:2486
+Go @ firebase_firestore.js?v=5583f018:12530
+send @ firebase_firestore.js?v=5583f018:12423
+F_ @ firebase_firestore.js?v=5583f018:12718
+H_ @ firebase_firestore.js?v=5583f018:12921
+__PRIVATE_onWriteStreamOpen @ firebase_firestore.js?v=5583f018:13273
+(anônimo) @ firebase_firestore.js?v=5583f018:12796
+(anônimo) @ firebase_firestore.js?v=5583f018:12820
+(anônimo) @ firebase_firestore.js?v=5583f018:15859
+(anônimo) @ firebase_firestore.js?v=5583f018:15890
+Promise.then
+Yu @ firebase_firestore.js?v=5583f018:15890
+enqueue @ firebase_firestore.js?v=5583f018:15859
+enqueueAndForget @ firebase_firestore.js?v=5583f018:15841
+(anônimo) @ firebase_firestore.js?v=5583f018:12820
+(anônimo) @ firebase_firestore.js?v=5583f018:12796
+n_ @ firebase_firestore.js?v=5583f018:12429
+(anônimo) @ firebase_firestore.js?v=5583f018:12578
+setTimeout
+a_ @ firebase_firestore.js?v=5583f018:12577
+k_ @ firebase_firestore.js?v=5583f018:12900
+B_ @ firebase_firestore.js?v=5583f018:12793
+(anônimo) @ firebase_firestore.js?v=5583f018:12783
+Promise.then
+auth @ firebase_firestore.js?v=5583f018:12779
+start @ firebase_firestore.js?v=5583f018:12678
+start @ firebase_firestore.js?v=5583f018:12894
+__PRIVATE_startWriteStream @ firebase_firestore.js?v=5583f018:13270
+__PRIVATE_fillWritePipeline @ firebase_firestore.js?v=5583f018:13256
+await in __PRIVATE_fillWritePipeline
+__PRIVATE_syncEngineWrite @ firebase_firestore.js?v=5583f018:14258
+await in __PRIVATE_syncEngineWrite
+(anônimo) @ firebase_firestore.js?v=5583f018:17621
+await in (anônimo)
+(anônimo) @ firebase_firestore.js?v=5583f018:15859
+(anônimo) @ firebase_firestore.js?v=5583f018:15890
+Promise.then
+Yu @ firebase_firestore.js?v=5583f018:15890
+enqueue @ firebase_firestore.js?v=5583f018:15859
+enqueueAndForget @ firebase_firestore.js?v=5583f018:15841
+__PRIVATE_firestoreClientWrite @ firebase_firestore.js?v=5583f018:17621
+executeWrite @ firebase_firestore.js?v=5583f018:17622
+addDoc @ firebase_firestore.js?v=5583f018:17568
+createConversation @ firebase.ts:1107
+handleSelectModule @ chat.tsx:155
+onClick @ chat.tsx:745
+callCallback2 @ chunk-XQLYTHWV.js?v=5583f018:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=5583f018:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=5583f018:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=5583f018:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=5583f018:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=5583f018:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=5583f018:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=5583f018:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=5583f018:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=5583f018:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=5583f018:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=5583f018:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=5583f018:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=5583f018:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=5583f018:5449
+eruda.js:2 🟢 STREAMING INICIADO NO OPENAI.TS
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: Olá
+eruda.js:2 📨 CHAMANDO onChunk callback com: Olá tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ,
+eruda.js:2 📨 CHAMANDO onChunk callback com: , tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  eu
+eruda.js:2 📨 CHAMANDO onChunk callback com:  eu tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  sou
+eruda.js:2 📨 CHAMANDO onChunk callback com:  sou tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  o
+eruda.js:2 📨 CHAMANDO onChunk callback com:  o tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  Pres
+eruda.js:2 📨 CHAMANDO onChunk callback com:  Pres tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: kr
+eruda.js:2 📨 CHAMANDO onChunk callback com: kr tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ip
+eruda.js:2 📨 CHAMANDO onChunk callback com: ip tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: tor
+eruda.js:2 📨 CHAMANDO onChunk callback com: tor tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  e
+eruda.js:2 📨 CHAMANDO onChunk callback com:  e tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  vou
+eruda.js:2 📨 CHAMANDO onChunk callback com:  vou tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  te
+eruda.js:2 📨 CHAMANDO onChunk callback com:  te tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  ajudar
+eruda.js:2 📨 CHAMANDO onChunk callback com:  ajudar tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  a
+eruda.js:2 📨 CHAMANDO onChunk callback com:  a tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  selecionar
+eruda.js:2 📨 CHAMANDO onChunk callback com:  selecionar tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  o
+eruda.js:2 📨 CHAMANDO onChunk callback com:  o tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  melhor
+eruda.js:2 📨 CHAMANDO onChunk callback com:  melhor tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  fit
+eruda.js:2 📨 CHAMANDO onChunk callback com:  fit tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: oter
+eruda.js:2 📨 CHAMANDO onChunk callback com: oter tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: áp
+eruda.js:2 📨 CHAMANDO onChunk callback com: áp tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ico
+eruda.js:2 📨 CHAMANDO onChunk callback com: ico tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  para
+eruda.js:2 📨 CHAMANDO onChunk callback com:  para tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  o
+eruda.js:2 📨 CHAMANDO onChunk callback com:  o tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  seu
+eruda.js:2 📨 CHAMANDO onChunk callback com:  seu tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  paciente
+eruda.js:2 📨 CHAMANDO onChunk callback com:  paciente tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  com
+eruda.js:2 📨 CHAMANDO onChunk callback com:  com tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  dis
+eruda.js:2 📨 CHAMANDO onChunk callback com:  dis tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: fun
+eruda.js:2 📨 CHAMANDO onChunk callback com: fun tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ção
+eruda.js:2 📨 CHAMANDO onChunk callback com: ção tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  sexual
+eruda.js:2 📨 CHAMANDO onChunk callback com:  sexual tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: .
+eruda.js:2 📨 CHAMANDO onChunk callback com: . tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:   
+
+eruda.js:2 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: Por
+eruda.js:2 📨 CHAMANDO onChunk callback com: Por tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  favor
+eruda.js:2 📨 CHAMANDO onChunk callback com:  favor tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ,
+eruda.js:2 📨 CHAMANDO onChunk callback com: , tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  me
+eruda.js:2 📨 CHAMANDO onChunk callback com:  me tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  diga
+eruda.js:2 📨 CHAMANDO onChunk callback com:  diga tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  qual
+eruda.js:2 📨 CHAMANDO onChunk callback com:  qual tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  é
+eruda.js:2 📨 CHAMANDO onChunk callback com:  é tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  o
+eruda.js:2 📨 CHAMANDO onChunk callback com:  o tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  **
+eruda.js:2 📨 CHAMANDO onChunk callback com:  ** tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: objet
+eruda.js:2 📨 CHAMANDO onChunk callback com: objet tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ivo
+eruda.js:2 📨 CHAMANDO onChunk callback com: ivo tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  principal
+eruda.js:2 📨 CHAMANDO onChunk callback com:  principal tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  do
+eruda.js:2 📨 CHAMANDO onChunk callback com:  do tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  tratamento
+eruda.js:2 📨 CHAMANDO onChunk callback com:  tratamento tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: **
+eruda.js:2 📨 CHAMANDO onChunk callback com: ** tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: .
+eruda.js:2 📨 CHAMANDO onChunk callback com: . tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  Você
+eruda.js:2 📨 CHAMANDO onChunk callback com:  Você tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  pode
+eruda.js:2 📨 CHAMANDO onChunk callback com:  pode tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  escolher
+eruda.js:2 📨 CHAMANDO onChunk callback com:  escolher tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  uma
+eruda.js:2 📨 CHAMANDO onChunk callback com:  uma tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  ou
+eruda.js:2 📨 CHAMANDO onChunk callback com:  ou tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  mais
+eruda.js:2 📨 CHAMANDO onChunk callback com:  mais tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  das
+eruda.js:2 📨 CHAMANDO onChunk callback com:  das tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  opções
+eruda.js:2 📨 CHAMANDO onChunk callback com:  opções tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  abaixo
+eruda.js:2 📨 CHAMANDO onChunk callback com:  abaixo tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: :
+
+
+eruda.js:2 📨 CHAMANDO onChunk callback com: :
+
+ tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: 1
+eruda.js:2 📨 CHAMANDO onChunk callback com: 1 tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: .
+eruda.js:2 📨 CHAMANDO onChunk callback com: . tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  Melhor
+eruda.js:2 📨 CHAMANDO onChunk callback com:  Melhor tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ar
+eruda.js:2 📨 CHAMANDO onChunk callback com: ar tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  função
+eruda.js:2 📨 CHAMANDO onChunk callback com:  função tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  er
+eruda.js:2 📨 CHAMANDO onChunk callback com:  er tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: é
+eruda.js:2 📨 CHAMANDO onChunk callback com: é tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: til
+eruda.js:2 📨 CHAMANDO onChunk callback com: til tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  masculina
+eruda.js:2 📨 CHAMANDO onChunk callback com:  masculina tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:   
+
+eruda.js:2 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: 2
+eruda.js:2 📨 CHAMANDO onChunk callback com: 2 tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: .
+eruda.js:2 📨 CHAMANDO onChunk callback com: . tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  A
+eruda.js:2 📨 CHAMANDO onChunk callback com:  A tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ument
+eruda.js:2 📨 CHAMANDO onChunk callback com: ument tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ar
+eruda.js:2 📨 CHAMANDO onChunk callback com: ar tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  libido
+eruda.js:2 📨 CHAMANDO onChunk callback com:  libido tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: /d
+eruda.js:2 📨 CHAMANDO onChunk callback com: /d tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ese
+eruda.js:2 📨 CHAMANDO onChunk callback com: ese tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: jo
+eruda.js:2 📨 CHAMANDO onChunk callback com: jo tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  sexual
+eruda.js:2 📨 CHAMANDO onChunk callback com:  sexual tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:   
+
+eruda.js:2 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: 3
+eruda.js:2 📨 CHAMANDO onChunk callback com: 3 tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: .
+eruda.js:2 📨 CHAMANDO onChunk callback com: . tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  Melhor
+eruda.js:2 📨 CHAMANDO onChunk callback com:  Melhor tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ar
+eruda.js:2 📨 CHAMANDO onChunk callback com: ar tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  função
+eruda.js:2 📨 CHAMANDO onChunk callback com:  função tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  sexual
+eruda.js:2 📨 CHAMANDO onChunk callback com:  sexual tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  feminina
+eruda.js:2 📨 CHAMANDO onChunk callback com:  feminina tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  na
+eruda.js:2 📨 CHAMANDO onChunk callback com:  na tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  menop
+eruda.js:2 📨 CHAMANDO onChunk callback com:  menop tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ausa
+eruda.js:2 📨 CHAMANDO onChunk callback com: ausa tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:   
+
+eruda.js:2 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: 4
+eruda.js:2 📨 CHAMANDO onChunk callback com: 4 tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: .
+eruda.js:2 📨 CHAMANDO onChunk callback com: . tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  Red
+eruda.js:2 📨 CHAMANDO onChunk callback com:  Red tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: uz
+eruda.js:2 📨 CHAMANDO onChunk callback com: uz tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ir
+eruda.js:2 📨 CHAMANDO onChunk callback com: ir tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  dis
+eruda.js:2 📨 CHAMANDO onChunk callback com:  dis tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: fun
+eruda.js:2 📨 CHAMANDO onChunk callback com: fun tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ção
+eruda.js:2 📨 CHAMANDO onChunk callback com: ção tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  sexual
+eruda.js:2 📨 CHAMANDO onChunk callback com:  sexual tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  por
+eruda.js:2 📨 CHAMANDO onChunk callback com:  por tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  antidepress
+eruda.js:2 📨 CHAMANDO onChunk callback com:  antidepress tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ivos
+eruda.js:2 📨 CHAMANDO onChunk callback com: ivos tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:   
+
+eruda.js:2 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: 5
+eruda.js:2 📨 CHAMANDO onChunk callback com: 5 tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: .
+eruda.js:2 📨 CHAMANDO onChunk callback com: . tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  A
+eruda.js:2 📨 CHAMANDO onChunk callback com:  A tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ument
+eruda.js:2 📨 CHAMANDO onChunk callback com: ument tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ar
+eruda.js:2 📨 CHAMANDO onChunk callback com: ar tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  níveis
+eruda.js:2 📨 CHAMANDO onChunk callback com:  níveis tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  de
+eruda.js:2 📨 CHAMANDO onChunk callback com:  de tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  testoster
+eruda.js:2 📨 CHAMANDO onChunk callback com:  testoster tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ona
+eruda.js:2 📨 CHAMANDO onChunk callback com: ona tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:   
+
+eruda.js:2 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: 6
+eruda.js:2 📨 CHAMANDO onChunk callback com: 6 tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: .
+eruda.js:2 📨 CHAMANDO onChunk callback com: . tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  Melhor
+eruda.js:2 📨 CHAMANDO onChunk callback com:  Melhor tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ar
+eruda.js:2 📨 CHAMANDO onChunk callback com: ar tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  circulação
+eruda.js:2 📨 CHAMANDO onChunk callback com:  circulação tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  sangu
+eruda.js:2 📨 CHAMANDO onChunk callback com:  sangu tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ínea
+eruda.js:2 📨 CHAMANDO onChunk callback com: ínea tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  genital
+eruda.js:2 📨 CHAMANDO onChunk callback com:  genital tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:   
+
+eruda.js:2 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: 7
+eruda.js:2 📨 CHAMANDO onChunk callback com: 7 tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: .
+eruda.js:2 📨 CHAMANDO onChunk callback com: . tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  Red
+eruda.js:2 📨 CHAMANDO onChunk callback com:  Red tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: uz
+eruda.js:2 📨 CHAMANDO onChunk callback com: uz tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ir
+eruda.js:2 📨 CHAMANDO onChunk callback com: ir tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  ansiedade
+eruda.js:2 📨 CHAMANDO onChunk callback com:  ansiedade tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  de
+eruda.js:2 📨 CHAMANDO onChunk callback com:  de tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  performance
+eruda.js:2 📨 CHAMANDO onChunk callback com:  performance tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:   
+
+eruda.js:2 📨 CHAMANDO onChunk callback com:   
+ tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: 8
+eruda.js:2 📨 CHAMANDO onChunk callback com: 8 tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: .
+eruda.js:2 📨 CHAMANDO onChunk callback com: . tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  A
+eruda.js:2 📨 CHAMANDO onChunk callback com:  A tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ument
+eruda.js:2 📨 CHAMANDO onChunk callback com: ument tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: ar
+eruda.js:2 📨 CHAMANDO onChunk callback com: ar tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  energia
+eruda.js:2 📨 CHAMANDO onChunk callback com:  energia tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  e
+eruda.js:2 📨 CHAMANDO onChunk callback com:  e tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  vital
+eruda.js:2 📨 CHAMANDO onChunk callback com:  vital tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS: idade
+eruda.js:2 📨 CHAMANDO onChunk callback com: idade tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 🔸 CHUNK NO OPENAI.TS:  sexual
+eruda.js:2 📨 CHAMANDO onChunk callback com:  sexual tipo: string
+eruda.js:2 ✅ onChunk callback EXECUTADO COM SUCESSO
+eruda.js:2 ✅ STREAMING FINALIZADO NO OPENAI.TS: 568 caracteres
+recaptcha__pt_pt.js:642 The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+(anônimo) @ recaptcha__pt_pt.js:642
+aj.render @ recaptcha__pt_pt.js:1501
+(anônimo) @ recaptcha__pt_pt.js:155
+(anônimo) @ recaptcha__pt_pt.js:452
+(anônimo) @ recaptcha__pt_pt.js:335
+BmK.S @ recaptcha__pt_pt.js:1519
+W.o @ recaptcha__pt_pt.js:358
+(anônimo) @ recaptcha__pt_pt.js:358
+(anônimo) @ recaptcha__pt_pt.js:569
+D.next @ recaptcha__pt_pt.js:570
+a @ recaptcha__pt_pt.js:482
+Promise.then
+M @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:578
+(anônimo) @ recaptcha__pt_pt.js:357
+(anônimo) @ recaptcha__pt_pt.js:414
+MB @ recaptcha__pt_pt.js:999
+t @ recaptcha__pt_pt.js:550
+n @ _app-7a255c24e5511ccd.js:38
+recaptcha__pt_pt.js:642 The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+(anônimo) @ recaptcha__pt_pt.js:642
+aj.render @ recaptcha__pt_pt.js:1501
+(anônimo) @ recaptcha__pt_pt.js:155
+(anônimo) @ recaptcha__pt_pt.js:452
+(anônimo) @ recaptcha__pt_pt.js:335
+BmK.S @ recaptcha__pt_pt.js:1519
+W.o @ recaptcha__pt_pt.js:358
+(anônimo) @ recaptcha__pt_pt.js:358
+(anônimo) @ recaptcha__pt_pt.js:569
+D.next @ recaptcha__pt_pt.js:570
+a @ recaptcha__pt_pt.js:482
+Promise.then
+M @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:578
+(anônimo) @ recaptcha__pt_pt.js:357
+(anônimo) @ recaptcha__pt_pt.js:414
+MB @ recaptcha__pt_pt.js:999
+t @ recaptcha__pt_pt.js:550
+n @ _app-7a255c24e5511ccd.js:38
+recaptcha__pt_pt.js:642 The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+(anônimo) @ recaptcha__pt_pt.js:642
+aj.render @ recaptcha__pt_pt.js:1501
+(anônimo) @ recaptcha__pt_pt.js:155
+(anônimo) @ recaptcha__pt_pt.js:452
+(anônimo) @ recaptcha__pt_pt.js:335
+BmK.S @ recaptcha__pt_pt.js:1519
+W.o @ recaptcha__pt_pt.js:358
+(anônimo) @ recaptcha__pt_pt.js:358
+(anônimo) @ recaptcha__pt_pt.js:569
+D.next @ recaptcha__pt_pt.js:570
+a @ recaptcha__pt_pt.js:482
+Promise.then
+M @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:578
+(anônimo) @ recaptcha__pt_pt.js:357
+(anônimo) @ recaptcha__pt_pt.js:414
+MB @ recaptcha__pt_pt.js:999
+t @ recaptcha__pt_pt.js:550
+n @ _app-7a255c24e5511ccd.js:38
+recaptcha__pt_pt.js:432 The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+(anônimo) @ recaptcha__pt_pt.js:432
+(anônimo) @ recaptcha__pt_pt.js:78
+(anônimo) @ recaptcha__pt_pt.js:660
+(anônimo) @ recaptcha__pt_pt.js:569
+D.next @ recaptcha__pt_pt.js:570
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:578
+(anônimo) @ recaptcha__pt_pt.js:660
+(anônimo) @ recaptcha__pt_pt.js:457
+(anônimo) @ recaptcha__pt_pt.js:569
+D.next @ recaptcha__pt_pt.js:570
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:578
+(anônimo) @ recaptcha__pt_pt.js:457
+(anônimo) @ recaptcha__pt_pt.js:358
+Promise.then
+(anônimo) @ recaptcha__pt_pt.js:358
+(anônimo) @ recaptcha__pt_pt.js:569
+D.next @ recaptcha__pt_pt.js:570
+a @ recaptcha__pt_pt.js:482
+Promise.then
+M @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:578
+(anônimo) @ recaptcha__pt_pt.js:357
+(anônimo) @ recaptcha__pt_pt.js:414
+MB @ recaptcha__pt_pt.js:999
+t @ recaptcha__pt_pt.js:550
+n @ _app-7a255c24e5511ccd.js:38
+recaptcha__pt_pt.js:432 The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+(anônimo) @ recaptcha__pt_pt.js:432
+(anônimo) @ recaptcha__pt_pt.js:78
+(anônimo) @ recaptcha__pt_pt.js:660
+(anônimo) @ recaptcha__pt_pt.js:569
+D.next @ recaptcha__pt_pt.js:570
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:578
+(anônimo) @ recaptcha__pt_pt.js:660
+(anônimo) @ recaptcha__pt_pt.js:457
+(anônimo) @ recaptcha__pt_pt.js:569
+D.next @ recaptcha__pt_pt.js:570
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:578
+(anônimo) @ recaptcha__pt_pt.js:457
+(anônimo) @ recaptcha__pt_pt.js:358
+Promise.then
+(anônimo) @ recaptcha__pt_pt.js:358
+(anônimo) @ recaptcha__pt_pt.js:569
+D.next @ recaptcha__pt_pt.js:570
+a @ recaptcha__pt_pt.js:482
+Promise.then
+M @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:578
+(anônimo) @ recaptcha__pt_pt.js:357
+(anônimo) @ recaptcha__pt_pt.js:414
+MB @ recaptcha__pt_pt.js:999
+t @ recaptcha__pt_pt.js:550
+n @ _app-7a255c24e5511ccd.js:38
+recaptcha__pt_pt.js:432 The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+(anônimo) @ recaptcha__pt_pt.js:432
+(anônimo) @ recaptcha__pt_pt.js:78
+(anônimo) @ recaptcha__pt_pt.js:660
+(anônimo) @ recaptcha__pt_pt.js:569
+D.next @ recaptcha__pt_pt.js:570
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:578
+(anônimo) @ recaptcha__pt_pt.js:660
+(anônimo) @ recaptcha__pt_pt.js:457
+(anônimo) @ recaptcha__pt_pt.js:569
+D.next @ recaptcha__pt_pt.js:570
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:578
+(anônimo) @ recaptcha__pt_pt.js:457
+(anônimo) @ recaptcha__pt_pt.js:358
+Promise.then
+(anônimo) @ recaptcha__pt_pt.js:358
+(anônimo) @ recaptcha__pt_pt.js:569
+D.next @ recaptcha__pt_pt.js:570
+a @ recaptcha__pt_pt.js:482
+Promise.then
+M @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:578
+(anônimo) @ recaptcha__pt_pt.js:357
+(anônimo) @ recaptcha__pt_pt.js:414
+MB @ recaptcha__pt_pt.js:999
+t @ recaptcha__pt_pt.js:550
+n @ _app-7a255c24e5511ccd.js:38
+recaptcha__pt_pt.js:432 The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+(anônimo) @ recaptcha__pt_pt.js:432
+(anônimo) @ recaptcha__pt_pt.js:78
+(anônimo) @ recaptcha__pt_pt.js:660
+(anônimo) @ recaptcha__pt_pt.js:569
+D.next @ recaptcha__pt_pt.js:570
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:578
+(anônimo) @ recaptcha__pt_pt.js:660
+(anônimo) @ recaptcha__pt_pt.js:457
+(anônimo) @ recaptcha__pt_pt.js:569
+D.next @ recaptcha__pt_pt.js:570
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:578
+(anônimo) @ recaptcha__pt_pt.js:457
+(anônimo) @ recaptcha__pt_pt.js:358
+Promise.then
+(anônimo) @ recaptcha__pt_pt.js:358
+(anônimo) @ recaptcha__pt_pt.js:569
+D.next @ recaptcha__pt_pt.js:570
+a @ recaptcha__pt_pt.js:482
+Promise.then
+M @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:578
+(anônimo) @ recaptcha__pt_pt.js:357
+(anônimo) @ recaptcha__pt_pt.js:414
+MB @ recaptcha__pt_pt.js:999
+t @ recaptcha__pt_pt.js:550
+n @ _app-7a255c24e5511ccd.js:38
+recaptcha__pt_pt.js:432 The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+(anônimo) @ recaptcha__pt_pt.js:432
+(anônimo) @ recaptcha__pt_pt.js:78
+(anônimo) @ recaptcha__pt_pt.js:660
+(anônimo) @ recaptcha__pt_pt.js:569
+D.next @ recaptcha__pt_pt.js:570
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:578
+(anônimo) @ recaptcha__pt_pt.js:660
+(anônimo) @ recaptcha__pt_pt.js:457
+(anônimo) @ recaptcha__pt_pt.js:569
+D.next @ recaptcha__pt_pt.js:570
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:578
+(anônimo) @ recaptcha__pt_pt.js:457
+(anônimo) @ recaptcha__pt_pt.js:358
+Promise.then
+(anônimo) @ recaptcha__pt_pt.js:358
+(anônimo) @ recaptcha__pt_pt.js:569
+D.next @ recaptcha__pt_pt.js:570
+a @ recaptcha__pt_pt.js:482
+Promise.then
+M @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:578
+(anônimo) @ recaptcha__pt_pt.js:357
+(anônimo) @ recaptcha__pt_pt.js:414
+MB @ recaptcha__pt_pt.js:999
+t @ recaptcha__pt_pt.js:550
+n @ _app-7a255c24e5511ccd.js:38
+recaptcha__pt_pt.js:432 The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+(anônimo) @ recaptcha__pt_pt.js:432
+(anônimo) @ recaptcha__pt_pt.js:78
+(anônimo) @ recaptcha__pt_pt.js:660
+(anônimo) @ recaptcha__pt_pt.js:569
+D.next @ recaptcha__pt_pt.js:570
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:578
+(anônimo) @ recaptcha__pt_pt.js:660
+(anônimo) @ recaptcha__pt_pt.js:457
+(anônimo) @ recaptcha__pt_pt.js:569
+D.next @ recaptcha__pt_pt.js:570
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:578
+(anônimo) @ recaptcha__pt_pt.js:457
+(anônimo) @ recaptcha__pt_pt.js:358
+Promise.then
+(anônimo) @ recaptcha__pt_pt.js:358
+(anônimo) @ recaptcha__pt_pt.js:569
+D.next @ recaptcha__pt_pt.js:570
+a @ recaptcha__pt_pt.js:482
+Promise.then
+M @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:482
+(anônimo) @ recaptcha__pt_pt.js:578
+(anônimo) @ recaptcha__pt_pt.js:357
+(anônimo) @ recaptcha__pt_pt.js:414
+MB @ recaptcha__pt_pt.js:999
+t @ recaptcha__pt_pt.js:550
+n @ _app-7a255c24e5511ccd.js:38
+eruda.js:2 URL atual: https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/chat
+eruda.js:2 Parâmetro session na URL: null
+eruda.js:2 Nenhum hash de sessão na URL
+eruda.js:2 URL atual: https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/chat
+eruda.js:2 Parâmetro session na URL: null
+eruda.js:2 Nenhum hash de sessão na URL
+eruda.js:2 URL atual: https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/chat
+eruda.js:2 Parâmetro session na URL: null
+eruda.js:2 Nenhum hash de sessão na URL
+eruda.js:2 URL atual: https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/chat
+eruda.js:2 Parâmetro session na URL: null
+eruda.js:2 Nenhum hash de sessão na URL
+eruda.js:2 URL atual: https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/chat
+eruda.js:2 Parâmetro session na URL: null
+eruda.js:2 Nenhum hash de sessão na URL
+eruda.js:2 URL atual: https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/chat
+eruda.js:2 Parâmetro session na URL: null
+eruda.js:2 Nenhum hash de sessão na URL
+eruda.js:2 Firebase config: {projectId: 'preskriptor-e8a69', authDomain: 'preskriptor-e8a69.firebaseapp.com', storageBucket: 'preskriptor-e8a69.appspot.com', messagingSenderId: '361328259562', appId: '[PRESENTE]', …}
+eruda.js:2 Usando instância existente do Firebase
+AuthContext.tsx:278 Uncaught Error: useAuth must be used within an AuthProvider
+    at useAuth (AuthContext.tsx:278:11)
+    at ProtectedRoute (ProtectedRoute.tsx:24:40)
+    at renderWithHooks (chunk-XQLYTHWV.js?v=5583f018:11548:26)
+    at mountIndeterminateComponent (chunk-XQLYTHWV.js?v=5583f018:14926:21)
+    at beginWork (chunk-XQLYTHWV.js?v=5583f018:15914:22)
+    at HTMLUnknownElement.callCallback2 (chunk-XQLYTHWV.js?v=5583f018:3674:22)
+    at Object.invokeGuardedCallbackDev (chunk-XQLYTHWV.js?v=5583f018:3699:24)
+    at invokeGuardedCallback (chunk-XQLYTHWV.js?v=5583f018:3733:39)
+    at beginWork$1 (chunk-XQLYTHWV.js?v=5583f018:19765:15)
+    at performUnitOfWork (chunk-XQLYTHWV.js?v=5583f018:19198:20)
+useAuth @ AuthContext.tsx:333
+ProtectedRoute @ ProtectedRoute.tsx:11
+renderWithHooks @ chunk-XQLYTHWV.js?v=5583f018:11548
+mountIndeterminateComponent @ chunk-XQLYTHWV.js?v=5583f018:14926
+beginWork @ chunk-XQLYTHWV.js?v=5583f018:15914
+callCallback2 @ chunk-XQLYTHWV.js?v=5583f018:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=5583f018:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=5583f018:3733
+beginWork$1 @ chunk-XQLYTHWV.js?v=5583f018:19765
+performUnitOfWork @ chunk-XQLYTHWV.js?v=5583f018:19198
+workLoopSync @ chunk-XQLYTHWV.js?v=5583f018:19137
+renderRootSync @ chunk-XQLYTHWV.js?v=5583f018:19116
+performSyncWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18874
+flushSyncCallbacks @ chunk-XQLYTHWV.js?v=5583f018:9119
+flushSync @ chunk-XQLYTHWV.js?v=5583f018:18959
+scheduleRefresh @ chunk-XQLYTHWV.js?v=5583f018:20004
+(anônimo) @ @react-refresh:267
+performReactRefresh @ @react-refresh:256
+(anônimo) @ @react-refresh:677
+setTimeout
+(anônimo) @ @react-refresh:666
+validateRefreshBoundaryAndEnqueueUpdate @ @react-refresh:728
+(anônimo) @ MensagensTab.tsx:390
+(anônimo) @ client:34
+(anônimo) @ client:218
+(anônimo) @ client:193
+queueUpdate @ client:193
+await in queueUpdate
+(anônimo) @ client:642
+handleMessage @ client:640
+(anônimo) @ client:550
+AuthContext.tsx:278 Uncaught Error: useAuth must be used within an AuthProvider
+    at useAuth (AuthContext.tsx:278:11)
+    at ProtectedRoute (ProtectedRoute.tsx:24:40)
+    at renderWithHooks (chunk-XQLYTHWV.js?v=5583f018:11548:26)
+    at mountIndeterminateComponent (chunk-XQLYTHWV.js?v=5583f018:14926:21)
+    at beginWork (chunk-XQLYTHWV.js?v=5583f018:15914:22)
+    at HTMLUnknownElement.callCallback2 (chunk-XQLYTHWV.js?v=5583f018:3674:22)
+    at Object.invokeGuardedCallbackDev (chunk-XQLYTHWV.js?v=5583f018:3699:24)
+    at invokeGuardedCallback (chunk-XQLYTHWV.js?v=5583f018:3733:39)
+    at beginWork$1 (chunk-XQLYTHWV.js?v=5583f018:19765:15)
+    at performUnitOfWork (chunk-XQLYTHWV.js?v=5583f018:19198:20)
+useAuth @ AuthContext.tsx:333
+ProtectedRoute @ ProtectedRoute.tsx:11
+renderWithHooks @ chunk-XQLYTHWV.js?v=5583f018:11548
+mountIndeterminateComponent @ chunk-XQLYTHWV.js?v=5583f018:14926
+beginWork @ chunk-XQLYTHWV.js?v=5583f018:15914
+callCallback2 @ chunk-XQLYTHWV.js?v=5583f018:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=5583f018:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=5583f018:3733
+beginWork$1 @ chunk-XQLYTHWV.js?v=5583f018:19765
+performUnitOfWork @ chunk-XQLYTHWV.js?v=5583f018:19198
+workLoopSync @ chunk-XQLYTHWV.js?v=5583f018:19137
+renderRootSync @ chunk-XQLYTHWV.js?v=5583f018:19116
+recoverFromConcurrentError @ chunk-XQLYTHWV.js?v=5583f018:18736
+performSyncWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18879
+flushSyncCallbacks @ chunk-XQLYTHWV.js?v=5583f018:9119
+flushSync @ chunk-XQLYTHWV.js?v=5583f018:18959
+scheduleRefresh @ chunk-XQLYTHWV.js?v=5583f018:20004
+(anônimo) @ @react-refresh:267
+performReactRefresh @ @react-refresh:256
+(anônimo) @ @react-refresh:677
+setTimeout
+(anônimo) @ @react-refresh:666
+validateRefreshBoundaryAndEnqueueUpdate @ @react-refresh:728
+(anônimo) @ MensagensTab.tsx:390
+(anônimo) @ client:34
+(anônimo) @ client:218
+(anônimo) @ client:193
+queueUpdate @ client:193
+await in queueUpdate
+(anônimo) @ client:642
+handleMessage @ client:640
+(anônimo) @ client:550
+eruda.js:2 The above error occurred in the <ProtectedRoute> component:
+
+    at ProtectedRoute (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/src/components/ProtectedRoute.tsx:22:34)
+    at Route (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=5583f018:338:16)
+    at Switch (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=5583f018:394:17)
+    at Router (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/src/App.tsx?v=kHYUd192IjqwhWgsaASQR:48:3)
+    at AuthProvider (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/src/context/AuthContext.tsx?t=1756404670485:32:32)
+    at Provider (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-2M7HY3UG.js?v=5583f018:38:15)
+    at TooltipProvider (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=5583f018:62:5)
+    at QueryClientProvider (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=5583f018:2875:3)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries.
+Mt.forEach.n.<computed> @ Console.js:61
+logCapturedError @ chunk-XQLYTHWV.js?v=5583f018:14032
+update.callback @ chunk-XQLYTHWV.js?v=5583f018:14052
+callCallback @ chunk-XQLYTHWV.js?v=5583f018:11248
+commitUpdateQueue @ chunk-XQLYTHWV.js?v=5583f018:11265
+commitLayoutEffectOnFiber @ chunk-XQLYTHWV.js?v=5583f018:17093
+commitLayoutMountEffects_complete @ chunk-XQLYTHWV.js?v=5583f018:17980
+commitLayoutEffects_begin @ chunk-XQLYTHWV.js?v=5583f018:17969
+commitLayoutEffects @ chunk-XQLYTHWV.js?v=5583f018:17920
+commitRootImpl @ chunk-XQLYTHWV.js?v=5583f018:19353
+commitRoot @ chunk-XQLYTHWV.js?v=5583f018:19277
+performSyncWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18895
+flushSyncCallbacks @ chunk-XQLYTHWV.js?v=5583f018:9119
+flushSync @ chunk-XQLYTHWV.js?v=5583f018:18959
+scheduleRefresh @ chunk-XQLYTHWV.js?v=5583f018:20004
+(anônimo) @ @react-refresh:267
+performReactRefresh @ @react-refresh:256
+(anônimo) @ @react-refresh:677
+setTimeout
+(anônimo) @ @react-refresh:666
+validateRefreshBoundaryAndEnqueueUpdate @ @react-refresh:728
+(anônimo) @ MensagensTab.tsx:390
+(anônimo) @ client:34
+(anônimo) @ client:218
+(anônimo) @ client:193
+queueUpdate @ client:193
+await in queueUpdate
+(anônimo) @ client:642
+handleMessage @ client:640
+(anônimo) @ client:550
+eruda.js:2 Cleaning up auth state listener
+AuthContext.tsx:278 Uncaught (in promise) Error: useAuth must be used within an AuthProvider
+    at useAuth (AuthContext.tsx:278:11)
+    at ProtectedRoute (ProtectedRoute.tsx:24:40)
+    at renderWithHooks (chunk-XQLYTHWV.js?v=5583f018:11548:26)
+    at mountIndeterminateComponent (chunk-XQLYTHWV.js?v=5583f018:14926:21)
+    at beginWork (chunk-XQLYTHWV.js?v=5583f018:15914:22)
+    at beginWork$1 (chunk-XQLYTHWV.js?v=5583f018:19753:22)
+    at performUnitOfWork (chunk-XQLYTHWV.js?v=5583f018:19198:20)
+    at workLoopSync (chunk-XQLYTHWV.js?v=5583f018:19137:13)
+    at renderRootSync (chunk-XQLYTHWV.js?v=5583f018:19116:15)
+    at recoverFromConcurrentError (chunk-XQLYTHWV.js?v=5583f018:18736:28)
+useAuth @ AuthContext.tsx:333
+ProtectedRoute @ ProtectedRoute.tsx:11
+renderWithHooks @ chunk-XQLYTHWV.js?v=5583f018:11548
+mountIndeterminateComponent @ chunk-XQLYTHWV.js?v=5583f018:14926
+beginWork @ chunk-XQLYTHWV.js?v=5583f018:15914
+beginWork$1 @ chunk-XQLYTHWV.js?v=5583f018:19753
+performUnitOfWork @ chunk-XQLYTHWV.js?v=5583f018:19198
+workLoopSync @ chunk-XQLYTHWV.js?v=5583f018:19137
+renderRootSync @ chunk-XQLYTHWV.js?v=5583f018:19116
+recoverFromConcurrentError @ chunk-XQLYTHWV.js?v=5583f018:18736
+performSyncWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18879
+flushSyncCallbacks @ chunk-XQLYTHWV.js?v=5583f018:9119
+flushSync @ chunk-XQLYTHWV.js?v=5583f018:18959
+scheduleRefresh @ chunk-XQLYTHWV.js?v=5583f018:20004
+(anônimo) @ @react-refresh:267
+performReactRefresh @ @react-refresh:256
+(anônimo) @ @react-refresh:677
+setTimeout
+(anônimo) @ @react-refresh:666
+validateRefreshBoundaryAndEnqueueUpdate @ @react-refresh:728
+(anônimo) @ MensagensTab.tsx:390
+(anônimo) @ client:34
+(anônimo) @ client:218
+(anônimo) @ client:193
+queueUpdate @ client:193
+await in queueUpdate
+(anônimo) @ client:642
+handleMessage @ client:640
+(anônimo) @ client:550
+eruda.js:2 🔐 USUÁRIO LOGADO - DADOS COMPLETOS: {uid: '27EV4avUl6N0gJs7OMWS1vWxxUi2', email: 'assitba@hotmail.com', displayName: null, name: 'assitba', cellphone: '', …}
+eruda.js:2 📋 Detalhes do perfil Firestore: {cellphone: '', verified: true, createdAt: Wed Aug 27 2025 15:47:25 GMT-0300 (Horário Padrão de Brasília), updatedAt: Wed Aug 27 2025 15:47:25 GMT-0300 (Horário Padrão de Brasília), uid: '27EV4avUl6N0gJs7OMWS1vWxxUi2', …}
+eruda.js:2 🔥 Dados básicos do Firebase Auth: {uid: '27EV4avUl6N0gJs7OMWS1vWxxUi2', email: 'assitba@hotmail.com', displayName: null, photoURL: null}
+eruda.js:2 URL atual: https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/chat
+eruda.js:2 Parâmetro session na URL: null
+eruda.js:2 Nenhum hash de sessão na URL
+eruda.js:2 Erro ao buscar conversas: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+getUserConversations @ firebase.ts?t=1756404670485:1172
+await in getUserConversations
+loadConversations @ SidebarLayout.tsx:64
+(anônimo) @ SidebarLayout.tsx:102
+commitHookEffectListMount @ chunk-XQLYTHWV.js?v=5583f018:16915
+commitPassiveMountOnFiber @ chunk-XQLYTHWV.js?v=5583f018:18156
+commitPassiveMountEffects_complete @ chunk-XQLYTHWV.js?v=5583f018:18129
+commitPassiveMountEffects_begin @ chunk-XQLYTHWV.js?v=5583f018:18119
+commitPassiveMountEffects @ chunk-XQLYTHWV.js?v=5583f018:18109
+flushPassiveEffectsImpl @ chunk-XQLYTHWV.js?v=5583f018:19490
+flushPassiveEffects @ chunk-XQLYTHWV.js?v=5583f018:19447
+performSyncWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18868
+flushSyncCallbacks @ chunk-XQLYTHWV.js?v=5583f018:9119
+commitRootImpl @ chunk-XQLYTHWV.js?v=5583f018:19432
+commitRoot @ chunk-XQLYTHWV.js?v=5583f018:19277
+finishConcurrentRender @ chunk-XQLYTHWV.js?v=5583f018:18805
+performConcurrentWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18718
+workLoop @ chunk-XQLYTHWV.js?v=5583f018:197
+flushWork @ chunk-XQLYTHWV.js?v=5583f018:176
+performWorkUntilDeadline @ chunk-XQLYTHWV.js?v=5583f018:384
+eruda.js:2 Erro ao carregar histórico: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+loadConversations @ SidebarLayout.tsx:68
+await in loadConversations
+(anônimo) @ SidebarLayout.tsx:102
+commitHookEffectListMount @ chunk-XQLYTHWV.js?v=5583f018:16915
+commitPassiveMountOnFiber @ chunk-XQLYTHWV.js?v=5583f018:18156
+commitPassiveMountEffects_complete @ chunk-XQLYTHWV.js?v=5583f018:18129
+commitPassiveMountEffects_begin @ chunk-XQLYTHWV.js?v=5583f018:18119
+commitPassiveMountEffects @ chunk-XQLYTHWV.js?v=5583f018:18109
+flushPassiveEffectsImpl @ chunk-XQLYTHWV.js?v=5583f018:19490
+flushPassiveEffects @ chunk-XQLYTHWV.js?v=5583f018:19447
+performSyncWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18868
+flushSyncCallbacks @ chunk-XQLYTHWV.js?v=5583f018:9119
+commitRootImpl @ chunk-XQLYTHWV.js?v=5583f018:19432
+commitRoot @ chunk-XQLYTHWV.js?v=5583f018:19277
+finishConcurrentRender @ chunk-XQLYTHWV.js?v=5583f018:18805
+performConcurrentWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18718
+workLoop @ chunk-XQLYTHWV.js?v=5583f018:197
+flushWork @ chunk-XQLYTHWV.js?v=5583f018:176
+performWorkUntilDeadline @ chunk-XQLYTHWV.js?v=5583f018:384
+eruda.js:2 URL atual: https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/chat
+eruda.js:2 Parâmetro session na URL: null
+eruda.js:2 Nenhum hash de sessão na URL
+eruda.js:2 Firebase config: {projectId: 'preskriptor-e8a69', authDomain: 'preskriptor-e8a69.firebaseapp.com', storageBucket: 'preskriptor-e8a69.appspot.com', messagingSenderId: '361328259562', appId: '[PRESENTE]', …}
+eruda.js:2 Usando instância existente do Firebase
+AuthContext.tsx?t=1756404670485:278 Uncaught Error: useAuth must be used within an AuthProvider
+    at useAuth (AuthContext.tsx?t=1756404670485:278:11)
+    at ProtectedRoute (ProtectedRoute.tsx?t=1756404670485:24:40)
+    at renderWithHooks (chunk-XQLYTHWV.js?v=5583f018:11548:26)
+    at mountIndeterminateComponent (chunk-XQLYTHWV.js?v=5583f018:14926:21)
+    at beginWork (chunk-XQLYTHWV.js?v=5583f018:15914:22)
+    at HTMLUnknownElement.callCallback2 (chunk-XQLYTHWV.js?v=5583f018:3674:22)
+    at Object.invokeGuardedCallbackDev (chunk-XQLYTHWV.js?v=5583f018:3699:24)
+    at invokeGuardedCallback (chunk-XQLYTHWV.js?v=5583f018:3733:39)
+    at beginWork$1 (chunk-XQLYTHWV.js?v=5583f018:19765:15)
+    at performUnitOfWork (chunk-XQLYTHWV.js?v=5583f018:19198:20)
+useAuth @ AuthContext.tsx:333
+ProtectedRoute @ ProtectedRoute.tsx:11
+renderWithHooks @ chunk-XQLYTHWV.js?v=5583f018:11548
+mountIndeterminateComponent @ chunk-XQLYTHWV.js?v=5583f018:14926
+beginWork @ chunk-XQLYTHWV.js?v=5583f018:15914
+callCallback2 @ chunk-XQLYTHWV.js?v=5583f018:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=5583f018:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=5583f018:3733
+beginWork$1 @ chunk-XQLYTHWV.js?v=5583f018:19765
+performUnitOfWork @ chunk-XQLYTHWV.js?v=5583f018:19198
+workLoopSync @ chunk-XQLYTHWV.js?v=5583f018:19137
+renderRootSync @ chunk-XQLYTHWV.js?v=5583f018:19116
+performSyncWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18874
+flushSyncCallbacks @ chunk-XQLYTHWV.js?v=5583f018:9119
+flushSync @ chunk-XQLYTHWV.js?v=5583f018:18959
+scheduleRefresh @ chunk-XQLYTHWV.js?v=5583f018:20004
+(anônimo) @ @react-refresh:267
+performReactRefresh @ @react-refresh:256
+(anônimo) @ @react-refresh:677
+setTimeout
+(anônimo) @ @react-refresh:666
+validateRefreshBoundaryAndEnqueueUpdate @ @react-refresh:728
+(anônimo) @ MensagensTab.tsx:390
+(anônimo) @ client:34
+(anônimo) @ client:218
+(anônimo) @ client:193
+queueUpdate @ client:193
+await in queueUpdate
+(anônimo) @ client:642
+handleMessage @ client:640
+(anônimo) @ client:550
+AuthContext.tsx?t=1756404670485:278 Uncaught Error: useAuth must be used within an AuthProvider
+    at useAuth (AuthContext.tsx?t=1756404670485:278:11)
+    at ProtectedRoute (ProtectedRoute.tsx?t=1756404670485:24:40)
+    at renderWithHooks (chunk-XQLYTHWV.js?v=5583f018:11548:26)
+    at mountIndeterminateComponent (chunk-XQLYTHWV.js?v=5583f018:14926:21)
+    at beginWork (chunk-XQLYTHWV.js?v=5583f018:15914:22)
+    at HTMLUnknownElement.callCallback2 (chunk-XQLYTHWV.js?v=5583f018:3674:22)
+    at Object.invokeGuardedCallbackDev (chunk-XQLYTHWV.js?v=5583f018:3699:24)
+    at invokeGuardedCallback (chunk-XQLYTHWV.js?v=5583f018:3733:39)
+    at beginWork$1 (chunk-XQLYTHWV.js?v=5583f018:19765:15)
+    at performUnitOfWork (chunk-XQLYTHWV.js?v=5583f018:19198:20)
+useAuth @ AuthContext.tsx:333
+ProtectedRoute @ ProtectedRoute.tsx:11
+renderWithHooks @ chunk-XQLYTHWV.js?v=5583f018:11548
+mountIndeterminateComponent @ chunk-XQLYTHWV.js?v=5583f018:14926
+beginWork @ chunk-XQLYTHWV.js?v=5583f018:15914
+callCallback2 @ chunk-XQLYTHWV.js?v=5583f018:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=5583f018:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=5583f018:3733
+beginWork$1 @ chunk-XQLYTHWV.js?v=5583f018:19765
+performUnitOfWork @ chunk-XQLYTHWV.js?v=5583f018:19198
+workLoopSync @ chunk-XQLYTHWV.js?v=5583f018:19137
+renderRootSync @ chunk-XQLYTHWV.js?v=5583f018:19116
+recoverFromConcurrentError @ chunk-XQLYTHWV.js?v=5583f018:18736
+performSyncWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18879
+flushSyncCallbacks @ chunk-XQLYTHWV.js?v=5583f018:9119
+flushSync @ chunk-XQLYTHWV.js?v=5583f018:18959
+scheduleRefresh @ chunk-XQLYTHWV.js?v=5583f018:20004
+(anônimo) @ @react-refresh:267
+performReactRefresh @ @react-refresh:256
+(anônimo) @ @react-refresh:677
+setTimeout
+(anônimo) @ @react-refresh:666
+validateRefreshBoundaryAndEnqueueUpdate @ @react-refresh:728
+(anônimo) @ MensagensTab.tsx:390
+(anônimo) @ client:34
+(anônimo) @ client:218
+(anônimo) @ client:193
+queueUpdate @ client:193
+await in queueUpdate
+(anônimo) @ client:642
+handleMessage @ client:640
+(anônimo) @ client:550
+eruda.js:2 The above error occurred in the <ProtectedRoute> component:
+
+    at ProtectedRoute (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/src/components/ProtectedRoute.tsx?t=1756404670485:22:34)
+    at Route (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=5583f018:338:16)
+    at Switch (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=5583f018:394:17)
+    at Router (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/src/App.tsx?t=1756404670485&v=tSQA1Q7TBaFbpIkQcalIE:48:3)
+    at AuthProvider (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/src/context/AuthContext.tsx?t=1756404682819:32:32)
+    at Provider (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-2M7HY3UG.js?v=5583f018:38:15)
+    at TooltipProvider (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=5583f018:62:5)
+    at QueryClientProvider (https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=5583f018:2875:3)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries.
+Mt.forEach.n.<computed> @ Console.js:61
+logCapturedError @ chunk-XQLYTHWV.js?v=5583f018:14032
+update.callback @ chunk-XQLYTHWV.js?v=5583f018:14052
+callCallback @ chunk-XQLYTHWV.js?v=5583f018:11248
+commitUpdateQueue @ chunk-XQLYTHWV.js?v=5583f018:11265
+commitLayoutEffectOnFiber @ chunk-XQLYTHWV.js?v=5583f018:17093
+commitLayoutMountEffects_complete @ chunk-XQLYTHWV.js?v=5583f018:17980
+commitLayoutEffects_begin @ chunk-XQLYTHWV.js?v=5583f018:17969
+commitLayoutEffects @ chunk-XQLYTHWV.js?v=5583f018:17920
+commitRootImpl @ chunk-XQLYTHWV.js?v=5583f018:19353
+commitRoot @ chunk-XQLYTHWV.js?v=5583f018:19277
+performSyncWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18895
+flushSyncCallbacks @ chunk-XQLYTHWV.js?v=5583f018:9119
+flushSync @ chunk-XQLYTHWV.js?v=5583f018:18959
+scheduleRefresh @ chunk-XQLYTHWV.js?v=5583f018:20004
+(anônimo) @ @react-refresh:267
+performReactRefresh @ @react-refresh:256
+(anônimo) @ @react-refresh:677
+setTimeout
+(anônimo) @ @react-refresh:666
+validateRefreshBoundaryAndEnqueueUpdate @ @react-refresh:728
+(anônimo) @ MensagensTab.tsx:390
+(anônimo) @ client:34
+(anônimo) @ client:218
+(anônimo) @ client:193
+queueUpdate @ client:193
+await in queueUpdate
+(anônimo) @ client:642
+handleMessage @ client:640
+(anônimo) @ client:550
+eruda.js:2 Cleaning up auth state listener
+AuthContext.tsx?t=1756404670485:278 Uncaught (in promise) Error: useAuth must be used within an AuthProvider
+    at useAuth (AuthContext.tsx?t=1756404670485:278:11)
+    at ProtectedRoute (ProtectedRoute.tsx?t=1756404670485:24:40)
+    at renderWithHooks (chunk-XQLYTHWV.js?v=5583f018:11548:26)
+    at mountIndeterminateComponent (chunk-XQLYTHWV.js?v=5583f018:14926:21)
+    at beginWork (chunk-XQLYTHWV.js?v=5583f018:15914:22)
+    at beginWork$1 (chunk-XQLYTHWV.js?v=5583f018:19753:22)
+    at performUnitOfWork (chunk-XQLYTHWV.js?v=5583f018:19198:20)
+    at workLoopSync (chunk-XQLYTHWV.js?v=5583f018:19137:13)
+    at renderRootSync (chunk-XQLYTHWV.js?v=5583f018:19116:15)
+    at recoverFromConcurrentError (chunk-XQLYTHWV.js?v=5583f018:18736:28)
+useAuth @ AuthContext.tsx:333
+ProtectedRoute @ ProtectedRoute.tsx:11
+renderWithHooks @ chunk-XQLYTHWV.js?v=5583f018:11548
+mountIndeterminateComponent @ chunk-XQLYTHWV.js?v=5583f018:14926
+beginWork @ chunk-XQLYTHWV.js?v=5583f018:15914
+beginWork$1 @ chunk-XQLYTHWV.js?v=5583f018:19753
+performUnitOfWork @ chunk-XQLYTHWV.js?v=5583f018:19198
+workLoopSync @ chunk-XQLYTHWV.js?v=5583f018:19137
+renderRootSync @ chunk-XQLYTHWV.js?v=5583f018:19116
+recoverFromConcurrentError @ chunk-XQLYTHWV.js?v=5583f018:18736
+performSyncWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18879
+flushSyncCallbacks @ chunk-XQLYTHWV.js?v=5583f018:9119
+flushSync @ chunk-XQLYTHWV.js?v=5583f018:18959
+scheduleRefresh @ chunk-XQLYTHWV.js?v=5583f018:20004
+(anônimo) @ @react-refresh:267
+performReactRefresh @ @react-refresh:256
+(anônimo) @ @react-refresh:677
+setTimeout
+(anônimo) @ @react-refresh:666
+validateRefreshBoundaryAndEnqueueUpdate @ @react-refresh:728
+(anônimo) @ MensagensTab.tsx:390
+(anônimo) @ client:34
+(anônimo) @ client:218
+(anônimo) @ client:193
+queueUpdate @ client:193
+await in queueUpdate
+(anônimo) @ client:642
+handleMessage @ client:640
+(anônimo) @ client:550
+eruda.js:2 🔐 USUÁRIO LOGADO - DADOS COMPLETOS: {uid: '27EV4avUl6N0gJs7OMWS1vWxxUi2', email: 'assitba@hotmail.com', displayName: null, name: 'assitba', cellphone: '', …}
+eruda.js:2 📋 Detalhes do perfil Firestore: {cellphone: '', verified: true, createdAt: Wed Aug 27 2025 15:47:25 GMT-0300 (Horário Padrão de Brasília), updatedAt: Wed Aug 27 2025 15:47:25 GMT-0300 (Horário Padrão de Brasília), uid: '27EV4avUl6N0gJs7OMWS1vWxxUi2', …}
+eruda.js:2 🔥 Dados básicos do Firebase Auth: {uid: '27EV4avUl6N0gJs7OMWS1vWxxUi2', email: 'assitba@hotmail.com', displayName: null, photoURL: null}
+eruda.js:2 URL atual: https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/chat
+eruda.js:2 Parâmetro session na URL: null
+eruda.js:2 Nenhum hash de sessão na URL
+eruda.js:2 Erro ao buscar conversas: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+getUserConversations @ firebase.ts:1615
+await in getUserConversations
+loadConversations @ SidebarLayout.tsx:64
+(anônimo) @ SidebarLayout.tsx:102
+commitHookEffectListMount @ chunk-XQLYTHWV.js?v=5583f018:16915
+commitPassiveMountOnFiber @ chunk-XQLYTHWV.js?v=5583f018:18156
+commitPassiveMountEffects_complete @ chunk-XQLYTHWV.js?v=5583f018:18129
+commitPassiveMountEffects_begin @ chunk-XQLYTHWV.js?v=5583f018:18119
+commitPassiveMountEffects @ chunk-XQLYTHWV.js?v=5583f018:18109
+flushPassiveEffectsImpl @ chunk-XQLYTHWV.js?v=5583f018:19490
+flushPassiveEffects @ chunk-XQLYTHWV.js?v=5583f018:19447
+performSyncWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18868
+flushSyncCallbacks @ chunk-XQLYTHWV.js?v=5583f018:9119
+commitRootImpl @ chunk-XQLYTHWV.js?v=5583f018:19432
+commitRoot @ chunk-XQLYTHWV.js?v=5583f018:19277
+finishConcurrentRender @ chunk-XQLYTHWV.js?v=5583f018:18805
+performConcurrentWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18718
+workLoop @ chunk-XQLYTHWV.js?v=5583f018:197
+flushWork @ chunk-XQLYTHWV.js?v=5583f018:176
+performWorkUntilDeadline @ chunk-XQLYTHWV.js?v=5583f018:384
+eruda.js:2 Erro ao carregar histórico: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+loadConversations @ SidebarLayout.tsx:68
+await in loadConversations
+(anônimo) @ SidebarLayout.tsx:102
+commitHookEffectListMount @ chunk-XQLYTHWV.js?v=5583f018:16915
+commitPassiveMountOnFiber @ chunk-XQLYTHWV.js?v=5583f018:18156
+commitPassiveMountEffects_complete @ chunk-XQLYTHWV.js?v=5583f018:18129
+commitPassiveMountEffects_begin @ chunk-XQLYTHWV.js?v=5583f018:18119
+commitPassiveMountEffects @ chunk-XQLYTHWV.js?v=5583f018:18109
+flushPassiveEffectsImpl @ chunk-XQLYTHWV.js?v=5583f018:19490
+flushPassiveEffects @ chunk-XQLYTHWV.js?v=5583f018:19447
+performSyncWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18868
+flushSyncCallbacks @ chunk-XQLYTHWV.js?v=5583f018:9119
+commitRootImpl @ chunk-XQLYTHWV.js?v=5583f018:19432
+commitRoot @ chunk-XQLYTHWV.js?v=5583f018:19277
+finishConcurrentRender @ chunk-XQLYTHWV.js?v=5583f018:18805
+performConcurrentWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18718
+workLoop @ chunk-XQLYTHWV.js?v=5583f018:197
+flushWork @ chunk-XQLYTHWV.js?v=5583f018:176
+performWorkUntilDeadline @ chunk-XQLYTHWV.js?v=5583f018:384
+eruda.js:2 URL atual: https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/chat
+eruda.js:2 Parâmetro session na URL: null
+eruda.js:2 Nenhum hash de sessão na URL
+eruda.js:2 [vite] server connection lost. Polling for restart...
+framework-f2734605c7f0bb61.js:1 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+_ @ framework-f2734605c7f0bb61.js:1
+(anônimo) @ framework-f2734605c7f0bb61.js:1
+uD @ framework-f2734605c7f0bb61.js:1
+uI @ framework-f2734605c7f0bb61.js:1
+uM @ framework-f2734605c7f0bb61.js:1
+uS @ framework-f2734605c7f0bb61.js:1
+C @ framework-f2734605c7f0bb61.js:1
+z @ framework-f2734605c7f0bb61.js:1
+framework-f2734605c7f0bb61.js:1 The source list for the Content Security Policy directive 'default-src' contains an invalid source: ''unsafe-dynamic''. It will be ignored.
+e @ framework-f2734605c7f0bb61.js:1
+e @ framework-f2734605c7f0bb61.js:1
+e @ framework-f2734605c7f0bb61.js:1
+oK @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+framework-f2734605c7f0bb61.js:1 The Content-Security-Policy directive 'default-src' contains 'report-uri' as a source expression. Did you want to add it as a directive and forget a semicolon?
+e @ framework-f2734605c7f0bb61.js:1
+e @ framework-f2734605c7f0bb61.js:1
+e @ framework-f2734605c7f0bb61.js:1
+oK @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+framework-f2734605c7f0bb61.js:1 The source list for Content Security Policy directive 'default-src' contains a source with an invalid path: '/api/4509669501698048/security/?sentry_key=7eb3d90eb4660416caf507087367e67e'. The query component, including the '?', will be ignored.
+e @ framework-f2734605c7f0bb61.js:1
+e @ framework-f2734605c7f0bb61.js:1
+e @ framework-f2734605c7f0bb61.js:1
+oK @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+oQ @ framework-f2734605c7f0bb61.js:1
+oq @ framework-f2734605c7f0bb61.js:1
+workspace_iframe.html?initialPath=%2F&id=%3Ar17d%3A:32 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+workspace_iframe.html?initialPath=%2F&id=%3Ar17d%3A:32 Unrecognized feature: 'ambient-light-sensor'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar17d%3A:32 Unrecognized feature: 'battery'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar17d%3A:32 Unrecognized feature: 'execution-while-not-rendered'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar17d%3A:32 Unrecognized feature: 'execution-while-out-of-viewport'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar17d%3A:32 Unrecognized feature: 'layout-animations'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar17d%3A:32 Unrecognized feature: 'legacy-image-formats'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar17d%3A:32 Unrecognized feature: 'navigation-override'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar17d%3A:32 Unrecognized feature: 'oversized-images'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar17d%3A:32 Unrecognized feature: 'publickey-credentials'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar17d%3A:32 Unrecognized feature: 'speaker-selection'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar17d%3A:32 Unrecognized feature: 'unoptimized-images'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar17d%3A:32 Unrecognized feature: 'unsized-media'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar17d%3A:32 Allow attribute will take precedence over 'allowfullscreen'.
+workspace_iframe.html?initialPath=%2F&id=%3Ar17d%3A:32 Allow attribute will take precedence over 'allowpaymentrequest'.
+Console.js:61 Firebase config: {projectId: 'preskriptor-e8a69', authDomain: 'preskriptor-e8a69.firebaseapp.com', storageBucket: 'preskriptor-e8a69.appspot.com', messagingSenderId: '361328259562', appId: '[PRESENTE]', …}
+Console.js:61 Criada nova instância do Firebase
+Console.js:61 🔐 USUÁRIO LOGADO - DADOS COMPLETOS: {uid: '27EV4avUl6N0gJs7OMWS1vWxxUi2', email: 'assitba@hotmail.com', displayName: null, name: 'assitba', cellphone: '', …}
+Console.js:61 📋 Detalhes do perfil Firestore: {uid: '27EV4avUl6N0gJs7OMWS1vWxxUi2', email: 'assitba@hotmail.com', verified: true, cellphone: '', name: 'assitba', …}
+Console.js:61 🔥 Dados básicos do Firebase Auth: {uid: '27EV4avUl6N0gJs7OMWS1vWxxUi2', email: 'assitba@hotmail.com', displayName: null, photoURL: null}
+Console.js:61 URL atual: https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/chat
+Console.js:61 Parâmetro session na URL: null
+Console.js:61 Nenhum hash de sessão na URL
+Console.js:61 Erro ao buscar conversas: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+getUserConversations @ firebase.ts:1615
+await in getUserConversations
+loadConversations @ SidebarLayout.tsx:64
+(anônimo) @ SidebarLayout.tsx:102
+commitHookEffectListMount @ chunk-XQLYTHWV.js?v=5583f018:16915
+commitPassiveMountOnFiber @ chunk-XQLYTHWV.js?v=5583f018:18156
+commitPassiveMountEffects_complete @ chunk-XQLYTHWV.js?v=5583f018:18129
+commitPassiveMountEffects_begin @ chunk-XQLYTHWV.js?v=5583f018:18119
+commitPassiveMountEffects @ chunk-XQLYTHWV.js?v=5583f018:18109
+flushPassiveEffectsImpl @ chunk-XQLYTHWV.js?v=5583f018:19490
+flushPassiveEffects @ chunk-XQLYTHWV.js?v=5583f018:19447
+performSyncWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18868
+flushSyncCallbacks @ chunk-XQLYTHWV.js?v=5583f018:9119
+commitRootImpl @ chunk-XQLYTHWV.js?v=5583f018:19432
+commitRoot @ chunk-XQLYTHWV.js?v=5583f018:19277
+finishConcurrentRender @ chunk-XQLYTHWV.js?v=5583f018:18805
+performConcurrentWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18718
+workLoop @ chunk-XQLYTHWV.js?v=5583f018:197
+flushWork @ chunk-XQLYTHWV.js?v=5583f018:176
+performWorkUntilDeadline @ chunk-XQLYTHWV.js?v=5583f018:384
+Console.js:61 Erro ao carregar histórico: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+loadConversations @ SidebarLayout.tsx:68
+await in loadConversations
+(anônimo) @ SidebarLayout.tsx:102
+commitHookEffectListMount @ chunk-XQLYTHWV.js?v=5583f018:16915
+commitPassiveMountOnFiber @ chunk-XQLYTHWV.js?v=5583f018:18156
+commitPassiveMountEffects_complete @ chunk-XQLYTHWV.js?v=5583f018:18129
+commitPassiveMountEffects_begin @ chunk-XQLYTHWV.js?v=5583f018:18119
+commitPassiveMountEffects @ chunk-XQLYTHWV.js?v=5583f018:18109
+flushPassiveEffectsImpl @ chunk-XQLYTHWV.js?v=5583f018:19490
+flushPassiveEffects @ chunk-XQLYTHWV.js?v=5583f018:19447
+performSyncWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18868
+flushSyncCallbacks @ chunk-XQLYTHWV.js?v=5583f018:9119
+commitRootImpl @ chunk-XQLYTHWV.js?v=5583f018:19432
+commitRoot @ chunk-XQLYTHWV.js?v=5583f018:19277
+finishConcurrentRender @ chunk-XQLYTHWV.js?v=5583f018:18805
+performConcurrentWorkOnRoot @ chunk-XQLYTHWV.js?v=5583f018:18718
+workLoop @ chunk-XQLYTHWV.js?v=5583f018:197
+flushWork @ chunk-XQLYTHWV.js?v=5583f018:176
+performWorkUntilDeadline @ chunk-XQLYTHWV.js?v=5583f018:384
+Console.js:61 URL atual: https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/chat
+Console.js:61 Parâmetro session na URL: null
+Console.js:61 Nenhum hash de sessão na URL
+Console.js:61 URL atual: https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/chat
+Console.js:61 Parâmetro session na URL: null
+Console.js:61 Nenhum hash de sessão na URL
+Console.js:61 📝 Criando conversa com hash: conv_1756404795492_rn0018r
+Console.js:61 📝 UserId: 27EV4avUl6N0gJs7OMWS1vWxxUi2 ModuleId: Algoritmo-Indicação-de-Cirurgia-Bariátrica
+Console.js:61 URL atual: https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/chat
+Console.js:61 Parâmetro session na URL: null
+Console.js:61 Nenhum hash de sessão na URL
+Console.js:61 ❌ Erro ao criar conversa: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+createConversation @ firebase.ts:1543
+await in createConversation
+handleSelectModule @ chat.tsx:208
+onClick @ chat.tsx:782
+callCallback2 @ chunk-XQLYTHWV.js?v=5583f018:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=5583f018:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=5583f018:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=5583f018:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=5583f018:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=5583f018:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=5583f018:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=5583f018:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=5583f018:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=5583f018:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=5583f018:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=5583f018:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=5583f018:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=5583f018:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=5583f018:5449
+Console.js:61 Erro ao criar conversa: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+handleSelectModule @ chat.tsx:225
+await in handleSelectModule
+onClick @ chat.tsx:782
+callCallback2 @ chunk-XQLYTHWV.js?v=5583f018:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=5583f018:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=5583f018:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=5583f018:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=5583f018:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=5583f018:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=5583f018:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=5583f018:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=5583f018:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=5583f018:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=5583f018:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=5583f018:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=5583f018:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=5583f018:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=5583f018:5449
+Console.js:61 URL atual: https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/chat
+Console.js:61 Parâmetro session na URL: null
+Console.js:61 Nenhum hash de sessão na URL
+firebase.ts:1530  POST https://firestore.googleapis.com/google.firestore.v1.Firestore/Write/channel?VER=8&database=projects%2Fpreskriptor-e8a69%2Fdatabases%2F(default)&gsessionid=g_I4jqHsM9sA36y6Mg_aYQ81uGZrCIpSSckOXAudFTo&SID=xgWOZeDtpJr8vZbJDH6mpQ&RID=67843&TYPE=terminate&zx=f473viv5kggu 400 (Bad Request)
+gc @ firebase_firestore.js?v=5583f018:2145
+Y2.close @ firebase_firestore.js?v=5583f018:2489
+(anônimo) @ firebase_firestore.js?v=5583f018:12572
+(anônimo) @ firebase_firestore.js?v=5583f018:12536
+ab @ firebase_firestore.js?v=5583f018:948
+F2 @ firebase_firestore.js?v=5583f018:918
+Z2.ta @ firebase_firestore.js?v=5583f018:2538
+Rb @ firebase_firestore.js?v=5583f018:1417
+M2.Y @ firebase_firestore.js?v=5583f018:1282
+M2.ca @ firebase_firestore.js?v=5583f018:1213
+ab @ firebase_firestore.js?v=5583f018:948
+F2 @ firebase_firestore.js?v=5583f018:918
+Wc @ firebase_firestore.js?v=5583f018:1952
+h.bb @ firebase_firestore.js?v=5583f018:1947
+h.Ea @ firebase_firestore.js?v=5583f018:1944
+Lc @ firebase_firestore.js?v=5583f018:1844
+h.Pa @ firebase_firestore.js?v=5583f018:1811
+Promise.then
+Nc @ firebase_firestore.js?v=5583f018:1802
+h.Pa @ firebase_firestore.js?v=5583f018:1812
+Promise.then
+Nc @ firebase_firestore.js?v=5583f018:1802
+h.Sa @ firebase_firestore.js?v=5583f018:1798
+Promise.then
+h.send @ firebase_firestore.js?v=5583f018:1779
+h.ea @ firebase_firestore.js?v=5583f018:1920
+Jb @ firebase_firestore.js?v=5583f018:1206
+fd @ firebase_firestore.js?v=5583f018:2339
+h.Fa @ firebase_firestore.js?v=5583f018:2306
+Da @ firebase_firestore.js?v=5583f018:667
+Promise.then
+x2 @ firebase_firestore.js?v=5583f018:661
+fc @ firebase_firestore.js?v=5583f018:2170
+Y2.o @ firebase_firestore.js?v=5583f018:2499
+Go @ firebase_firestore.js?v=5583f018:12530
+send @ firebase_firestore.js?v=5583f018:12423
+F_ @ firebase_firestore.js?v=5583f018:12718
+G_ @ firebase_firestore.js?v=5583f018:12929
+__PRIVATE_onWriteHandshakeComplete @ firebase_firestore.js?v=5583f018:13277
+q_ @ firebase_firestore.js?v=5583f018:12904
+(anônimo) @ firebase_firestore.js?v=5583f018:12800
+(anônimo) @ firebase_firestore.js?v=5583f018:12820
+(anônimo) @ firebase_firestore.js?v=5583f018:15859
+(anônimo) @ firebase_firestore.js?v=5583f018:15890
+Promise.then
+Yu @ firebase_firestore.js?v=5583f018:15890
+enqueue @ firebase_firestore.js?v=5583f018:15859
+enqueueAndForget @ firebase_firestore.js?v=5583f018:15841
+(anônimo) @ firebase_firestore.js?v=5583f018:12820
+(anônimo) @ firebase_firestore.js?v=5583f018:12800
+i_ @ firebase_firestore.js?v=5583f018:12435
+(anônimo) @ firebase_firestore.js?v=5583f018:12573
+(anônimo) @ firebase_firestore.js?v=5583f018:12536
+ab @ firebase_firestore.js?v=5583f018:948
+F2 @ firebase_firestore.js?v=5583f018:918
+Z2.ta @ firebase_firestore.js?v=5583f018:2538
+Rb @ firebase_firestore.js?v=5583f018:1417
+M2.Y @ firebase_firestore.js?v=5583f018:1282
+M2.ca @ firebase_firestore.js?v=5583f018:1213
+ab @ firebase_firestore.js?v=5583f018:948
+F2 @ firebase_firestore.js?v=5583f018:918
+Wc @ firebase_firestore.js?v=5583f018:1952
+h.bb @ firebase_firestore.js?v=5583f018:1947
+h.Ea @ firebase_firestore.js?v=5583f018:1944
+Lc @ firebase_firestore.js?v=5583f018:1844
+h.Pa @ firebase_firestore.js?v=5583f018:1811
+Promise.then
+Nc @ firebase_firestore.js?v=5583f018:1802
+h.Sa @ firebase_firestore.js?v=5583f018:1798
+Promise.then
+h.send @ firebase_firestore.js?v=5583f018:1779
+h.ea @ firebase_firestore.js?v=5583f018:1920
+Jb @ firebase_firestore.js?v=5583f018:1206
+fd @ firebase_firestore.js?v=5583f018:2339
+h.ab @ firebase_firestore.js?v=5583f018:2314
+(anônimo) @ firebase_firestore.js?v=5583f018:1065
+setTimeout
+ub @ firebase_firestore.js?v=5583f018:1064
+h.Fa @ firebase_firestore.js?v=5583f018:2310
+Da @ firebase_firestore.js?v=5583f018:667
+Promise.then
+x2 @ firebase_firestore.js?v=5583f018:661
+ec @ firebase_firestore.js?v=5583f018:2292
+Rb @ firebase_firestore.js?v=5583f018:1414
+M2.Y @ firebase_firestore.js?v=5583f018:1282
+M2.ca @ firebase_firestore.js?v=5583f018:1213
+ab @ firebase_firestore.js?v=5583f018:948
+F2 @ firebase_firestore.js?v=5583f018:918
+Wc @ firebase_firestore.js?v=5583f018:1952
+h.bb @ firebase_firestore.js?v=5583f018:1947
+h.Ea @ firebase_firestore.js?v=5583f018:1944
+Lc @ firebase_firestore.js?v=5583f018:1844
+h.Pa @ firebase_firestore.js?v=5583f018:1811
+Promise.then
+Nc @ firebase_firestore.js?v=5583f018:1802
+h.Sa @ firebase_firestore.js?v=5583f018:1798
+Promise.then
+h.send @ firebase_firestore.js?v=5583f018:1779
+h.ea @ firebase_firestore.js?v=5583f018:1920
+Jb @ firebase_firestore.js?v=5583f018:1201
+Hb @ firebase_firestore.js?v=5583f018:1176
+h.Ga @ firebase_firestore.js?v=5583f018:2226
+Da @ firebase_firestore.js?v=5583f018:667
+Promise.then
+x2 @ firebase_firestore.js?v=5583f018:661
+fc @ firebase_firestore.js?v=5583f018:2170
+h.connect @ firebase_firestore.js?v=5583f018:2130
+Y2.m @ firebase_firestore.js?v=5583f018:2486
+Go @ firebase_firestore.js?v=5583f018:12530
+send @ firebase_firestore.js?v=5583f018:12423
+F_ @ firebase_firestore.js?v=5583f018:12718
+H_ @ firebase_firestore.js?v=5583f018:12921
+__PRIVATE_onWriteStreamOpen @ firebase_firestore.js?v=5583f018:13273
+(anônimo) @ firebase_firestore.js?v=5583f018:12796
+(anônimo) @ firebase_firestore.js?v=5583f018:12820
+(anônimo) @ firebase_firestore.js?v=5583f018:15859
+(anônimo) @ firebase_firestore.js?v=5583f018:15890
+Promise.then
+Yu @ firebase_firestore.js?v=5583f018:15890
+enqueue @ firebase_firestore.js?v=5583f018:15859
+enqueueAndForget @ firebase_firestore.js?v=5583f018:15841
+(anônimo) @ firebase_firestore.js?v=5583f018:12820
+(anônimo) @ firebase_firestore.js?v=5583f018:12796
+n_ @ firebase_firestore.js?v=5583f018:12429
+(anônimo) @ firebase_firestore.js?v=5583f018:12578
+setTimeout
+a_ @ firebase_firestore.js?v=5583f018:12577
+k_ @ firebase_firestore.js?v=5583f018:12900
+B_ @ firebase_firestore.js?v=5583f018:12793
+(anônimo) @ firebase_firestore.js?v=5583f018:12783
+Promise.then
+auth @ firebase_firestore.js?v=5583f018:12779
+start @ firebase_firestore.js?v=5583f018:12678
+start @ firebase_firestore.js?v=5583f018:12894
+__PRIVATE_startWriteStream @ firebase_firestore.js?v=5583f018:13270
+__PRIVATE_fillWritePipeline @ firebase_firestore.js?v=5583f018:13256
+await in __PRIVATE_fillWritePipeline
+__PRIVATE_syncEngineWrite @ firebase_firestore.js?v=5583f018:14258
+await in __PRIVATE_syncEngineWrite
+(anônimo) @ firebase_firestore.js?v=5583f018:17621
+await in (anônimo)
+(anônimo) @ firebase_firestore.js?v=5583f018:15859
+(anônimo) @ firebase_firestore.js?v=5583f018:15890
+Promise.then
+Yu @ firebase_firestore.js?v=5583f018:15890
+enqueue @ firebase_firestore.js?v=5583f018:15859
+enqueueAndForget @ firebase_firestore.js?v=5583f018:15841
+__PRIVATE_firestoreClientWrite @ firebase_firestore.js?v=5583f018:17621
+executeWrite @ firebase_firestore.js?v=5583f018:17622
+addDoc @ firebase_firestore.js?v=5583f018:17568
+createConversation @ firebase.ts:1530
+handleSelectModule @ chat.tsx:208
+onClick @ chat.tsx:782
+callCallback2 @ chunk-XQLYTHWV.js?v=5583f018:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=5583f018:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=5583f018:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=5583f018:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=5583f018:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=5583f018:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=5583f018:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=5583f018:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=5583f018:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=5583f018:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=5583f018:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=5583f018:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=5583f018:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=5583f018:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=5583f018:5449
+Console.js:61 URL atual: https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/chat
+Console.js:61 Parâmetro session na URL: null
+Console.js:61 Nenhum hash de sessão na URL

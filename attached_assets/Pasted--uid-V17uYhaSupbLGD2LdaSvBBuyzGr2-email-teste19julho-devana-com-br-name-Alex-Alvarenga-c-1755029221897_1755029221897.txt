@@ -1,0 +1,39 @@
+{uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', name: 'Alex Alvarenga', crm: '123456', verified: true, …}
+Console.js:61 🔐 USUÁRIO LOGADO NA PÁGINA DE CONSULTA: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', displayName: 'Alex Alvarenga', name: 'Alex Alvarenga', cellphone: '34998959018', …}
+Console.js:61 📊 Detalhes do usuário: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', name: 'Alex Alvarenga', crm: '123456', verified: true, …}
+Console.js:61 🔐 USUÁRIO LOGADO NA PÁGINA DE CONSULTA: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', displayName: 'Alex Alvarenga', name: 'Alex Alvarenga', cellphone: '34998959018', …}
+Console.js:61 📊 Detalhes do usuário: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', name: 'Alex Alvarenga', crm: '123456', verified: true, …}
+Console.js:61 🔐 USUÁRIO LOGADO NA PÁGINA DE CONSULTA: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', displayName: 'Alex Alvarenga', name: 'Alex Alvarenga', cellphone: '34998959018', …}
+Console.js:61 📊 Detalhes do usuário: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', name: 'Alex Alvarenga', crm: '123456', verified: true, …}
+Console.js:61 🔐 USUÁRIO LOGADO NA PÁGINA DE CONSULTA: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', displayName: 'Alex Alvarenga', name: 'Alex Alvarenga', cellphone: '34998959018', …}
+Console.js:61 📊 Detalhes do usuário: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', name: 'Alex Alvarenga', crm: '123456', verified: true, …}
+Console.js:61 🔐 USUÁRIO LOGADO NA PÁGINA DE CONSULTA: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', displayName: 'Alex Alvarenga', name: 'Alex Alvarenga', cellphone: '34998959018', …}
+Console.js:61 📊 Detalhes do usuário: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', name: 'Alex Alvarenga', crm: '123456', verified: true, …}
+Console.js:61 🔐 USUÁRIO LOGADO NA PÁGINA DE CONSULTA: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', displayName: 'Alex Alvarenga', name: 'Alex Alvarenga', cellphone: '34998959018', …}
+Console.js:61 📊 Detalhes do usuário: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', name: 'Alex Alvarenga', crm: '123456', verified: true, …}
+Console.js:61 🔐 USUÁRIO LOGADO NA PÁGINA DE CONSULTA: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', displayName: 'Alex Alvarenga', name: 'Alex Alvarenga', cellphone: '34998959018', …}
+Console.js:61 📊 Detalhes do usuário: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', name: 'Alex Alvarenga', crm: '123456', verified: true, …}
+Console.js:61 🔐 USUÁRIO LOGADO NA PÁGINA DE CONSULTA: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', displayName: 'Alex Alvarenga', name: 'Alex Alvarenga', cellphone: '34998959018', …}
+Console.js:61 📊 Detalhes do usuário: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', name: 'Alex Alvarenga', crm: '123456', verified: true, …}
+Console.js:61 🔐 USUÁRIO LOGADO NA PÁGINA DE CONSULTA: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', displayName: 'Alex Alvarenga', name: 'Alex Alvarenga', cellphone: '34998959018', …}
+Console.js:61 📊 Detalhes do usuário: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', name: 'Alex Alvarenga', crm: '123456', verified: true, …}
+Console.js:61 🔐 USUÁRIO LOGADO NA PÁGINA DE CONSULTA: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', displayName: 'Alex Alvarenga', name: 'Alex Alvarenga', cellphone: '34998959018', …}
+Console.js:61 📊 Detalhes do usuário: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', name: 'Alex Alvarenga', crm: '123456', verified: true, …}
+Console.js:61 🔐 USUÁRIO LOGADO NA PÁGINA DE CONSULTA: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', displayName: 'Alex Alvarenga', name: 'Alex Alvarenga', cellphone: '34998959018', …}
+Console.js:61 📊 Detalhes do usuário: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', name: 'Alex Alvarenga', crm: '123456', verified: true, …}
+Console.js:61 🔐 USUÁRIO LOGADO NA PÁGINA DE CONSULTA: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', displayName: 'Alex Alvarenga', name: 'Alex Alvarenga', cellphone: '34998959018', …}
+Console.js:61 📊 Detalhes do usuário: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', name: 'Alex Alvarenga', crm: '123456', verified: true, …}
+Console.js:61 🔐 USUÁRIO LOGADO NA PÁGINA DE CONSULTA: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', displayName: 'Alex Alvarenga', name: 'Alex Alvarenga', cellphone: '34998959018', …}
+Console.js:61 📊 Detalhes do usuário: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', name: 'Alex Alvarenga', crm: '123456', verified: true, …}
+Console.js:61 🔐 USUÁRIO LOGADO NA PÁGINA DE CONSULTA: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', displayName: 'Alex Alvarenga', name: 'Alex Alvarenga', cellphone: '34998959018', …}
+Console.js:61 📊 Detalhes do usuário: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', name: 'Alex Alvarenga', crm: '123456', verified: true, …}
+Console.js:61 🔐 USUÁRIO LOGADO NA PÁGINA DE CONSULTA: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', displayName: 'Alex Alvarenga', name: 'Alex Alvarenga', cellphone: '34998959018', …}
+Console.js:61 📊 Detalhes do usuário: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', name: 'Alex Alvarenga', crm: '123456', verified: true, …}
+Console.js:61 🔐 USUÁRIO LOGADO NA PÁGINA DE CONSULTA: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', displayName: 'Alex Alvarenga', name: 'Alex Alvarenga', cellphone: '34998959018', …}
+Console.js:61 📊 Detalhes do usuário: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', name: 'Alex Alvarenga', crm: '123456', verified: true, …}
+Console.js:61 🔐 USUÁRIO LOGADO NA PÁGINA DE CONSULTA: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', displayName: 'Alex Alvarenga', name: 'Alex Alvarenga', cellphone: '34998959018', …}
+Console.js:61 📊 Detalhes do usuário: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', name: 'Alex Alvarenga', crm: '123456', verified: true, …}
+Console.js:61 🔐 USUÁRIO LOGADO NA PÁGINA DE CONSULTA: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', displayName: 'Alex Alvarenga', name: 'Alex Alvarenga', cellphone: '34998959018', …}
+Console.js:61 📊 Detalhes do usuário: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', name: 'Alex Alvarenga', crm: '123456', verified: true, …}
+Console.js:61 🔐 USUÁRIO LOGADO NA PÁGINA DE CONSULTA: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', displayName: 'Alex Alvarenga', name: 'Alex Alvarenga', cellphone: '34998959018', …}
+Console.js:61 📊 Detalhes do usuário: {uid: 'V17uYhaSupbLGD2LdaSvBBuyzGr2', email: 'teste19julho@devana.com.br', name: 'Alex Alvarenga', crm: '123456', verified: true, …}

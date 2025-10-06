@@ -1,0 +1,196 @@
+Primeiros passos
+Integrar com a prescrição digital Memed é simples e rápido. Siga o passo a passo e ao final desse módulo de primeiros passos, você já será capaz de utilizar vários recursos da nossa prescrição digital.
+
+Atenção
+Lembre-se que todo o passo a passo dessa documentação estará apontando para o ambiente de homologação (testes) da Memed. No momento em que você obtiver as chaves de produção (api-key e secret-key), você precisará reconfigurar os endpoints de BACKEND e FRONTEND da sua aplicação para apontar para o ambiente de produção da Memed.
+
+Fluxo de integração
+Segue abaixo um desenho do fluxo simplifiacado da integração com a prescrição digital memed. fluxo
+
+Configurações básica
+Atenção
+O nosso ambiente de homologação estará indisponível das 0h às 6h, de segunda a sexta-feira, e ao longo de todo o fim de semana.
+
+Obtendo o par de chaves (homologação)
+O par de chaves utilizados no ambiente de homologação é fixo.
+
+API_KEY
+
+iJGiB4kjDGOLeDFPWMG3no9VnN7Abpqe3w1jEFm6olkhkZD6oSfSmYCm
+
+SECRET_KEY
+
+Xe8M5GvBGCr4FStKfxXKisRo3SfYKI7KrTMkJpCAstzu2yXVN4av5nmL
+
+Atenção
+Nunca deixe o seu par de chaves visíveis no front-end.
+
+URLs Memed (homologação)
+API URL
+
+Essa url abaixo é utilizada para fazer as requisições do tipo HTTP Rest para o back-end da api da Memed.
+
+MEMED_API_URL
+
+https://integrations.api.memed.com.br/v1
+
+Script URL
+
+Essa url abaixo é utilizada para baixar os scripts da Memed.
+
+MEMED_SCRIPT_URL
+
+https://integrations.memed.com.br/modulos/plataforma.sinapse-prescricao/build/sinapse-prescricao.min.js
+
+Recomendamos
+Recomendamos que você veja no detalhe as nossas recomendações de como configurar o seu backend e o seu frontend para uma integração mais completa com a prescrição digital memed.
+
+Backend
+A integração com a prescrição digital Memed é baseada na perspectiva do usuário prescritor (profissional de saúde). Por isso, para renderizar a prescrição digital Memed dentro do seu software, você precisa efetuar o cadastro do prescritor e obter o token de acesso dele.
+
+Cadastrando o prescritor via API
+Para obter o Token do usuário prescritor (data-token), temos as seguintes opções:
+
+Cadastrar um usuário prescritor novo
+Obter dados do usuário prescritor
+Veja mais detalhes
+Para o nosso exemplo de integração não vamos utilizar todas as funcionalidades disponíveis na api da Memed. Para mais detalhes de todas as ações disponíveis entre o seu backend e a API Memed clique aqui
+
+Frontend
+Agora que você já tem o token do usuário (data-token), podemos seguir com a implementação no frontend.
+
+Configurando o Frontend
+A primeira etapa que você precisa fazer é carregar o script de prescrição digital informando a MEMED_SCRIPT_URL junto com o TOKEN de acesso do usuário prescritor. Estes dois você já obteve via backend na requisição de obter ou cadastrar o prescritor.
+
+Atenção
+MEMED_SCRIPT_URL que vamos utilizar neste exemplo é a URL de homologação da Memed.
+
+Agora um exemplo de uma pagina em HTML + javascript no seu frontend passando os seguintes atributos:
+
+src="MEMED_SCRIPT_URL"
+data-token="TOKEN_DO_USUARIO_OBTIDO_NO_CADASTRO_VIA_API"
+
+Exemplo da página completa com o script da MEMED_SCRIPT_URL junto com o TOKEN:
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Meu sistema de Saúde</title>
+  </head>
+  <body>
+    <script
+      type="text/javascript"
+      src="https://integrations.memed.com.br/modulos/plataforma.sinapse-prescricao/build/sinapse-prescricao.min.js"
+      data-token="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.WzM2MzE3LCI2MTA0NGVkZThiMDg4YzdmMmIwMDlkNWM3NmJiMzJjMiIsIjIwMjItMTItMTciLCJzaW5hcHNlLnByZXNjcmljYW8iLCJwYXJ0bmVyLjMuMzE2NDkiXQ.Kv-VSTmXqCI-q6GPiPHF7Q8Prhz2RKy0sL0BWYfoM2I"
+    ></script>
+    <!-- Proximo passo é acionar os comandos do modulo da prescrição -->
+  </body>
+</html>
+
+
+Resultado: Integração rodando, pagina em branco
+
+Como resultado temos a tela em branco que já está disponivel para executar comandos para acionar os comandos do modulo da prescrição.
+Outro ponto é que o console avisa em qual ambiente a integração da Memed está rodando:
+
+ENVIRONMENT integrations
+we are all set!!!
+
+Veja mais detalhes
+Você também pode carregar o script dinâmicamente. Para mais detalhes de todas as formas de carregar o script da Memed clique aqui.
+
+Exibindo a prescrição digital
+Agora que já adicionou o script de prescrição digital Memed no seu frontend, já podemos começar a acionar os comandos, ouvir eventos e habilitar ou desabilitar os módulos para a renderização da prescrição.
+
+Para mostrar a prescrição digital na tela do usuário, você precisará utilizar o método show do módulo plataforma.prescricao. Porém, se você tentar acessar alguma propriedade do módulo antes que o mesmo esteja completamente disponível, isso acarretará em vários erros.
+
+Erros comuns
+Caso esteja enfrentando algum problema favor verificar nossa seção de erros comuns
+
+Então, antes de utilizar qualquer comando do módulo de prescrição, você precisa garantir que o módulo esteja devidamente carregado (e disponível). Para isso, vamos utilizar o evento core:moduleInit que retornar em seu segundo parâmetro uma função de callback contendo algumas informações sobre o módulo.
+
+MdSinapsePrescricao.event.add("core:moduleInit", callbackFunction);
+
+Veja mais detalhes
+Existem vários eventos que você pode escutar durante a interação com a prescrição da Memed. Para mais detalhes sobre os eventos da prescrição digital da Memed clique aqui.
+
+Veja um exemplo de como ficaria essa estrutura com o evento mais a verificação se o módulo de prescrição está devidamente carregado.
+
+// Evento que fica escutando o carregamento do core:moduleInit
+// que contém o dentre outros o módulo de prescrição
+MdSinapsePrescricao.event.add("core:moduleInit", function (module) {
+  // aqui você verifica se o módulo que retornou nesse callback é o 'plataforma.prescricao'
+  if (module.name === "plataforma.prescricao") {
+    // aqui você aciona os comandos
+    // ativa e desativa funcionalidades
+    // renderiza a prescrição na tela do usuário
+  }
+});
+
+Agora que você já entende o funcionamento básico dos módulos da prescrição digital, vamos ver um exemplo mais completo que adiciona os dados do paciente e mostra na tela do usuário a prescrição digital da Memed.
+
+Fique atento!
+Dados de paciente enviados via MdHub não podem ser alterados na prescrição manualmente! Veja a seção dados do paciente para mais detalhes.
+
+MdSinapsePrescricao.event.add("core:moduleInit", async function (module) {
+  // Verifica se o módulo 'plataforma.prescricao' está carregado
+  if (module.name === "plataforma.prescricao") {
+    // Aciona o comando setPaciente
+    await MdHub.command.send("plataforma.prescricao", "setPaciente", {
+      idExterno: "algum_hash_ou_id", // Obrigatório
+      nome: "José da Silva", // Obrigatório
+      cpf: "99999999999", // Obrigatório caso o paciente não possua cpf, utilizar a tag withoutCpf: true
+      data_nascimento: "10/10/2010", // Opcional
+      nome_social: "Maria da Silva", // Opcional
+      endereco: "Rua da Saúde, 123", // Opcional
+      cidade: "São Paulo", // Opcional
+      telefone: "11999999999", // Obrigatório
+      peso: 75, // Opcional
+      altura: 1.8, // Opcional
+      nome_mae: "Nome da mãe", // Opcional
+      dificuldade_locomocao: false, // Opcional
+    });
+    MdHub.module.show("plataforma.prescricao");
+  }
+});
+
+Veja mais detalhes
+No exemplo acima, estamos utilizando apenas o comando de setPaciente para setar os dados do paciente na prescrição e a função show do módulo de prescrição para mostrar a tela de prescrição. Existem vários comandos e funções relacionados aos módulos. Para mais detalhes sobre os comandos e módulos da prescrição Memed clique aqui.
+
+Veja como ficaria o seu frontend após implementar a prescrição Memed
+
+Veja mais detalhes
+Para o nosso exemplo simplificado acima, não utilizamos todas as funcionalidades disponíveis no frontend da Memed. Para mais detalhes de todas as funcionalidades, voce pode consultar nosso guia de clique aqui.
+
+Garantindo uma integração robusta
+A Memed disponibiliza uma documentação completa sobre nossas APIs e scripts. Temos também alguns tutoriais e exemplos de implementação em algumas linguagens.
+
+Para garantir que todas as funcionalidades estejam implementadas, você pode conferir através da tabela abaixo as principais funcionalidades e caminhos para a implantação:
+
+Ao cadastrar o prescritor, estou definindo os principais dados
+ID Externo do prescritor
+Nome
+Sobrenome
+CPF
+Registro profissional + UF
+Especialidade
+Cidade
+Ao informar o paciente, estou definindo os principais dados
+Nome completo
+ID Externo do paciente
+CPF
+Telefone
+Data de nascimento
+Recupero o retorno de informações da prescrição gerada
+Setar alergias do paciente
+Setar alertas de condições
+Definir configurações de impressão
+Definir cores conforme meu sistema
+Salvo uma cópia do PDF gerado na prescrição
+Salvo o link da receita digital
+Definir locais de atendimento do profissional
+Setar Feature Toggles no atendimento
+Cadastro os meus protocolos
+Campos adicionais no documento de impressão

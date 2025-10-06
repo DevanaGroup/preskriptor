@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Novo Contato - Preskriptor</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      line-height: 1.6;
+      color: #333;
+      background-color: #f9f9f9;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+      background-color: #ffffff;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    .header {
+      background-color: #2563eb;
+      padding: 20px;
+      text-align: center;
+    }
+    .header img {
+      max-width: 200px;
+      height: auto;
+    }
+    .content {
+      padding: 30px;
+    }
+    .content h2 {
+      color: #2563eb;
+      margin-top: 0;
+      margin-bottom: 20px;
+      font-weight: 600;
+    }
+    .message-box {
+      background-color: #f2f7ff;
+      border-left: 4px solid #2563eb;
+      padding: 15px;
+      margin: 20px 0;
+      border-radius: 0 4px 4px 0;
+    }
+    .field {
+      margin-bottom: 15px;
+    }
+    .field-label {
+      font-weight: 600;
+      color: #555;
+      display: block;
+      margin-bottom: 5px;
+    }
+    .field-value {
+      margin: 0;
+    }
+    .footer {
+      background-color: #f2f2f2;
+      padding: 20px;
+      text-align: center;
+      font-size: 12px;
+      color: #777;
+    }
+    .footer p {
+      margin: 5px 0;
+    }
+    .button {
+      display: inline-block;
+      background-color: #2563eb;
+      color: white;
+      text-decoration: none;
+      padding: 10px 20px;
+      border-radius: 4px;
+      margin-top: 20px;
+      font-weight: 500;
+    }
+    .info {
+      margin-top: 30px;
+      padding-top: 20px;
+      border-top: 1px solid #eee;
+      font-size: 14px;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <img src="https://preskriptor.com.br/logo.png" alt="Preskriptor Logo">
+    </div>
+    <div class="content">
+      <h2>Novo Contato Recebido</h2>
+      <p>Um novo contato foi recebido através do formulário do site Preskriptor:</p>
+      
+      <div class="field">
+        <span class="field-label">Nome:</span>
+        <p class="field-value">{{name}}</p>
+      </div>
+      
+      <div class="field">
+        <span class="field-label">E-mail:</span>
+        <p class="field-value">{{email}}</p>
+      </div>
+      
+      <div class="field">
+        <span class="field-label">Telefone:</span>
+        <p class="field-value">{{phone}}</p>
+      </div>
+      
+      <div class="field">
+        <span class="field-label">Data do contato:</span>
+        <p class="field-value">{{date}}</p>
+      </div>
+      
+      <div class="field">
+        <span class="field-label">Mensagem:</span>
+        <div class="message-box">
+          <p class="field-value">{{message}}</p>
+        </div>
+      </div>
+      
+      <a href="mailto:{{email}}" class="button">Responder</a>
+      
+      <div class="info">
+        <p>Esta mensagem foi enviada automaticamente pelo sistema de contato do Preskriptor.</p>
+        <p>Para acessar o painel administrativo e gerenciar contatos, <a href="https://preskriptor.com.br/admin">clique aqui</a>.</p>
+      </div>
+    </div>
+    <div class="footer">
+      <p>&copy; 2025 Preskriptor - Plataforma para Prescrições Nutricionais</p>
+      <p>Todos os direitos reservados</p>
+    </div>
+  </div>
+</body>
+</html>

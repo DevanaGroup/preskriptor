@@ -1,0 +1,123 @@
+// Exemplo de como usar o ChatMessage corrigido no componente pai (Chat.tsx)
+
+import React, { useState, useEffect } from 'react';
+import { ChatMessage } from './ChatMessage';
+import { sendMessageStreaming, Message } from '@/lib/openai';
+
+interface ChatProps {
+  // suas props aqui
+}
+
+export const Chat: React.FC<ChatProps> = () => {
+  const [messages, setMessages] = useState<Message[]>([]);
+  const [isStreaming, setIsStreaming] = useState(false);
+  const [currentStreamingContent, setCurrentStreamingContent] = useState('');
+  const [currentThreadId, setCurrentThreadId] = useState<string | null>(null);
+
+  const handleSendMessage = async (userMessage: Message) => {
+    // Adicionar mensagem do usuário
+    const updatedMessages = [...messages, userMessage];
+    setMessages(updatedMessages);
+
+    // Criar mensagem da IA temporária para streaming
+    const aiMessage: Message = {
+      role: 'assistant',
+      content: ''
+    };
+    setMessages([...updatedMessages, aiMessage]);
+
+    // Iniciar streaming
+    setIsStreaming(true);
+    setCurrentStreamingContent('');
+
+    try {
+      await sendMessageStreaming(
+        updatedMessages,
+        null, // patient
+        currentThreadId,
+        undefined, // assistantId
+        {
+          onStart: (threadId) => {
+            console.log('🚀 Streaming iniciado:', threadId);
+            setCurrentThreadId(threadId);
+          },
+          
+          // CRÍTICO: Atualizar conteúdo em tempo real
+          onChunk: (chunk) => {
+            console.log('📝 Chunk recebido:', chunk);
+            setCurrentStreamingContent(prev => prev + chunk);
+          },
+          
+          onDone: (fullContent, threadId) => {
+            console.log('✅ Streaming concluído');
+            setIsStreaming(false);
+            setCurrentStreamingContent('');
+            
+            // Atualizar a mensagem final
+            setMessages(prev => {
+              const newMessages = [...prev];
+              if (newMessages.length > 0) {
+                newMessages[newMessages.length - 1] = {
+                  ...newMessages[newMessages.length - 1],
+                  content: fullContent
+                };
+              }
+              return newMessages;
+            });
+            
+            setCurrentThreadId(threadId);
+          },
+          
+          onError: (error) => {
+            console.error('❌ Erro no streaming:', error);
+            setIsStreaming(false);
+            setCurrentStreamingContent('');
+            
+            // Mostrar erro na mensagem
+            setMessages(prev => {
+              const newMessages = [...prev];
+              if (newMessages.length > 0) {
+                newMessages[newMessages.length - 1] = {
+                  ...newMessages[newMessages.length - 1],
+                  content: `Erro: ${error}`
+                };
+              }
+              return newMessages;
+            });
+          }
+        }
+      );
+    } catch (error) {
+      console.error('❌ Erro geral:', error);
+      setIsStreaming(false);
+      setCurrentStreamingContent('');
+    }
+  };
+
+  return (
+    <div className="flex flex-col h-full">
+      {/* Container das mensagens */}
+      <div className="flex-1 overflow-y-auto p-4">
+        {messages.map((message, index) => {
+          const isLast = index === messages.length - 1;
+          const isAIMessage = message.role === 'assistant';
+          
+          return (
+            <ChatMessage
+              key={index}
+              message={message}
+              isLast={isLast}
+              isStreaming={isStreaming && isLast && isAIMessage}
+              // PROP CRÍTICA: Passar conteúdo em tempo real
+              streamingContent={
+                isStreaming && isLast && isAIMessage 
+                  ? currentStreamingContent 
+                  : undefined
+              }
+              conversationHistory={messages}
+              onNewConversation={() => {
+                setMessages([]);
+                setCurrentThreadId(null);
+                setIsStreaming(false);
+                setCurrentStreamingContent('');
+              }}

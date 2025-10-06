@@ -1,0 +1,115 @@
+Prompt para Implementação da Integração Memed
+Contexto
+Preciso implementar a integração com a API do Memed para permitir que médicos cadastrados no meu sistema gerem prescrições digitais. O sistema já possui:
+
+Chaves de API configuradas no Replit (api-key e secret-key)
+Botão "Memed" no sidebar
+Cadastro de médicos no sistema
+
+Fluxo de Integração a Implementar
+1. Backend - Cadastro do Médico no Memed
+Endpoint: POST /api/memed/register-doctor
+Criar rota que:
+
+Recebe dados do médico logado
+Envia para Memed via HTTPS com autenticação (api-key + secret-key)
+Retorna token de acesso do médico cadastrado
+Salva token na base de dados associado ao médico
+
+Dados a enviar para Memed:
+
+Nome completo do médico
+CRM + UF
+Especialidade
+Telefone/Email
+Dados de identificação necessários
+
+2. Frontend - Integração com Widget Memed
+Funcionalidade no botão do sidebar:
+Quando clicado:
+
+Verificar se médico já tem token Memed salvo
+Se não tiver, fazer cadastro via backend
+Inicializar widget Memed com configurações:
+
+Token do médico
+Dados do paciente (se em consulta)
+Configurações de funcionalidades habilitadas/desabilitadas
+
+
+
+3. Renderização da Prescrição
+Implementar:
+
+Carregamento do script Memed no frontend
+Configuração modular das funcionalidades via setFeatureToggle()
+Container para renderizar a prescrição digital
+Handlers para callbacks de eventos
+
+4. Callback e Persistência
+Endpoint: POST /api/memed/prescription-callback
+Quando prescrição é finalizada:
+
+Receber callback com dados da prescrição
+Salvar informações na base de dados local
+Associar prescrição ao paciente/consulta
+Enviar confirmação de recebimento
+
+Estrutura de Arquivos Sugerida
+/api
+  /memed
+    - register-doctor.js
+    - prescription-callback.js
+    - get-prescription.js
+
+/components
+  - MemedWidget.js
+  - MemedButton.js
+
+/utils
+  - memedApi.js
+  - memedConfig.js
+Requisitos Técnicos
+Variáveis de Ambiente (já configuradas no Replit)
+
+MEMED_API_KEY
+MEMED_SECRET_KEY
+MEMED_BASE_URL (produção)
+
+Dependências a Instalar
+bashnpm install axios crypto-js
+Segurança
+
+Validar origem das requisições
+Criptografar tokens sensíveis
+Implementar rate limiting
+Validar dados antes de envio
+
+Funcionalidades Esperadas
+
+Cadastro Automático: Médico clica no botão → sistema cadastra automaticamente no Memed
+Widget Integrado: Interface Memed carrega dentro do sistema
+Dados Pré-preenchidos: Informações do paciente/consulta já aparecem na prescrição
+Configuração Modular: Habilitar/desabilitar funcionalidades conforme necessário
+Persistência: Prescrições salvas automaticamente no banco local
+Callbacks: Eventos de prescrição finalizada tratados adequadamente
+
+Pontos de Atenção
+
+Tratamento de erros de API
+Fallback para falhas de conexão
+Loading states durante cadastro/carregamento
+Validação de dados médicos antes envio
+Logs detalhados para debug
+Testes de integração com ambiente sandbox primeiro
+
+Resultado Esperado
+Ao final, o médico deve conseguir:
+
+Clicar no botão Memed
+Sistema conectar automaticamente (cadastro transparente)
+Interface Memed carregar com dados do paciente
+Gerar prescrição digital
+Prescrição ser salva automaticamente no sistema
+
+Implemente essa integração seguindo as melhores práticas de segurança e experiência do usuário.

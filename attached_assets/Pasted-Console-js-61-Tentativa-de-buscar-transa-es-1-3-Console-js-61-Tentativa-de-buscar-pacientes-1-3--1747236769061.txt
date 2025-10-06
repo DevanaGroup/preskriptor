@@ -1,0 +1,65 @@
+Console.js:61 Tentativa de buscar transações (1/3)
+Console.js:61 Tentativa de buscar pacientes (1/3)
+Console.js:61 Erro ao buscar transações (tentativa 1/3): FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+Console.js:61 Pacientes carregados com sucesso: 2
+Console.js:61 Tentativa de buscar transações (2/3)
+Console.js:61 Erro ao buscar transações (tentativa 2/3): FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+
+                
+          
+          
+          
+         Chrome is moving towards a new experience that allows users to choose to browse without third-party cookies.
+Console.js:61 Tentativa de buscar transações (3/3)
+Console.js:61 Erro ao buscar transações (tentativa 3/3): FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+getTransactions @ firebase.ts:676
+Console.js:61 Erro ao buscar transações: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+getTransactions @ firebase.ts:686
+Console.js:61 Erro ao carregar transações: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+loadTransactions @ financeiro.tsx:167
+setTimeout
+pu @ firebase_firestore.js?v=0002f80e:14897
+error @ firebase_firestore.js?v=0002f80e:14891
+onError @ firebase_firestore.js?v=0002f80e:13730
+__PRIVATE_eventManagerOnWatchError @ firebase_firestore.js?v=0002f80e:13683
+__PRIVATE_removeAndCleanupTarget @ firebase_firestore.js?v=0002f80e:14386
+(anônimo) @ firebase_firestore.js?v=0002f80e:14323
+Promise.then
+__PRIVATE_syncEngineRejectListen @ firebase_firestore.js?v=0002f80e:14323
+__PRIVATE_handleTargetError @ firebase_firestore.js?v=0002f80e:13182
+__PRIVATE_onWatchStreamChange @ firebase_firestore.js?v=0002f80e:13183
+onNext @ firebase_firestore.js?v=0002f80e:12841
+(anônimo) @ firebase_firestore.js?v=0002f80e:12800
+(anônimo) @ firebase_firestore.js?v=0002f80e:12820
+(anônimo) @ firebase_firestore.js?v=0002f80e:15859
+(anônimo) @ firebase_firestore.js?v=0002f80e:15890
+Promise.then
+Yu @ firebase_firestore.js?v=0002f80e:15890
+enqueue @ firebase_firestore.js?v=0002f80e:15859
+enqueueAndForget @ firebase_firestore.js?v=0002f80e:15841
+(anônimo) @ firebase_firestore.js?v=0002f80e:12820
+(anônimo) @ firebase_firestore.js?v=0002f80e:12800
+i_ @ firebase_firestore.js?v=0002f80e:12435
+(anônimo) @ firebase_firestore.js?v=0002f80e:12573
+(anônimo) @ firebase_firestore.js?v=0002f80e:12536
+ab @ firebase_firestore.js?v=0002f80e:948
+F2 @ firebase_firestore.js?v=0002f80e:918
+Z2.ta @ firebase_firestore.js?v=0002f80e:2538
+Rb @ firebase_firestore.js?v=0002f80e:1417
+M2.Y @ firebase_firestore.js?v=0002f80e:1282
+M2.ca @ firebase_firestore.js?v=0002f80e:1213
+ab @ firebase_firestore.js?v=0002f80e:948
+F2 @ firebase_firestore.js?v=0002f80e:918
+Wc @ firebase_firestore.js?v=0002f80e:1952
+h.bb @ firebase_firestore.js?v=0002f80e:1947
+h.Ea @ firebase_firestore.js?v=0002f80e:1944
+Lc @ firebase_firestore.js?v=0002f80e:1844
+h.Pa @ firebase_firestore.js?v=0002f80e:1811
+Promise.then
+Nc @ firebase_firestore.js?v=0002f80e:1802
+h.Pa @ firebase_firestore.js?v=0002f80e:1812

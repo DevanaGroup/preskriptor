@@ -1,0 +1,268 @@
+Consumindo crédito para usuário: V17uYhaSupbLGD2LdaSvBBuyzGr2 (primeira mensagem)
+Console.js:61 Crédito consumido com sucesso
+Console.js:61 [LOG] Alex Alvarenga: Enviou mensagem
+Console.js:61 🔄 ChatMessage effect - isUser: true, content length: 3, isStreaming: false
+Console.js:61 🔵 USER MODE: Exibindo mensagem do usuário: "Olá..."
+Console.js:61 🔄 ChatMessage effect - isUser: false, content length: 0, isStreaming: true
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento start {type: 'start', threadId: 'thread_xT4Zrx50et2GhpnKJb9YNjZP'}
+Console.js:61 🚀 FRONTEND STREAM: Iniciando streaming
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: 'Olá'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "Olá" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ','}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "," (1 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' eu'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " eu" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' sou'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " sou" (4 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' o'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " o" (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' Pres'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " Pres" (5 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: 'Kr'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "Kr" (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: 'ip'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "ip" (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: 'tor'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "tor" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ','}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "," (1 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' seu'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " seu" (4 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' assist'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " assist" (7 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: 'ente'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "ente" (4 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' clín'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " clín" (5 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: 'ico'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "ico" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: '.'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "." (1 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: '  \n'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "  
+" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: 'Estou'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "Estou" (5 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' aqui'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " aqui" (5 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' para'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " para" (5 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' te'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " te" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' ajudar'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " ajudar" (7 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' a'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " a" (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' avaliar'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " avaliar" (8 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' se'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " se" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' o'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " o" (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' seu'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " seu" (4 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' paciente'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " paciente" (9 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' possui'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " possui" (7 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' indicação'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " indicação" (10 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' para'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " para" (5 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' cirurgia'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " cirurgia" (9 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' bari'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " bari" (5 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: 'á'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "á" (1 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: 'trica'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "trica" (5 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' ou'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " ou" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' metab'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " metab" (6 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: 'ólica'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "ólica" (5 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ','}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "," (1 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' com'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " com" (4 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' base'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " base" (5 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' nas'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " nas" (4 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' dire'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " dire" (5 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: 'trizes'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "trizes" (6 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' atuais'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " atuais" (7 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' do'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " do" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' Conselho'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " Conselho" (9 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' Federal'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " Federal" (8 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' de'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " de" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' Medicina'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " Medicina" (9 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' ('}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " (" (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: 'CF'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "CF" (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: 'M'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "M" (1 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ').'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: ")." (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: '  \n'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "  
+" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: '🔹'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "🔹" (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' Para'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " Para" (5 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' começar'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " começar" (8 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ','}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "," (1 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' por'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " por" (4 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' favor'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " favor" (6 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' me'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " me" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' informe'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " informe" (8 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' os'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " os" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' seguintes'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " seguintes" (10 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' dados'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " dados" (6 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' do'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " do" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' paciente'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " paciente" (9 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ':\n'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: ":
+" (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: '-'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "-" (1 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' Id'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " Id" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: 'ade'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "ade" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' ('}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " (" (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: 'em'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "em" (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' anos'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " anos" (5 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ')'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: ")" (1 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: '  \n'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "  
+" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: '-'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "-" (1 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' Peso'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " Peso" (5 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' ('}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " (" (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: 'em'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "em" (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' kg'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " kg" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ')'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: ")" (1 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' e'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " e" (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' altura'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " altura" (7 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' ('}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " (" (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: 'em'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "em" (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' metros'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " metros" (7 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ')'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: ")" (1 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: '  \n'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "  
+" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: '💡'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "💡" (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' Se'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " Se" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' prefer'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " prefer" (7 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: 'ir'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "ir" (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ','}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "," (1 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' você'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " você" (5 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' pode'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " pode" (5 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' informar'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " informar" (9 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' diretamente'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " diretamente" (12 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' o'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " o" (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' IM'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " IM" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: 'C'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "C" (1 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' ('}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " (" (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: 'í'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "í" (1 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: 'ndice'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "ndice" (5 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' de'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " de" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' massa'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " massa" (6 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' corp'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " corp" (5 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: 'ó'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "ó" (1 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: 'rea'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "rea" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ').'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: ")." (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: '  \n'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "  
+" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: 'Assim'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "Assim" (5 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' que'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " que" (4 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' os'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " os" (3 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' dados'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " dados" (6 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' forem'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " forem" (6 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' inform'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " inform" (7 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: 'ados'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "ados" (4 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ','}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "," (1 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' sigo'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " sigo" (5 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' com'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " com" (4 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' a'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " a" (2 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: ' análise'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: " análise" (8 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento chunk {type: 'chunk', content: '!'}
+Console.js:61 📡 FRONTEND STREAM: Chunk recebido: "!" (1 chars)
+Console.js:61 🔄 FRONTEND STREAM: Recebido evento done {type: 'done', threadId: 'thread_xT4Zrx50et2GhpnKJb9YNjZP', fullContent: 'Olá, eu sou o PresKriptor, seu assistente clínico.…ue os dados forem informados, sigo com a análise!'}
+Console.js:61 ✅ FRONTEND STREAM: Stream finalizado. Conteúdo total: 503 chars
+Console.js:61 🔄 ChatMessage effect - isUser: false, content length: 503, isStreaming: false
+Console.js:61 🟢 COMPLETE MODE: Exibindo mensagem completa: "Olá, eu sou o PresKriptor, seu assistente clínico...."

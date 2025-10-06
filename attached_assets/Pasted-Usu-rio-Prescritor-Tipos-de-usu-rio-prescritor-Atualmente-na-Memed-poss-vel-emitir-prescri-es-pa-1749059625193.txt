@@ -1,0 +1,230 @@
+Usuário Prescritor
+Tipos de usuário prescritor
+Atualmente na Memed, é possível emitir prescrições para três tipos de prescritores, são eles:
+
+Médicos;
+Dentistas;
+Enfermeiros;
+A diferenciação dos prescritores é realizada no momento do cadastro, onde o mesmo identifica o seu tipo com base no registro profissional informado no momento do cadastro.
+
+Fica a dica!
+A base de medicamentos é a mesma para todos os profissionais, fica a cargo do sistema integrado o controle dos medicamentos prescritos.
+
+Status do usuário prescritor
+Na Memed, o cadastro do prescrito possui alguns status que indicam o status da validação e se será permitido o usuário prescritor emitir uma prescrição. Caso o usuário prescritor tenha um status inativo, o mesmo não poderá efetuar uma prescrição, retornando (erro de autenticação)[/docs/erros-comuns/ocorreu-erro-autenticacao]
+
+Os possíveis status retornados no cadastro de um prescritor são:
+
+Status	Descrição
+Ativo	Usuário validado, é permitido emitir prescrição
+Em análise	Usuário está em analise por procedimentos internos, é permitido emitir prescrição
+Inativo	Usuário está bloqueado, não é permitido emitir prescrição
+Sobre os status.
+Para maioria dos cadastros, o status "Em análise" não é alterado, e isso não impede o prescritor de realizar uma prescrição.
+
+Obtendo o token do usuário (prescritor)
+O token de acesso do usuário prescritor é retornado junto com todos os outros dados do usuário. Veja abaixo como recuperar os dados do usuário e o token de acesso.
+
+Atenção
+O token não é estático, portanto sempre que for fazer uma requisição na API Memed, você precisa recuperar o último token válido do usuário.
+
+Obtendo os dados do usuário prescritor
+Para obter os dados e o token de acesso do usuário prescritor, basta fazer uma requisição GET na api da Memed, na rota de usuários, passando o identificador do usuário + par de chaves
+
+Atenção
+O identificador de usuário pode ser um destes três parâmetros abaixo:
+
+CPF
+External ID
+Registro + UF //Ex. 01234MG
+O Registro pode ser o número de registro CRM, CRO ou COREN;
+
+Rota para obter os dados do usuário
+GET: MEMED_API_URL/sinapse-prescricao/usuarios/{ID_USUARIO}?api-key=API_KEY&secret-key=SECRET_KEY
+
+cURL para obter dados do usuário
+Abaixo segue um exemplo da requisição completa para obter os dados e o token de acesso do usuário.
+
+cURL
+Sucesso
+Erro
+Requisição GET
+
+    curl --request GET \
+        --url 'https://integrations.api.memed.com.br/v1/sinapse-prescricao/usuarios/1234?api-key=iJGiB4kjDGOLeDFPWMG3no9VnN7Abpqe3w1jEFm6olkhkZD6oSfSmYCm&secret-key=Xe8M5GvBGCr4FStKfxXKisRo3SfYKI7KrTMkJpCAstzu2yXVN4av5nmL'\
+        --header 'Accept: application/vnd.api+json' \
+        --header 'Cache-Control: no-cache' \
+        --header 'Content-Type: application/json'
+
+
+Cadastrando o prescritor
+Para cadastrar o usuário prescritor basta fazer uma requisição POST na api da Memed na rota de usuários.
+
+Nesta requisição, envie os dados do usuário prescritor no corpo (body) da requisição no formato do payload exigido pela API MEMED.
+
+Rota de cadastro do usuário
+POST: MEMED_API_URL/sinapse-prescricao/usuarios?api-key={API_KEY}&secret-key={SECRET_KEY}
+
+Estrutura do payload de cadastro
+Atenção
+É muito importante a sua requisição ser enviada de acordo com a estrutura de payload (contrato) que a api da Memed espera receber. A estrutura de payload com os dados do prescritor tem de ser equivalente a estrutura abaixo:
+
+{
+  // obrigatório
+  "data": {
+    "type": "usuarios",
+    "attributes": {
+      "external_id": "0753879b-362d-4126-9146-a16cf6eb14bd", // Obrigatório
+      "nome": "Gustavo", // Obrigatório
+      "sobrenome": "Ribeiro Sousa", // Obrigatório
+      "cpf": "53076220403", // Opcional
+      "board": {
+            "board_code": "CRM", // Obrigatório
+            "board_number": "315435435", // Obrigatório
+            "board_state": "SP"}, // Obrigatório
+      "email": "gustavo.ribeiro@meuhospital.com", // Opcional
+      "telefone": "19938742708", // Opcional
+      "sexo": "M", // Opcional
+      "data_nascimento": "05/09/1972" // Opcional
+    },
+
+    // opcional
+    "relationships": {
+      "cidade": {
+        "data": {
+          "type": "cidades", // Obrigatório
+          "id": 1 // Obrigatório
+        }
+      },
+      "especialidade": {
+        "data": {
+          "type": "especialidades", // Obrigatório
+          "id": 1 // Obrigatório
+        }
+      }
+    }
+  }
+}
+
+Lembrando que se for passado as propriedades cidade e especialidade no relationships dentro do payload os campos type e id se tornam obrigatórios.
+
+Dados do prescritor
+Propriedade	Tipo	Obrigatório	Observações
+external_id	int/string(255)	✅	Recomendável ser do tipo UUID, pois é um campo único
+nome	string(255)	✅	
+sobrenome	string(255)	✅	
+cpf	string(11)		Apenas dígitos
+board_code	string(5)	✅	CRM / CRO / COREN
+board_number	string(255)	✅	Apenas dígitos
+board_state	string(2)	✅	Siglas dos estados brasileiros
+email	string(255)		
+telefone	string(16)		Apenas dígitos ou formatado (DDD) XXXXX-XXXX
+sexo	string(1)		M / F
+data_de_nascimento	date(10)		dd/mm/YYYY
+cidade	int(10)		O id da API https://integrations.api.memed.com.br/v1/cidades
+especialidade	int(10)		O id da API https://integrations.api.memed.com.br/v1/especialidades
+Experiência do usuário
+Apesar de alguns dados serem opcionais para efetuar o cadastro do prescritor na api da Memed, ao não enviar esses dados, o usuário prescritor terá que preenchê-los em algum momento dentro da plataforma de prescrição. Portanto, para proporcionar uma melhor experiência para o seu usuário, envie todos os dados possíveis durante o cadastro do mesmo.
+
+cURL de cadastro do usuário
+Abaixo segue um exemplo da requisição completa para cadastrar os dados do usuário prescritor e obter o token do mesmo:
+
+cURL
+Sucesso
+Erro
+Requisição POST
+
+curl --location 'https://integrations.api.memed.com.br/v1/sinapse-prescricao/usuarios?api-key=iJGiB4kjDGOLeDFPWMG3no9VnN7Abpqe3w1jEFm6olkhkZD6oSfSmYCm&secret-key=Xe8M5GvBGCr4FStKfxXKisRo3SfYKI7KrTMkJpCAstzu2yXVN4av5nmL' \
+--header 'Accept: application/vnd.api+json' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+  "data": {
+    "type": "usuarios",
+    "attributes": {
+      "external_id": "0753879b-362d-4126-9146-a16cf6eb14bd",
+      "nome": "Gustavo",
+      "sobrenome": "Ribeiro Sousa",
+      "cpf": "53076220403",
+      "board": {
+            "board_code": "CRM",
+            "board_number": "315435435",
+            "board_state": "SP"},
+      "email": "gustavo.ribeiro@meuhospital.com",
+      "telefone": "19938742708",
+      "sexo": "M",
+      "data_nascimento": "05/09/1972"
+    },
+    "relationships": {
+      "cidade": {
+        "data": {
+          "type": "cidades",
+          "id": 1
+        }
+      },
+      "especialidade": {
+        "data": {
+          "type": "especialidades",
+          "id": 1
+        }
+      }
+    }
+  }
+}'
+
+
+Atualizando os dados do usuário prescritor
+Para atualizar os dados do usuário prescritor, basta fazer uma requisição PATCH na api da Memed na rota de usuários passando o identificador do usuário + par de chaves + os dados que deseja atualizar.
+
+Atenção!
+Só insira o external_id dentro da propriedade de attributes no corpo da requisição se for mudar o valor deste atributo. Caso o valor do atributo external_id seja o mesmo do atual, será recebida a seguinte resposta da API:
+
+"Médico já cadastrado para o parceiro com esse id externo".
+
+Rota para atualizar os dados do usuário prescritor
+PATCH: MEMED_API_URL/sinapse-prescricao/usuarios/{EXTERNAL_ID}?api-key=API_KEY&secret-key=SECRET_KEY
+
+cURL para atualizar os dados do usuário prescritor
+Abaixo segue um exemplo da requisição completa para atualizar os dados do usuário prescritor:
+
+cURL
+Sucesso
+Erro
+Requisição PATCH
+
+curl --request PATCH \
+  --url 'https://integrations.api.memed.com.br/v1/sinapse-prescricao/usuarios/EXTERNAL_ID?api-key=iJGiB4kjDGOLeDFPWMG3no9VnN7Abpqe3w1jEFm6olkhkZD6oSfSmYCm&secret-key=Xe8M5GvBGCr4FStKfxXKisRo3SfYKI7KrTMkJpCAstzu2yXVN4av5nmL' \
+  --header 'Accept: application/vnd.api+json' \
+  --header 'Cache-Control: no-cache' \
+  --header 'Content-Type: application/json' \
+  --data '{
+    "data": {
+        "type": "usuarios",
+        "attributes": {
+            "cpf": "84587617008"
+        }
+    }
+}'
+
+
+Excluindo usuário prescritor
+Para excluir um usuário prescritor da API memed, basta fazer uma uma requisição de DELETE na rota de usuários, passando o identificador do usuário + par de chaves
+
+Atenção
+Muita atenção ao executar essa ação, pois ao fazer isso você irá excluir todo o histórico de atividade desse usuário na plataforma. Mesmo que você faça um novo cadastro com os mesmos dados não será possível recuperar as informações anteriores a esta ação.
+
+Rota para excluir o usuário prescritor
+DELETE: MEMED_API_URL/sinapse-prescricao/usuarios/{ID_USUARIO}api-key=API_KEY&secret-key=SECRET_KEY
+
+cURL para excluir o usuário
+Abaixo segue um exemplo da requisição completa para excluir o usuário prescritor.
+
+cURL
+Sucesso
+Erro
+Requisição DELETE
+
+    curl --request DELETE \
+        --url 'https://integrations.api.memed.com.br/v1/sinapse-prescricao/usuarios/1234?api-key=iJGiB4kjDGOLeDFPWMG3no9VnN7Abpqe3w1jEFm6olkhkZD6oSfSmYCm&secret-key=Xe8M5GvBGCr4FStKfxXKisRo3SfYKI7KrTMkJpCAstzu2yXVN4av5nmL'\
+        --header 'Accept: application/vnd.api+json' \
+        --header 'Cache-Control: no-cache' \
+        --header 'Content-Type: application/json'

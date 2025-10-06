@@ -1,0 +1,196 @@
+Console.js:61 Erro ao registrar log: FirebaseError: Missing or insufficient permissions.
+Mt.forEach.n.<computed> @ Console.js:61
+logUserAction @ logger.ts:40
+await in logUserAction
+logStartConsultation @ logger.ts:74
+onValueChange @ consulta.tsx:1021
+(anônimo) @ chunk-IGJJEA4C.js?v=0d758364:17
+(anônimo) @ chunk-FATGZKFA.js?v=0d758364:38
+handleSelect @ @radix-ui_react-select.js?v=0d758364:871
+(anônimo) @ @radix-ui_react-select.js?v=0d758364:917
+handleEvent @ chunk-FATGZKFA.js?v=0d758364:16
+callCallback2 @ chunk-XQLYTHWV.js?v=0d758364:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=0d758364:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=0d758364:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=0d758364:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=0d758364:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=0d758364:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=0d758364:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=0d758364:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=0d758364:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=0d758364:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=0d758364:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=0d758364:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=0d758364:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=0d758364:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=0d758364:5449
+logger.ts:34 
+            
+            
+           POST https://firestore.googleapis.com/google.firestore.v1.Firestore/Write/channel?VER=8&database=projects%2Fpreskriptor-e8a69%2Fdatabases%2F(default)&gsessionid=0eMROd2jSBt5-2DB38Xya24KnHHUlT4zXb03QIq62ro&SID=P4AYx7dpYdScpUXHIQtdJw&RID=40054&TYPE=terminate&zx=vol09wkkqj7n 400 (Bad Request)
+gc @ firebase_firestore.js?v=0d758364:2145
+Y2.close @ firebase_firestore.js?v=0d758364:2489
+(anônimo) @ firebase_firestore.js?v=0d758364:12572
+(anônimo) @ firebase_firestore.js?v=0d758364:12536
+ab @ firebase_firestore.js?v=0d758364:948
+F2 @ firebase_firestore.js?v=0d758364:918
+Z2.ta @ firebase_firestore.js?v=0d758364:2538
+Rb @ firebase_firestore.js?v=0d758364:1417
+M2.Y @ firebase_firestore.js?v=0d758364:1282
+M2.ca @ firebase_firestore.js?v=0d758364:1213
+ab @ firebase_firestore.js?v=0d758364:948
+F2 @ firebase_firestore.js?v=0d758364:918
+Wc @ firebase_firestore.js?v=0d758364:1952
+h.bb @ firebase_firestore.js?v=0d758364:1947
+h.Ea @ firebase_firestore.js?v=0d758364:1944
+Lc @ firebase_firestore.js?v=0d758364:1844
+h.Pa @ firebase_firestore.js?v=0d758364:1811
+Promise.then
+Nc @ firebase_firestore.js?v=0d758364:1802
+h.Pa @ firebase_firestore.js?v=0d758364:1812
+Promise.then
+Nc @ firebase_firestore.js?v=0d758364:1802
+h.Sa @ firebase_firestore.js?v=0d758364:1798
+Promise.then
+h.send @ firebase_firestore.js?v=0d758364:1779
+h.ea @ firebase_firestore.js?v=0d758364:1920
+Jb @ firebase_firestore.js?v=0d758364:1206
+fd @ firebase_firestore.js?v=0d758364:2339
+h.Fa @ firebase_firestore.js?v=0d758364:2306
+Da @ firebase_firestore.js?v=0d758364:667
+Promise.then
+x2 @ firebase_firestore.js?v=0d758364:661
+ec @ firebase_firestore.js?v=0d758364:2292
+Rb @ firebase_firestore.js?v=0d758364:1414
+M2.Y @ firebase_firestore.js?v=0d758364:1282
+M2.ca @ firebase_firestore.js?v=0d758364:1213
+ab @ firebase_firestore.js?v=0d758364:948
+F2 @ firebase_firestore.js?v=0d758364:918
+Wc @ firebase_firestore.js?v=0d758364:1952
+h.bb @ firebase_firestore.js?v=0d758364:1947
+h.Ea @ firebase_firestore.js?v=0d758364:1944
+Lc @ firebase_firestore.js?v=0d758364:1844
+h.Pa @ firebase_firestore.js?v=0d758364:1811
+Promise.then
+Nc @ firebase_firestore.js?v=0d758364:1802
+h.Sa @ firebase_firestore.js?v=0d758364:1798
+Promise.then
+h.send @ firebase_firestore.js?v=0d758364:1779
+h.ea @ firebase_firestore.js?v=0d758364:1920
+Jb @ firebase_firestore.js?v=0d758364:1201
+Hb @ firebase_firestore.js?v=0d758364:1176
+h.Ga @ firebase_firestore.js?v=0d758364:2226
+Da @ firebase_firestore.js?v=0d758364:667
+Promise.then
+x2 @ firebase_firestore.js?v=0d758364:661
+fc @ firebase_firestore.js?v=0d758364:2170
+h.connect @ firebase_firestore.js?v=0d758364:2130
+Y2.m @ firebase_firestore.js?v=0d758364:2486
+Go @ firebase_firestore.js?v=0d758364:12530
+send @ firebase_firestore.js?v=0d758364:12423
+F_ @ firebase_firestore.js?v=0d758364:12718
+H_ @ firebase_firestore.js?v=0d758364:12921
+__PRIVATE_onWriteStreamOpen @ firebase_firestore.js?v=0d758364:13273
+(anônimo) @ firebase_firestore.js?v=0d758364:12796
+(anônimo) @ firebase_firestore.js?v=0d758364:12820
+(anônimo) @ firebase_firestore.js?v=0d758364:15859
+(anônimo) @ firebase_firestore.js?v=0d758364:15890
+Promise.then
+Yu @ firebase_firestore.js?v=0d758364:15890
+enqueue @ firebase_firestore.js?v=0d758364:15859
+enqueueAndForget @ firebase_firestore.js?v=0d758364:15841
+(anônimo) @ firebase_firestore.js?v=0d758364:12820
+(anônimo) @ firebase_firestore.js?v=0d758364:12796
+n_ @ firebase_firestore.js?v=0d758364:12429
+(anônimo) @ firebase_firestore.js?v=0d758364:12578
+setTimeout
+a_ @ firebase_firestore.js?v=0d758364:12577
+k_ @ firebase_firestore.js?v=0d758364:12900
+B_ @ firebase_firestore.js?v=0d758364:12793
+(anônimo) @ firebase_firestore.js?v=0d758364:12783
+Promise.then
+auth @ firebase_firestore.js?v=0d758364:12779
+start @ firebase_firestore.js?v=0d758364:12678
+start @ firebase_firestore.js?v=0d758364:12894
+__PRIVATE_startWriteStream @ firebase_firestore.js?v=0d758364:13270
+__PRIVATE_fillWritePipeline @ firebase_firestore.js?v=0d758364:13256
+await in __PRIVATE_fillWritePipeline
+__PRIVATE_syncEngineWrite @ firebase_firestore.js?v=0d758364:14258
+await in __PRIVATE_syncEngineWrite
+(anônimo) @ firebase_firestore.js?v=0d758364:17621
+await in (anônimo)
+(anônimo) @ firebase_firestore.js?v=0d758364:15859
+(anônimo) @ firebase_firestore.js?v=0d758364:15890
+Promise.then
+Yu @ firebase_firestore.js?v=0d758364:15890
+enqueue @ firebase_firestore.js?v=0d758364:15859
+enqueueAndForget @ firebase_firestore.js?v=0d758364:15841
+__PRIVATE_firestoreClientWrite @ firebase_firestore.js?v=0d758364:17621
+executeWrite @ firebase_firestore.js?v=0d758364:17622
+addDoc @ firebase_firestore.js?v=0d758364:17568
+logUserAction @ logger.ts:34
+logStartConsultation @ logger.ts:74
+onValueChange @ consulta.tsx:1021
+(anônimo) @ chunk-IGJJEA4C.js?v=0d758364:17
+(anônimo) @ chunk-FATGZKFA.js?v=0d758364:38
+handleSelect @ @radix-ui_react-select.js?v=0d758364:871
+(anônimo) @ @radix-ui_react-select.js?v=0d758364:917
+handleEvent @ chunk-FATGZKFA.js?v=0d758364:16
+callCallback2 @ chunk-XQLYTHWV.js?v=0d758364:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=0d758364:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=0d758364:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=0d758364:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=0d758364:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=0d758364:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=0d758364:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=0d758364:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=0d758364:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=0d758364:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=0d758364:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=0d758364:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=0d758364:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=0d758364:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=0d758364:5449
+FileUploadOCR.tsx:66 
+            
+            
+           POST https://bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/api/ocr/upload 500 (Internal Server Error)
+window.fetch @ Network.js:219
+handleFileUpload @ FileUploadOCR.tsx:66
+handleFileSelect @ FileUploadOCR.tsx:151
+callCallback2 @ chunk-XQLYTHWV.js?v=0d758364:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=0d758364:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=0d758364:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=0d758364:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=0d758364:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=0d758364:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=0d758364:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=0d758364:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=0d758364:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=0d758364:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=0d758364:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=0d758364:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=0d758364:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=0d758364:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=0d758364:5449
+Console.js:61 Erro no upload: Error: 5 NOT_FOUND: Processor with id '7df326c58e523275' not found.
+    at handleFileUpload (FileUploadOCR.tsx:122:15)
+Mt.forEach.n.<computed> @ Console.js:61
+handleFileUpload @ FileUploadOCR.tsx:125
+await in handleFileUpload
+handleFileSelect @ FileUploadOCR.tsx:151
+callCallback2 @ chunk-XQLYTHWV.js?v=0d758364:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=0d758364:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=0d758364:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=0d758364:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=0d758364:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=0d758364:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=0d758364:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=0d758364:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=0d758364:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=0d758364:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=0d758364:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=0d758364:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=0d758364:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=0d758364:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=0d758364:5449

@@ -1,0 +1,335 @@
+8191-7e8c6547110f4744.js:1 Replit version d3b04582, pid2 version 0.0.1362
+_app-43560ea33c2771e7.js:38 
+      /////////////////////
+   ///////////////////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////        Curious and driven?
+  ///////////////@@@@@@@///////        Work with us!
+  ///////////////@@@@@@@///////
+  ///////////////@@@@@@@///////        https://join.replit.com/hack.with.us
+  ////////@@@@@@@//////////////
+  ////////@@@@@@@//////////////
+  ////////@@@@@@#//////////////
+   ///////////////////////////
+      /////////////////////
+      
+_app-43560ea33c2771e7.js:38 [LaunchDarkly] LaunchDarkly client initialized
+content.js:1 Object
+ Refused to load the font 'https://js.stripe.com/resources/colfax/Colfax-Medium.woff' because it violates the following Content Security Policy directive: "font-src 'none'".
+
+(anônimo) @ paletteBuilder.js:1
+ Refused to load the font 'https://js.stripe.com/resources/colfax/Colfax-Medium.woff' because it violates the following Content Security Policy directive: "font-src 'none'".
+
+(anônimo) @ paletteBuilder.js:1
+/~:1 Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner.
+bash.svg:1 
+            
+            
+           Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+_app-43560ea33c2771e7.js:38 If you do not provide children, you must specify an aria-label for accessibility
+(anônimo) @ _app-43560ea33c2771e7.js:38
+_app-43560ea33c2771e7.js:38 If you do not provide children, you must specify an aria-label for accessibility
+(anônimo) @ _app-43560ea33c2771e7.js:38
+ [Report Only] Refused to load the font 'https://js.stripe.com/resources/colfax/Colfax-Medium.woff' because it violates the following Content Security Policy directive: "font-src 'none'".
+
+ [Report Only] Refused to load the font 'https://js.stripe.com/resources/colfax/Colfax-Medium.woff' because it violates the following Content Security Policy directive: "font-src 'none'".
+
+ Refused to load the font 'https://js.stripe.com/resources/colfax/Colfax-Medium.woff' because it violates the following Content Security Policy directive: "font-src 'none'".
+
+(anônimo) @ paletteBuilder.js:1
+ Refused to load the font 'https://js.stripe.com/resources/colfax/Colfax-Medium.woff' because it violates the following Content Security Policy directive: "font-src 'none'".
+
+(anônimo) @ paletteBuilder.js:1
+_app-43560ea33c2771e7.js:38 If you do not provide children, you must specify an aria-label for accessibility
+(anônimo) @ _app-43560ea33c2771e7.js:38
+_app-43560ea33c2771e7.js:38 If you do not provide children, you must specify an aria-label for accessibility
+(anônimo) @ _app-43560ea33c2771e7.js:38
+_app-43560ea33c2771e7.js:38 If you do not provide children, you must specify an aria-label for accessibility
+(anônimo) @ _app-43560ea33c2771e7.js:38
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+framework-3f1567f5162b814f.js:1 Unrecognized feature: 'ambient-light-sensor'.
+_ @ framework-3f1567f5162b814f.js:1
+framework-3f1567f5162b814f.js:1 Unrecognized feature: 'battery'.
+_ @ framework-3f1567f5162b814f.js:1
+framework-3f1567f5162b814f.js:1 Unrecognized feature: 'execution-while-not-rendered'.
+_ @ framework-3f1567f5162b814f.js:1
+framework-3f1567f5162b814f.js:1 Unrecognized feature: 'execution-while-out-of-viewport'.
+_ @ framework-3f1567f5162b814f.js:1
+framework-3f1567f5162b814f.js:1 Unrecognized feature: 'layout-animations'.
+_ @ framework-3f1567f5162b814f.js:1
+framework-3f1567f5162b814f.js:1 Unrecognized feature: 'legacy-image-formats'.
+_ @ framework-3f1567f5162b814f.js:1
+framework-3f1567f5162b814f.js:1 Unrecognized feature: 'navigation-override'.
+_ @ framework-3f1567f5162b814f.js:1
+framework-3f1567f5162b814f.js:1 Unrecognized feature: 'oversized-images'.
+_ @ framework-3f1567f5162b814f.js:1
+framework-3f1567f5162b814f.js:1 Unrecognized feature: 'publickey-credentials'.
+_ @ framework-3f1567f5162b814f.js:1
+framework-3f1567f5162b814f.js:1 Unrecognized feature: 'speaker-selection'.
+_ @ framework-3f1567f5162b814f.js:1
+framework-3f1567f5162b814f.js:1 Unrecognized feature: 'unoptimized-images'.
+_ @ framework-3f1567f5162b814f.js:1
+framework-3f1567f5162b814f.js:1 Unrecognized feature: 'unsized-media'.
+_ @ framework-3f1567f5162b814f.js:1
+framework-3f1567f5162b814f.js:1 Unrecognized feature: 'pointer-lock'.
+_ @ framework-3f1567f5162b814f.js:1
+framework-3f1567f5162b814f.js:1 Allow attribute will take precedence over 'allowfullscreen'.
+_ @ framework-3f1567f5162b814f.js:1
+framework-3f1567f5162b814f.js:1 Allow attribute will take precedence over 'allowpaymentrequest'.
+_ @ framework-3f1567f5162b814f.js:1
+_app-43560ea33c2771e7.js:38 task queue exceeded allotted deadline by 23ms
+(anônimo) @ _app-43560ea33c2771e7.js:38
+workspace_iframe.html:32 Unrecognized feature: 'ambient-light-sensor'.
+workspace_iframe.html:32 Unrecognized feature: 'battery'.
+workspace_iframe.html:32 Unrecognized feature: 'execution-while-not-rendered'.
+workspace_iframe.html:32 Unrecognized feature: 'execution-while-out-of-viewport'.
+workspace_iframe.html:32 Unrecognized feature: 'layout-animations'.
+workspace_iframe.html:32 Unrecognized feature: 'legacy-image-formats'.
+workspace_iframe.html:32 Unrecognized feature: 'navigation-override'.
+workspace_iframe.html:32 Unrecognized feature: 'oversized-images'.
+workspace_iframe.html:32 Unrecognized feature: 'publickey-credentials'.
+workspace_iframe.html:32 Unrecognized feature: 'speaker-selection'.
+workspace_iframe.html:32 Unrecognized feature: 'unoptimized-images'.
+workspace_iframe.html:32 Unrecognized feature: 'unsized-media'.
+workspace_iframe.html:32 Allow attribute will take precedence over 'allowfullscreen'.
+workspace_iframe.html:32 Allow attribute will take precedence over 'allowpaymentrequest'.
+Console.js:61 Firebase config: Object
+Console.js:61 Criada nova instância do Firebase
+Console.js:61 Setting up auth state listener...
+Console.js:61 Auth state changed: User logged in
+Console.js:61 Getting user profile for UID: sXqCssn1fYMirNtQfqhzvbU3Mhn1
+Console.js:61 🔍 Getting user profile for UID: sXqCssn1fYMirNtQfqhzvbU3Mhn1
+Console.js:61 Trying to get user document with UID as document ID
+Console.js:61 User document reference created: users/sXqCssn1fYMirNtQfqhzvbU3Mhn1
+Console.js:61 User document exists? true
+Console.js:61 User data found by direct ID: sXqCssn1fYMirNtQfqhzvbU3Mhn1
+Console.js:61 Firestore user profile: Object
+Console.js:61 User data set with Firestore profile
+Console.js:61 Firestore timeout reached
+Console.js:61 Tentativa de buscar pacientes (1/3)
+Console.js:61 Pacientes carregados com sucesso: 3
+Console.js:61 Erro ao descriptografar dados: Error: Malformed UTF-8 data
+    at Object.stringify (crypto-js.js?v=80d4bda4:411:21)
+    at WordArray.init.toString (crypto-js.js?v=80d4bda4:219:37)
+    at EncryptionService.decrypt (encryption.ts:48:40)
+    at encryption.ts:165:34
+    at Array.map (<anonymous>)
+    at decryptConsultationData (encryption.ts:163:45)
+    at firebase.ts:1089:29
+    at firebase_firestore.js?v=80d4bda4:17431:9
+    at firebase_firestore.js?v=80d4bda4:13466:48
+    at _LLRBNode.inorderTraversal (firebase_firestore.js?v=80d4bda4:4366:45)
+Mt.forEach.n.<computed> @ Console.js:61
+Console.js:61 Erro ao descriptografar dados: Error: Malformed UTF-8 data
+    at Object.stringify (crypto-js.js?v=80d4bda4:411:21)
+    at WordArray.init.toString (crypto-js.js?v=80d4bda4:219:37)
+    at EncryptionService.decrypt (encryption.ts:48:40)
+    at encryption.ts:165:34
+    at Array.map (<anonymous>)
+    at decryptConsultationData (encryption.ts:163:45)
+    at firebase.ts:1089:29
+    at firebase_firestore.js?v=80d4bda4:17431:9
+    at firebase_firestore.js?v=80d4bda4:13466:48
+    at _LLRBNode.inorderTraversal (firebase_firestore.js?v=80d4bda4:4366:45)
+Mt.forEach.n.<computed> @ Console.js:61
+Console.js:61 Erro ao descriptografar dados: Error: Malformed UTF-8 data
+    at Object.stringify (crypto-js.js?v=80d4bda4:411:21)
+    at WordArray.init.toString (crypto-js.js?v=80d4bda4:219:37)
+    at EncryptionService.decrypt (encryption.ts:48:40)
+    at encryption.ts:165:34
+    at Array.map (<anonymous>)
+    at decryptConsultationData (encryption.ts:163:45)
+    at firebase.ts:1089:29
+    at firebase_firestore.js?v=80d4bda4:17431:9
+    at firebase_firestore.js?v=80d4bda4:13466:48
+    at _LLRBNode.inorderTraversal (firebase_firestore.js?v=80d4bda4:4366:45)
+Mt.forEach.n.<computed> @ Console.js:61
+Console.js:61 Erro ao descriptografar dados: Error: Malformed UTF-8 data
+    at Object.stringify (crypto-js.js?v=80d4bda4:411:21)
+    at WordArray.init.toString (crypto-js.js?v=80d4bda4:219:37)
+    at EncryptionService.decrypt (encryption.ts:48:40)
+    at encryption.ts:165:34
+    at Array.map (<anonymous>)
+    at decryptConsultationData (encryption.ts:163:45)
+    at firebase.ts:1089:29
+    at firebase_firestore.js?v=80d4bda4:17431:9
+    at firebase_firestore.js?v=80d4bda4:13466:48
+    at _LLRBNode.inorderTraversal (firebase_firestore.js?v=80d4bda4:4366:45)
+Mt.forEach.n.<computed> @ Console.js:61
+Console.js:61 Erro ao descriptografar dados: Error: Malformed UTF-8 data
+    at Object.stringify (crypto-js.js?v=80d4bda4:411:21)
+    at WordArray.init.toString (crypto-js.js?v=80d4bda4:219:37)
+    at EncryptionService.decrypt (encryption.ts:48:40)
+    at encryption.ts:165:34
+    at Array.map (<anonymous>)
+    at decryptConsultationData (encryption.ts:163:45)
+    at firebase.ts:1089:29
+    at firebase_firestore.js?v=80d4bda4:17431:9
+    at firebase_firestore.js?v=80d4bda4:13466:48
+    at _LLRBNode.inorderTraversal (firebase_firestore.js?v=80d4bda4:4366:45)
+Mt.forEach.n.<computed> @ Console.js:61
+Console.js:61 Erro ao descriptografar dados: Error: Malformed UTF-8 data
+    at Object.stringify (crypto-js.js?v=80d4bda4:411:21)
+    at WordArray.init.toString (crypto-js.js?v=80d4bda4:219:37)
+    at EncryptionService.decrypt (encryption.ts:48:40)
+    at encryption.ts:165:34
+    at Array.map (<anonymous>)
+    at decryptConsultationData (encryption.ts:163:45)
+    at firebase.ts:1089:29
+    at firebase_firestore.js?v=80d4bda4:17431:9
+    at firebase_firestore.js?v=80d4bda4:13466:48
+    at _LLRBNode.inorderTraversal (firebase_firestore.js?v=80d4bda4:4366:45)
+Mt.forEach.n.<computed> @ Console.js:61
+Console.js:61 Erro ao descriptografar dados: Error: Malformed UTF-8 data
+    at Object.stringify (crypto-js.js?v=80d4bda4:411:21)
+    at WordArray.init.toString (crypto-js.js?v=80d4bda4:219:37)
+    at EncryptionService.decrypt (encryption.ts:48:40)
+    at encryption.ts:165:34
+    at Array.map (<anonymous>)
+    at decryptConsultationData (encryption.ts:163:45)
+    at firebase.ts:1089:29
+    at firebase_firestore.js?v=80d4bda4:17431:9
+    at firebase_firestore.js?v=80d4bda4:13466:48
+    at _LLRBNode.inorderTraversal (firebase_firestore.js?v=80d4bda4:4366:45)
+Mt.forEach.n.<computed> @ Console.js:61
+Console.js:61 Erro ao descriptografar dados: Error: Malformed UTF-8 data
+    at Object.stringify (crypto-js.js?v=80d4bda4:411:21)
+    at WordArray.init.toString (crypto-js.js?v=80d4bda4:219:37)
+    at EncryptionService.decrypt (encryption.ts:48:40)
+    at encryption.ts:165:34
+    at Array.map (<anonymous>)
+    at decryptConsultationData (encryption.ts:163:45)
+    at firebase.ts:1089:29
+    at firebase_firestore.js?v=80d4bda4:17431:9
+    at firebase_firestore.js?v=80d4bda4:13466:48
+    at _LLRBNode.inorderTraversal (firebase_firestore.js?v=80d4bda4:4366:45)
+Mt.forEach.n.<computed> @ Console.js:61
+Console.js:61 Erro ao descriptografar dados: Error: Malformed UTF-8 data
+    at Object.stringify (crypto-js.js?v=80d4bda4:411:21)
+    at WordArray.init.toString (crypto-js.js?v=80d4bda4:219:37)
+    at EncryptionService.decrypt (encryption.ts:48:40)
+    at encryption.ts:165:34
+    at Array.map (<anonymous>)
+    at decryptConsultationData (encryption.ts:163:45)
+    at firebase.ts:1089:29
+    at firebase_firestore.js?v=80d4bda4:17431:9
+    at firebase_firestore.js?v=80d4bda4:13466:48
+    at _LLRBNode.inorderTraversal (firebase_firestore.js?v=80d4bda4:4366:45)
+Mt.forEach.n.<computed> @ Console.js:61
+Console.js:61 Erro ao descriptografar dados: Error: Malformed UTF-8 data
+    at Object.stringify (crypto-js.js?v=80d4bda4:411:21)
+    at WordArray.init.toString (crypto-js.js?v=80d4bda4:219:37)
+    at EncryptionService.decrypt (encryption.ts:48:40)
+    at encryption.ts:165:34
+    at Array.map (<anonymous>)
+    at decryptConsultationData (encryption.ts:163:45)
+    at firebase.ts:1089:29
+    at firebase_firestore.js?v=80d4bda4:17431:9
+    at firebase_firestore.js?v=80d4bda4:13466:48
+    at _LLRBNode.inorderTraversal (firebase_firestore.js?v=80d4bda4:4366:45)
+Mt.forEach.n.<computed> @ Console.js:61
+Console.js:61 Erro ao descriptografar dados: Error: Malformed UTF-8 data
+    at Object.stringify (crypto-js.js?v=80d4bda4:411:21)
+    at WordArray.init.toString (crypto-js.js?v=80d4bda4:219:37)
+    at EncryptionService.decrypt (encryption.ts:48:40)
+    at encryption.ts:165:34
+    at Array.map (<anonymous>)
+    at decryptConsultationData (encryption.ts:163:45)
+    at firebase.ts:1089:29
+    at firebase_firestore.js?v=80d4bda4:17431:9
+    at firebase_firestore.js?v=80d4bda4:13466:48
+    at _LLRBNode.inorderTraversal (firebase_firestore.js?v=80d4bda4:4366:45)
+Mt.forEach.n.<computed> @ Console.js:61
+Console.js:61 Erro ao descriptografar dados: Error: Malformed UTF-8 data
+    at Object.stringify (crypto-js.js?v=80d4bda4:411:21)
+    at WordArray.init.toString (crypto-js.js?v=80d4bda4:219:37)
+    at EncryptionService.decrypt (encryption.ts:48:40)
+    at encryption.ts:165:34
+    at Array.map (<anonymous>)
+    at decryptConsultationData (encryption.ts:163:45)
+    at firebase.ts:1089:29
+    at firebase_firestore.js?v=80d4bda4:17431:9
+    at firebase_firestore.js?v=80d4bda4:13466:48
+    at _LLRBNode.inorderTraversal (firebase_firestore.js?v=80d4bda4:4366:45)
+Mt.forEach.n.<computed> @ Console.js:61
+Console.js:61 Erro ao descriptografar dados: Error: Malformed UTF-8 data
+    at Object.stringify (crypto-js.js?v=80d4bda4:411:21)
+    at WordArray.init.toString (crypto-js.js?v=80d4bda4:219:37)
+    at EncryptionService.decrypt (encryption.ts:48:40)
+    at encryption.ts:165:34
+    at Array.map (<anonymous>)
+    at decryptConsultationData (encryption.ts:163:45)
+    at firebase.ts:1089:29
+    at firebase_firestore.js?v=80d4bda4:17431:9
+    at firebase_firestore.js?v=80d4bda4:13466:48
+    at _LLRBNode.inorderTraversal (firebase_firestore.js?v=80d4bda4:4366:45)
+Mt.forEach.n.<computed> @ Console.js:61
+Console.js:61 Erro ao descriptografar dados: Error: Malformed UTF-8 data
+    at Object.stringify (crypto-js.js?v=80d4bda4:411:21)
+    at WordArray.init.toString (crypto-js.js?v=80d4bda4:219:37)
+    at EncryptionService.decrypt (encryption.ts:48:40)
+    at encryption.ts:165:34
+    at Array.map (<anonymous>)
+    at decryptConsultationData (encryption.ts:163:45)
+    at firebase.ts:1089:29
+    at firebase_firestore.js?v=80d4bda4:17431:9
+    at firebase_firestore.js?v=80d4bda4:13466:48
+    at _LLRBNode.inorderTraversal (firebase_firestore.js?v=80d4bda4:4366:45)
+Mt.forEach.n.<computed> @ Console.js:61
+Console.js:61 Erro ao descriptografar dados: Error: Malformed UTF-8 data
+    at Object.stringify (crypto-js.js?v=80d4bda4:411:21)
+    at WordArray.init.toString (crypto-js.js?v=80d4bda4:219:37)
+    at EncryptionService.decrypt (encryption.ts:48:40)
+    at encryption.ts:165:34
+    at Array.map (<anonymous>)
+    at decryptConsultationData (encryption.ts:163:45)
+    at firebase.ts:1089:29
+    at firebase_firestore.js?v=80d4bda4:17431:9
+    at firebase_firestore.js?v=80d4bda4:13466:48
+    at _LLRBNode.inorderTraversal (firebase_firestore.js?v=80d4bda4:4366:45)
+Mt.forEach.n.<computed> @ Console.js:61
+Console.js:61 Erro ao descriptografar dados: Error: Malformed UTF-8 data
+    at Object.stringify (crypto-js.js?v=80d4bda4:411:21)
+    at WordArray.init.toString (crypto-js.js?v=80d4bda4:219:37)
+    at EncryptionService.decrypt (encryption.ts:48:40)
+    at encryption.ts:165:34
+    at Array.map (<anonymous>)
+    at decryptConsultationData (encryption.ts:163:45)
+    at firebase.ts:1089:29
+    at firebase_firestore.js?v=80d4bda4:17431:9
+    at firebase_firestore.js?v=80d4bda4:13466:48
+    at _LLRBNode.inorderTraversal (firebase_firestore.js?v=80d4bda4:4366:45)
+Mt.forEach.n.<computed> @ Console.js:61
+Console.js:61 Erro ao descriptografar dados: Error: Malformed UTF-8 data
+    at Object.stringify (crypto-js.js?v=80d4bda4:411:21)
+    at WordArray.init.toString (crypto-js.js?v=80d4bda4:219:37)
+    at EncryptionService.decrypt (encryption.ts:48:40)
+    at encryption.ts:165:34
+    at Array.map (<anonymous>)
+    at decryptConsultationData (encryption.ts:163:45)
+    at firebase.ts:1089:29
+    at firebase_firestore.js?v=80d4bda4:17431:9
+    at firebase_firestore.js?v=80d4bda4:13466:48
+    at _LLRBNode.inorderTraversal (firebase_firestore.js?v=80d4bda4:4366:45)
+Mt.forEach.n.<computed> @ Console.js:61
+bd327054-4acd-4f37-835c-1432363bdfc0-00-rz32vdhv33s7.worf.replit.dev/api/memed/configure-prescritor:1 
+            
+            
+           Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+Console.js:61 Erro ao configurar Memed: Error: Erro ao configurar integração com Memed
+    at configurarMemed (prescricoes.tsx:122:15)
+Mt.forEach.n.<computed> @ Console.js:61
+
+                
+          
+          
+          
+         Chrome is moving towards a new experience that allows users to choose to browse without third-party cookies.

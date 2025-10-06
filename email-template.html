@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verificação de Email - Preskriptor</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333333;
+            background-color: #f8fafc;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+        .header {
+            background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+            color: white;
+            padding: 40px 30px;
+            text-align: center;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 28px;
+            font-weight: 700;
+            letter-spacing: -0.5px;
+        }
+        .header p {
+            margin: 8px 0 0 0;
+            opacity: 0.9;
+            font-size: 16px;
+        }
+        .content {
+            padding: 40px 30px;
+        }
+        .greeting {
+            font-size: 18px;
+            margin-bottom: 24px;
+            color: #1f2937;
+        }
+        .message {
+            font-size: 16px;
+            margin-bottom: 32px;
+            color: #4b5563;
+            line-height: 1.7;
+        }
+        .cta-button {
+            display: inline-block;
+            background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+            color: white;
+            text-decoration: none;
+            padding: 16px 32px;
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 16px;
+            text-align: center;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 14px 0 rgba(37, 99, 235, 0.3);
+        }
+        .cta-button:hover {
+            background: linear-gradient(135deg, #1d4ed8 0%, #1e40af 100%);
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px 0 rgba(37, 99, 235, 0.4);
+        }
+        .cta-container {
+            text-align: center;
+            margin: 32px 0;
+        }
+        .divider {
+            height: 1px;
+            background: linear-gradient(90deg, transparent 0%, #e5e7eb 50%, transparent 100%);
+            margin: 32px 0;
+        }
+        .alternative-link {
+            background-color: #f8fafc;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 24px 0;
+            border-left: 4px solid #2563eb;
+        }
+        .alternative-link p {
+            margin: 0 0 8px 0;
+            font-size: 14px;
+            color: #6b7280;
+        }
+        .alternative-link code {
+            background-color: #ffffff;
+            padding: 8px 12px;
+            border-radius: 4px;
+            font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+            font-size: 13px;
+            color: #1f2937;
+            border: 1px solid #e5e7eb;
+            word-break: break-all;
+            display: block;
+            margin-top: 8px;
+        }
+        .footer {
+            background-color: #f9fafb;
+            padding: 30px;
+            text-align: center;
+            border-top: 1px solid #e5e7eb;
+        }
+        .footer-links {
+            margin: 20px 0;
+        }
+        .footer-links a {
+            color: #2563eb;
+            text-decoration: none;
+            margin: 0 16px;
+            font-weight: 500;
+            font-size: 14px;
+        }
+        .footer-links a:hover {
+            text-decoration: underline;
+        }
+        .footer p {
+            margin: 8px 0;
+            color: #6b7280;
+            font-size: 14px;
+        }
+        .security-notice {
+            background-color: #fef7cd;
+            border: 1px solid #fbbf24;
+            border-radius: 8px;
+            padding: 16px;
+            margin: 24px 0;
+        }
+        .security-notice h3 {
+            margin: 0 0 8px 0;
+            color: #92400e;
+            font-size: 16px;
+        }
+        .security-notice p {
+            margin: 0;
+            color: #92400e;
+            font-size: 14px;
+        }
+        @media (max-width: 600px) {
+            .container {
+                margin: 0;
+                border-radius: 0;
+            }
+            .header, .content, .footer {
+                padding: 30px 20px;
+            }
+            .header h1 {
+                font-size: 24px;
+            }
+            .cta-button {
+                display: block;
+                margin: 16px 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Preskriptor</h1>
+            <p>Prescrição Médica Segura e Inteligente com IA</p>
+        </div>
+        
+        <div class="content">
+            <div class="greeting">
+                Olá, {{name}}!
+            </div>
+            
+            <div class="message">
+                Bem-vindo(a) ao <strong>Preskriptor</strong>! Para garantir a segurança da sua conta e começar a usar nossa plataforma de prescrição médica inteligente, precisamos verificar seu endereço de email.
+            </div>
+            
+            <div class="cta-container">
+                <a href="{{verificationLink}}" class="cta-button">
+                    Verificar Meu Email
+                </a>
+            </div>
+            
+            <div class="alternative-link">
+                <p><strong>Problema com o botão?</strong> Copie e cole o link abaixo no seu navegador:</p>
+                <code>{{verificationLink}}</code>
+            </div>
+            
+            <div class="divider"></div>
+            
+            <div class="security-notice">
+                <h3>🔒 Segurança</h3>
+                <p>Este link é válido por 24 horas e só pode ser usado uma vez. Se você não solicitou esta verificação, pode ignorar este email com segurança.</p>
+            </div>
+            
+            <div class="message">
+                Após a verificação, você terá acesso completo à nossa plataforma com recursos de IA para consultas médicas, prescrição digital integrada com Memed, e ferramentas avançadas para otimizar seu atendimento.
+            </div>
+        </div>
+        
+        <div class="footer">
+            <div class="footer-links">
+                <a href="https://www.preskriptor.com.br/terms-of-service">Termos de Uso</a>
+                <a href="https://www.preskriptor.com.br/privacy-policy">Política de Privacidade</a>
+            </div>
+            <p>© 2025 Preskriptor. Todos os direitos reservados.</p>
+            <p>Esta é uma mensagem automática, não responda este email.</p>
+        </div>
+    </div>
+</body>
+</html>

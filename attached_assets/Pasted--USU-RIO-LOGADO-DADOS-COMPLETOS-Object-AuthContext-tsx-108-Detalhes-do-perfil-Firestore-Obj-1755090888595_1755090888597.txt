@@ -1,0 +1,1245 @@
+🔐 USUÁRIO LOGADO - DADOS COMPLETOS: Object
+AuthContext.tsx:108 📋 Detalhes do perfil Firestore: Object
+AuthContext.tsx:109 🔥 Dados básicos do Firebase Auth: Object
+logger.ts:37 [LOG] Alex Alvarenga: Iniciou consulta
+FileUploadOCR.tsx:100 🚀 Enviando attachment OCR: {fileName: 'exame.webp', fileType: 'image/webp', isImage: true, isPdf: false}
+consulta.tsx:316 🔍 handleTextExtracted chamado: {extractedText: 'VOLPI\n\nBIANCARDI\n\nLABORATÓRIO DE ANÁLISES CLÍNICAS...', fileName: 'exame.webp', hasAttachmentMeta: true, attachmentMeta: {…}}
+logger.ts:37 [LOG] Alex Alvarenga: Fez upload de arquivo
+consulta.tsx:337 ✅ Criando mensagem com attachment visual
+logger.ts:37 [LOG] Alex Alvarenga: Enviou mensagem
+openai.ts:122 🚀 sendMessageStreaming INICIADO com callbacks: {hasOnStart: true, hasOnChunk: true, hasOnDone: true, hasOnError: true, onChunkString: '(chunk) => {\n            fullResponse += chunk;\n            setMessages((prev) => {\n              co'}
+openai.ts:132 🧪 TESTE DIRETO DO CALLBACK:
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:196 🟢 STREAMING INICIADO NO OPENAI.TS
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: 🔴
+openai.ts:203 📨 CHAMANDO onChunk callback com: 🔴 tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  **
+openai.ts:203 📨 CHAMANDO onChunk callback com:  ** tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: S
+openai.ts:203 📨 CHAMANDO onChunk callback com: S tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: érie
+openai.ts:203 📨 CHAMANDO onChunk callback com: érie tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  Verm
+openai.ts:203 📨 CHAMANDO onChunk callback com:  Verm tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: elha
+openai.ts:203 📨 CHAMANDO onChunk callback com: elha tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  (
+openai.ts:203 📨 CHAMANDO onChunk callback com:  ( tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: E
+openai.ts:203 📨 CHAMANDO onChunk callback com: E tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: rit
+openai.ts:203 📨 CHAMANDO onChunk callback com: rit tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: rogram
+openai.ts:203 📨 CHAMANDO onChunk callback com: rogram tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: a
+openai.ts:203 📨 CHAMANDO onChunk callback com: a tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: )**
+openai.ts:203 📨 CHAMANDO onChunk callback com: )** tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: 
+
+
+openai.ts:203 📨 CHAMANDO onChunk callback com: 
+
+ tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: -
+openai.ts:203 📨 CHAMANDO onChunk callback com: - tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  **
+openai.ts:203 📨 CHAMANDO onChunk callback com:  ** tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: Hem
+openai.ts:203 📨 CHAMANDO onChunk callback com: Hem tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: á
+openai.ts:203 📨 CHAMANDO onChunk callback com: á tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: cias
+openai.ts:203 📨 CHAMANDO onChunk callback com: cias tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  (
+openai.ts:203 📨 CHAMANDO onChunk callback com:  ( tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: R
+openai.ts:203 📨 CHAMANDO onChunk callback com: R tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: BC
+openai.ts:203 📨 CHAMANDO onChunk callback com: BC tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: ):
+openai.ts:203 📨 CHAMANDO onChunk callback com: ): tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: **
+openai.ts:203 📨 CHAMANDO onChunk callback com: ** tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  
+openai.ts:203 📨 CHAMANDO onChunk callback com:   tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: 5
+openai.ts:203 📨 CHAMANDO onChunk callback com: 5 tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: ,
+openai.ts:203 📨 CHAMANDO onChunk callback com: , tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: 78
+openai.ts:203 📨 CHAMANDO onChunk callback com: 78 tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  milhões
+openai.ts:203 📨 CHAMANDO onChunk callback com:  milhões tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: /mm
+openai.ts:203 📨 CHAMANDO onChunk callback com: /mm tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: ³
+openai.ts:203 📨 CHAMANDO onChunk callback com: ³ tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  (
+openai.ts:203 📨 CHAMANDO onChunk callback com:  ( tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: Ref
+openai.ts:203 📨 CHAMANDO onChunk callback com: Ref tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: :
+openai.ts:203 📨 CHAMANDO onChunk callback com: : tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  
+openai.ts:203 📨 CHAMANDO onChunk callback com:   tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: 4
+openai.ts:203 📨 CHAMANDO onChunk callback com: 4 tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: ,
+openai.ts:203 📨 CHAMANDO onChunk callback com: , tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: 50
+openai.ts:203 📨 CHAMANDO onChunk callback com: 50 tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  -
+openai.ts:203 📨 CHAMANDO onChunk callback com:  - tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  
+openai.ts:203 📨 CHAMANDO onChunk callback com:   tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: 5
+openai.ts:203 📨 CHAMANDO onChunk callback com: 5 tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: ,
+openai.ts:203 📨 CHAMANDO onChunk callback com: , tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: 50
+openai.ts:203 📨 CHAMANDO onChunk callback com: 50 tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  milhões
+openai.ts:203 📨 CHAMANDO onChunk callback com:  milhões tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: /mm
+openai.ts:203 📨 CHAMANDO onChunk callback com: /mm tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: ³
+openai.ts:203 📨 CHAMANDO onChunk callback com: ³ tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: )
+
+openai.ts:203 📨 CHAMANDO onChunk callback com: )
+ tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: -
+openai.ts:203 📨 CHAMANDO onChunk callback com: - tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  **
+openai.ts:203 📨 CHAMANDO onChunk callback com:  ** tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: Hem
+openai.ts:203 📨 CHAMANDO onChunk callback com: Hem tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: oglob
+openai.ts:203 📨 CHAMANDO onChunk callback com: oglob tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: ina
+openai.ts:203 📨 CHAMANDO onChunk callback com: ina tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  (
+openai.ts:203 📨 CHAMANDO onChunk callback com:  ( tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: Hb
+openai.ts:203 📨 CHAMANDO onChunk callback com: Hb tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: ):
+openai.ts:203 📨 CHAMANDO onChunk callback com: ): tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: **
+openai.ts:203 📨 CHAMANDO onChunk callback com: ** tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  
+openai.ts:203 📨 CHAMANDO onChunk callback com:   tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: 15
+openai.ts:203 📨 CHAMANDO onChunk callback com: 15 tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: ,
+openai.ts:203 📨 CHAMANDO onChunk callback com: , tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: 0
+openai.ts:203 📨 CHAMANDO onChunk callback com: 0 tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  g
+openai.ts:203 📨 CHAMANDO onChunk callback com:  g tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: /d
+openai.ts:203 📨 CHAMANDO onChunk callback com: /d tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: L
+openai.ts:203 📨 CHAMANDO onChunk callback com: L tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  (
+openai.ts:203 📨 CHAMANDO onChunk callback com:  ( tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: Ref
+openai.ts:203 📨 CHAMANDO onChunk callback com: Ref tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: :
+openai.ts:203 📨 CHAMANDO onChunk callback com: : tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  
+openai.ts:203 📨 CHAMANDO onChunk callback com:   tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: 13
+openai.ts:203 📨 CHAMANDO onChunk callback com: 13 tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: ,
+openai.ts:203 📨 CHAMANDO onChunk callback com: , tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: 0
+openai.ts:203 📨 CHAMANDO onChunk callback com: 0 tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  -
+openai.ts:203 📨 CHAMANDO onChunk callback com:  - tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  
+openai.ts:203 📨 CHAMANDO onChunk callback com:   tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: 17
+openai.ts:203 📨 CHAMANDO onChunk callback com: 17 tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: ,
+openai.ts:203 📨 CHAMANDO onChunk callback com: , tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: 0
+openai.ts:203 📨 CHAMANDO onChunk callback com: 0 tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  g
+openai.ts:203 📨 CHAMANDO onChunk callback com:  g tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: /d
+openai.ts:203 📨 CHAMANDO onChunk callback com: /d tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: L
+openai.ts:203 📨 CHAMANDO onChunk callback com: L tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: )
+
+openai.ts:203 📨 CHAMANDO onChunk callback com: )
+ tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: -
+openai.ts:203 📨 CHAMANDO onChunk callback com: - tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  **
+openai.ts:203 📨 CHAMANDO onChunk callback com:  ** tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: H
+openai.ts:203 📨 CHAMANDO onChunk callback com: H tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: emat
+openai.ts:203 📨 CHAMANDO onChunk callback com: emat tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: ó
+openai.ts:203 📨 CHAMANDO onChunk callback com: ó tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: crito
+openai.ts:203 📨 CHAMANDO onChunk callback com: crito tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  (
+openai.ts:203 📨 CHAMANDO onChunk callback com:  ( tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: Ht
+openai.ts:203 📨 CHAMANDO onChunk callback com: Ht tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: ):
+openai.ts:203 📨 CHAMANDO onChunk callback com: ): tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: **
+openai.ts:203 📨 CHAMANDO onChunk callback com: ** tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  
+openai.ts:203 📨 CHAMANDO onChunk callback com:   tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: 46
+openai.ts:203 📨 CHAMANDO onChunk callback com: 46 tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: ,
+openai.ts:203 📨 CHAMANDO onChunk callback com: , tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: 7
+openai.ts:203 📨 CHAMANDO onChunk callback com: 7 tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  %
+openai.ts:203 📨 CHAMANDO onChunk callback com:  % tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  (
+openai.ts:203 📨 CHAMANDO onChunk callback com:  ( tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: Ref
+openai.ts:203 📨 CHAMANDO onChunk callback com: Ref tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: :
+openai.ts:203 📨 CHAMANDO onChunk callback com: : tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  
+openai.ts:203 📨 CHAMANDO onChunk callback com:   tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: 40
+openai.ts:203 📨 CHAMANDO onChunk callback com: 40 tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: ,
+openai.ts:203 📨 CHAMANDO onChunk callback com: , tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: 0
+openai.ts:203 📨 CHAMANDO onChunk callback com: 0 tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  -
+openai.ts:203 📨 CHAMANDO onChunk callback com:  - tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  
+openai.ts:203 📨 CHAMANDO onChunk callback com:   tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: 50
+openai.ts:203 📨 CHAMANDO onChunk callback com: 50 tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: ,
+openai.ts:203 📨 CHAMANDO onChunk callback com: , tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: 0
+openai.ts:203 📨 CHAMANDO onChunk callback com: 0 tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: %)
+
+openai.ts:203 📨 CHAMANDO onChunk callback com: %)
+ tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: -
+openai.ts:203 📨 CHAMANDO onChunk callback com: - tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  **
+openai.ts:203 📨 CHAMANDO onChunk callback com:  ** tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: RD
+openai.ts:203 📨 CHAMANDO onChunk callback com: RD tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: W
+openai.ts:203 📨 CHAMANDO onChunk callback com: W tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  (
+openai.ts:203 📨 CHAMANDO onChunk callback com:  ( tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: Distrib
+openai.ts:203 📨 CHAMANDO onChunk callback com: Distrib tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: uição
+openai.ts:203 📨 CHAMANDO onChunk callback com: uição tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  do
+openai.ts:203 📨 CHAMANDO onChunk callback com:  do tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  T
+openai.ts:203 📨 CHAMANDO onChunk callback com:  T tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: amanho
+openai.ts:203 📨 CHAMANDO onChunk callback com: amanho tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  das
+openai.ts:203 📨 CHAMANDO onChunk callback com:  das tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  Hem
+openai.ts:203 📨 CHAMANDO onChunk callback com:  Hem tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: á
+openai.ts:203 📨 CHAMANDO onChunk callback com: á tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: cias
+openai.ts:203 📨 CHAMANDO onChunk callback com: cias tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: ):
+openai.ts:203 📨 CHAMANDO onChunk callback com: ): tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: **
+openai.ts:203 📨 CHAMANDO onChunk callback com: ** tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  
+openai.ts:203 📨 CHAMANDO onChunk callback com:   tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: 11
+openai.ts:203 📨 CHAMANDO onChunk callback com: 11 tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: ,
+openai.ts:203 📨 CHAMANDO onChunk callback com: , tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: 6
+openai.ts:203 📨 CHAMANDO onChunk callback com: 6 tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  %
+openai.ts:203 📨 CHAMANDO onChunk callback com:  % tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  (
+openai.ts:203 📨 CHAMANDO onChunk callback com:  ( tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: Ref
+openai.ts:203 📨 CHAMANDO onChunk callback com: Ref tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: :
+openai.ts:203 📨 CHAMANDO onChunk callback com: : tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  
+openai.ts:203 📨 CHAMANDO onChunk callback com:   tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: 11
+openai.ts:203 📨 CHAMANDO onChunk callback com: 11 tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}index: 1isAIMessage: trueisLast: trueisStreaming: truemessageContentLength: 286streamingContentLength: 0[[Prototype]]: Object
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: ,
+openai.ts:203 📨 CHAMANDO onChunk callback com: , tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+openai.ts:201 🔸 CHUNK NO OPENAI.TS: 6
+openai.ts:203 📨 CHAMANDO onChunk callback com: 6 tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  -
+openai.ts:203 📨 CHAMANDO onChunk callback com:  - tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 0, isLast: false, isAIMessage: false, isStreaming: true, streamingContentLength: 0, …}
+consulta.tsx:1557 🎨 RENDERIZANDO ChatMessage: {index: 1, isLast: true, isAIMessage: true, isStreaming: true, streamingContentLength: 0, …}
+ChatMessage.tsx:63 📱 ChatMessage: Atualizando displayedText com streamingContent: 0 chars
+openai.ts:201 🔸 CHUNK NO OPENAI.TS:  
+openai.ts:203 📨 CHAMANDO onChunk callback com:   tipo: string
+openai.ts:206 ✅ onChunk callback EXECUTADO COM SUCESSO

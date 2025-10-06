@@ -1,0 +1,2724 @@
+memed.ts:44 
+            
+            
+           GET https://integrations.api.memed.com.br/v1/prescritores/sXqCssn1fYMirNtQfqhzvbU3Mhn1 403 (Forbidden)
+window.fetch @ Network.js:219
+obterPrescritor @ memed.ts:44
+initializePrescritor @ prescricoes.tsx?t=1748438068803:62
+callCallback2 @ chunk-XQLYTHWV.js?v=bc13f525:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=bc13f525:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=bc13f525:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=bc13f525:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=bc13f525:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=bc13f525:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=bc13f525:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=bc13f525:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=bc13f525:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=bc13f525:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=bc13f525:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=bc13f525:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=bc13f525:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=bc13f525:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=bc13f525:5449
+ 
+            
+            
+           GET https://integrations.api.memed.com.br/v1/prescritores/sXqCssn1fYMirNtQfqhzvbU3Mhn1 403 (Forbidden)
+window.fetch @ bd327054-4acd-4f37-8…da/3.2.3/eruda.js:2
+obterPrescritor @ bd327054-4acd-4f37-8…src/lib/memed.ts:44
+initializePrescritor @ bd327054-4acd-4f37-8…?t=1748438068803:62
+callCallback2 @ bd327054-4acd-4f37-8….js?v=bc13f525:3674
+invokeGuardedCallbackDev @ bd327054-4acd-4f37-8….js?v=bc13f525:3699
+invokeGuardedCallback @ bd327054-4acd-4f37-8….js?v=bc13f525:3733
+invokeGuardedCallbackAndCatchFirstError @ bd327054-4acd-4f37-8….js?v=bc13f525:3736
+executeDispatch @ bd327054-4acd-4f37-8….js?v=bc13f525:7014
+processDispatchQueueItemsInOrder @ bd327054-4acd-4f37-8….js?v=bc13f525:7034
+processDispatchQueue @ bd327054-4acd-4f37-8….js?v=bc13f525:7043
+dispatchEventsForPlugins @ bd327054-4acd-4f37-8….js?v=bc13f525:7051
+(anônimo) @ bd327054-4acd-4f37-8….js?v=bc13f525:7174
+batchedUpdates$1 @ bd327054-4acd-4f37-8…js?v=bc13f525:18913
+batchedUpdates @ bd327054-4acd-4f37-8….js?v=bc13f525:3579
+dispatchEventForPluginEventSystem @ bd327054-4acd-4f37-8….js?v=bc13f525:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ bd327054-4acd-4f37-8….js?v=bc13f525:5478
+dispatchEvent @ bd327054-4acd-4f37-8….js?v=bc13f525:5472
+dispatchDiscreteEvent @ bd327054-4acd-4f37-8….js?v=bc13f525:5449
+Console.js:61 Erro ao obter prescritor: Error: Erro ao obter prescritor: 
+    at MemedService.obterPrescritor (memed.ts:53:15)
+    at async initializePrescritor (prescricoes.tsx?t=1748438068803:62:25)
+Mt.forEach.n.<computed> @ Console.js:61
+obterPrescritor @ memed.ts:58
+await in obterPrescritor
+initializePrescritor @ prescricoes.tsx?t=1748438068803:62
+callCallback2 @ chunk-XQLYTHWV.js?v=bc13f525:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=bc13f525:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=bc13f525:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=bc13f525:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=bc13f525:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=bc13f525:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=bc13f525:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=bc13f525:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=bc13f525:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=bc13f525:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=bc13f525:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=bc13f525:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=bc13f525:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=bc13f525:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=bc13f525:5449
+memed.ts:20 
+            
+            
+           POST https://integrations.api.memed.com.br/v1/prescritores 403 (Forbidden)
+window.fetch @ Network.js:219
+cadastrarPrescritor @ memed.ts:20
+initializePrescritor @ prescricoes.tsx?t=1748438068803:64
+await in initializePrescritor
+callCallback2 @ chunk-XQLYTHWV.js?v=bc13f525:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=bc13f525:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=bc13f525:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=bc13f525:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=bc13f525:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=bc13f525:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=bc13f525:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=bc13f525:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=bc13f525:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=bc13f525:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=bc13f525:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=bc13f525:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=bc13f525:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=bc13f525:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=bc13f525:5449
+ 
+            
+            
+           POST https://integrations.api.memed.com.br/v1/prescritores 403 (Forbidden)
+window.fetch @ bd327054-4acd-4f37-8…da/3.2.3/eruda.js:2
+cadastrarPrescritor @ bd327054-4acd-4f37-8…src/lib/memed.ts:20
+initializePrescritor @ bd327054-4acd-4f37-8…?t=1748438068803:64
+await in initializePrescritor
+callCallback2 @ bd327054-4acd-4f37-8….js?v=bc13f525:3674
+invokeGuardedCallbackDev @ bd327054-4acd-4f37-8….js?v=bc13f525:3699
+invokeGuardedCallback @ bd327054-4acd-4f37-8….js?v=bc13f525:3733
+invokeGuardedCallbackAndCatchFirstError @ bd327054-4acd-4f37-8….js?v=bc13f525:3736
+executeDispatch @ bd327054-4acd-4f37-8….js?v=bc13f525:7014
+processDispatchQueueItemsInOrder @ bd327054-4acd-4f37-8….js?v=bc13f525:7034
+processDispatchQueue @ bd327054-4acd-4f37-8….js?v=bc13f525:7043
+dispatchEventsForPlugins @ bd327054-4acd-4f37-8….js?v=bc13f525:7051
+(anônimo) @ bd327054-4acd-4f37-8….js?v=bc13f525:7174
+batchedUpdates$1 @ bd327054-4acd-4f37-8…js?v=bc13f525:18913
+batchedUpdates @ bd327054-4acd-4f37-8….js?v=bc13f525:3579
+dispatchEventForPluginEventSystem @ bd327054-4acd-4f37-8….js?v=bc13f525:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ bd327054-4acd-4f37-8….js?v=bc13f525:5478
+dispatchEvent @ bd327054-4acd-4f37-8….js?v=bc13f525:5472
+dispatchDiscreteEvent @ bd327054-4acd-4f37-8….js?v=bc13f525:5449
+Console.js:61 Erro na integração com Memed: Error: Erro ao cadastrar prescritor: 
+    at MemedService.cadastrarPrescritor (memed.ts:30:15)
+    at async initializePrescritor (prescricoes.tsx?t=1748438068803:64:25)
+Mt.forEach.n.<computed> @ Console.js:61
+cadastrarPrescritor @ memed.ts:35
+await in cadastrarPrescritor
+initializePrescritor @ prescricoes.tsx?t=1748438068803:64
+await in initializePrescritor
+callCallback2 @ chunk-XQLYTHWV.js?v=bc13f525:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=bc13f525:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=bc13f525:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=bc13f525:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=bc13f525:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=bc13f525:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=bc13f525:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=bc13f525:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=bc13f525:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=bc13f525:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=bc13f525:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=bc13f525:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=bc13f525:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=bc13f525:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=bc13f525:5449
+Console.js:61 Erro ao inicializar Memed: Error: Erro ao cadastrar prescritor: 
+    at MemedService.cadastrarPrescritor (memed.ts:30:15)
+    at async initializePrescritor (prescricoes.tsx?t=1748438068803:64:25)
+Mt.forEach.n.<computed> @ Console.js:61
+initializePrescritor @ prescricoes.tsx?t=1748438068803:73
+await in initializePrescritor
+callCallback2 @ chunk-XQLYTHWV.js?v=bc13f525:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=bc13f525:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=bc13f525:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=bc13f525:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=bc13f525:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=bc13f525:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=bc13f525:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=bc13f525:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=bc13f525:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=bc13f525:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=bc13f525:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=bc13f525:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=bc13f525:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=bc13f525:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=bc13f525:5449
+
+                
+          
+          
+          
+         Chrome is moving towards a new experience that allows users to choose to browse without third-party cookies.
+Console.js:61 Tentativa de buscar pacientes (1/3)
+Console.js:61 Pacientes carregados com sucesso: 3
+Console.js:61 Tentativa de buscar pacientes (1/3)
+Console.js:61 Erro ao descriptografar dados: Error: Malformed UTF-8 data
+    at Object.stringify (crypto-js.js?v=bc13f525:411:21)
+    at WordArray.init.toString (crypto-js.js?v=bc13f525:219:37)
+    at EncryptionService.decrypt (encryption.ts:48:40)
+    at encryption.ts:84:33
+    at Array.forEach (<anonymous>)
+    at EncryptionService.decryptObject (encryption.ts:82:21)
+    at decryptPatientData (encryption.ts:113:28)
+    at firebase.ts:437:31
+    at firebase_firestore.js?v=bc13f525:17431:9
+    at firebase_firestore.js?v=bc13f525:13466:48
+Mt.forEach.n.<computed> @ Console.js:61
+decrypt @ encryption.ts:51
+(anônimo) @ encryption.ts:84
+decryptObject @ encryption.ts:82
+decryptPatientData @ encryption.ts:113
+(anônimo) @ firebase.ts:437
+(anônimo) @ firebase_firestore.js?v=bc13f525:17431
+(anônimo) @ firebase_firestore.js?v=bc13f525:13466
+inorderTraversal @ firebase_firestore.js?v=bc13f525:4366
+inorderTraversal @ firebase_firestore.js?v=bc13f525:4282
+forEach @ firebase_firestore.js?v=bc13f525:13466
+forEach @ firebase_firestore.js?v=bc13f525:17430
+getPatients @ firebase.ts:433
+await in getPatients
+loadPatients @ prescricoes.tsx:29
+(anônimo) @ prescricoes.tsx:41
+commitHookEffectListMount @ chunk-XQLYTHWV.js?v=bc13f525:16915
+commitPassiveMountOnFiber @ chunk-XQLYTHWV.js?v=bc13f525:18156
+commitPassiveMountEffects_complete @ chunk-XQLYTHWV.js?v=bc13f525:18129
+commitPassiveMountEffects_begin @ chunk-XQLYTHWV.js?v=bc13f525:18119
+commitPassiveMountEffects @ chunk-XQLYTHWV.js?v=bc13f525:18109
+flushPassiveEffectsImpl @ chunk-XQLYTHWV.js?v=bc13f525:19490
+flushPassiveEffects @ chunk-XQLYTHWV.js?v=bc13f525:19447
+commitRootImpl @ chunk-XQLYTHWV.js?v=bc13f525:19416
+commitRoot @ chunk-XQLYTHWV.js?v=bc13f525:19277
+performSyncWorkOnRoot @ chunk-XQLYTHWV.js?v=bc13f525:18895
+flushSyncCallbacks @ chunk-XQLYTHWV.js?v=bc13f525:9119
+flushSync @ chunk-XQLYTHWV.js?v=bc13f525:18959
+scheduleRefresh @ chunk-XQLYTHWV.js?v=bc13f525:20004
+(anônimo) @ @react-refresh:267
+performReactRefresh @ @react-refresh:256
+(anônimo) @ @react-refresh:677
+setTimeout
+(anônimo) @ @react-refresh:666
+validateRefreshBoundaryAndEnqueueUpdate @ @react-refresh:728
+(anônimo) @ prescricoes.tsx?t=1748438881998:504
+(anônimo) @ client:34
+(anônimo) @ client:218
+(anônimo) @ client:193
+queueUpdate @ client:193
+await in queueUpdate
+(anônimo) @ client:642
+handleMessage @ client:640
+(anônimo) @ client:550
+Console.js:61 Erro ao descriptografar dados: Error: Malformed UTF-8 data
+    at Object.stringify (crypto-js.js?v=bc13f525:411:21)
+    at WordArray.init.toString (crypto-js.js?v=bc13f525:219:37)
+    at EncryptionService.decrypt (encryption.ts:48:40)
+    at encryption.ts:84:33
+    at Array.forEach (<anonymous>)
+    at EncryptionService.decryptObject (encryption.ts:82:21)
+    at decryptPatientData (encryption.ts:113:28)
+    at firebase.ts:437:31
+    at firebase_firestore.js?v=bc13f525:17431:9
+    at firebase_firestore.js?v=bc13f525:13466:48
+Mt.forEach.n.<computed> @ Console.js:61
+decrypt @ encryption.ts:51
+(anônimo) @ encryption.ts:84
+decryptObject @ encryption.ts:82
+decryptPatientData @ encryption.ts:113
+(anônimo) @ firebase.ts:437
+(anônimo) @ firebase_firestore.js?v=bc13f525:17431
+(anônimo) @ firebase_firestore.js?v=bc13f525:13466
+inorderTraversal @ firebase_firestore.js?v=bc13f525:4366
+inorderTraversal @ firebase_firestore.js?v=bc13f525:4366
+inorderTraversal @ firebase_firestore.js?v=bc13f525:4282
+forEach @ firebase_firestore.js?v=bc13f525:13466
+forEach @ firebase_firestore.js?v=bc13f525:17430
+getPatients @ firebase.ts:433
+await in getPatients
+loadPatients @ prescricoes.tsx:29
+(anônimo) @ prescricoes.tsx:41
+commitHookEffectListMount @ chunk-XQLYTHWV.js?v=bc13f525:16915
+commitPassiveMountOnFiber @ chunk-XQLYTHWV.js?v=bc13f525:18156
+commitPassiveMountEffects_complete @ chunk-XQLYTHWV.js?v=bc13f525:18129
+commitPassiveMountEffects_begin @ chunk-XQLYTHWV.js?v=bc13f525:18119
+commitPassiveMountEffects @ chunk-XQLYTHWV.js?v=bc13f525:18109
+flushPassiveEffectsImpl @ chunk-XQLYTHWV.js?v=bc13f525:19490
+flushPassiveEffects @ chunk-XQLYTHWV.js?v=bc13f525:19447
+commitRootImpl @ chunk-XQLYTHWV.js?v=bc13f525:19416
+commitRoot @ chunk-XQLYTHWV.js?v=bc13f525:19277
+performSyncWorkOnRoot @ chunk-XQLYTHWV.js?v=bc13f525:18895
+flushSyncCallbacks @ chunk-XQLYTHWV.js?v=bc13f525:9119
+flushSync @ chunk-XQLYTHWV.js?v=bc13f525:18959
+scheduleRefresh @ chunk-XQLYTHWV.js?v=bc13f525:20004
+(anônimo) @ @react-refresh:267
+performReactRefresh @ @react-refresh:256
+(anônimo) @ @react-refresh:677
+setTimeout
+(anônimo) @ @react-refresh:666
+validateRefreshBoundaryAndEnqueueUpdate @ @react-refresh:728
+(anônimo) @ prescricoes.tsx?t=1748438881998:504
+(anônimo) @ client:34
+(anônimo) @ client:218
+(anônimo) @ client:193
+queueUpdate @ client:193
+await in queueUpdate
+(anônimo) @ client:642
+handleMessage @ client:640
+(anônimo) @ client:550
+Console.js:61 Pacientes carregados com sucesso: 3
+replEnvironmentDesktop-1eecc0bc66ec66f7.js:1 Unrecognized feature: 'ambient-light-sensor'.
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+navigateTo @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+next @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+next @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+s @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+notify @ _app-5b17002763bfe5af.js:26
+t.apply @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+replEnvironmentDesktop-1eecc0bc66ec66f7.js:1 Unrecognized feature: 'battery'.
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+navigateTo @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+next @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+next @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+s @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+notify @ _app-5b17002763bfe5af.js:26
+t.apply @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+replEnvironmentDesktop-1eecc0bc66ec66f7.js:1 Unrecognized feature: 'execution-while-not-rendered'.
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+navigateTo @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+next @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+next @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+s @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+notify @ _app-5b17002763bfe5af.js:26
+t.apply @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+replEnvironmentDesktop-1eecc0bc66ec66f7.js:1 Unrecognized feature: 'execution-while-out-of-viewport'.
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+navigateTo @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+next @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+next @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+s @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+notify @ _app-5b17002763bfe5af.js:26
+t.apply @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+replEnvironmentDesktop-1eecc0bc66ec66f7.js:1 Unrecognized feature: 'layout-animations'.
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+navigateTo @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+next @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+next @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+s @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+notify @ _app-5b17002763bfe5af.js:26
+t.apply @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+replEnvironmentDesktop-1eecc0bc66ec66f7.js:1 Unrecognized feature: 'legacy-image-formats'.
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+navigateTo @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+next @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+next @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+s @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+notify @ _app-5b17002763bfe5af.js:26
+t.apply @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+replEnvironmentDesktop-1eecc0bc66ec66f7.js:1 Unrecognized feature: 'navigation-override'.
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+navigateTo @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+next @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+next @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+s @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+notify @ _app-5b17002763bfe5af.js:26
+t.apply @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+replEnvironmentDesktop-1eecc0bc66ec66f7.js:1 Unrecognized feature: 'oversized-images'.
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+navigateTo @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+next @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+next @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+s @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+notify @ _app-5b17002763bfe5af.js:26
+t.apply @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+replEnvironmentDesktop-1eecc0bc66ec66f7.js:1 Unrecognized feature: 'publickey-credentials'.
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+navigateTo @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+next @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+next @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+s @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+notify @ _app-5b17002763bfe5af.js:26
+t.apply @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+replEnvironmentDesktop-1eecc0bc66ec66f7.js:1 Unrecognized feature: 'speaker-selection'.
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+navigateTo @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+next @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+next @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+s @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+notify @ _app-5b17002763bfe5af.js:26
+t.apply @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+replEnvironmentDesktop-1eecc0bc66ec66f7.js:1 Unrecognized feature: 'unoptimized-images'.
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+navigateTo @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+next @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+next @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+s @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+notify @ _app-5b17002763bfe5af.js:26
+t.apply @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+replEnvironmentDesktop-1eecc0bc66ec66f7.js:1 Unrecognized feature: 'unsized-media'.
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+navigateTo @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+next @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+next @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+s @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+notify @ _app-5b17002763bfe5af.js:26
+t.apply @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+replEnvironmentDesktop-1eecc0bc66ec66f7.js:1 Unrecognized feature: 'pointer-lock'.
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+navigateTo @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+next @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+next @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+s @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+notify @ _app-5b17002763bfe5af.js:26
+t.apply @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+replEnvironmentDesktop-1eecc0bc66ec66f7.js:1 Allow attribute will take precedence over 'allowfullscreen'.
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+navigateTo @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+next @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+next @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+s @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+notify @ _app-5b17002763bfe5af.js:26
+t.apply @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+replEnvironmentDesktop-1eecc0bc66ec66f7.js:1 Allow attribute will take precedence over 'allowpaymentrequest'.
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ main-215d22dc8c5808c8.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+navigateTo @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+refresh @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+(anônimo) @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+next @ replEnvironmentDesktop-1eecc0bc66ec66f7.js:1
+next @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+s @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+n.observers.next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+notify @ _app-5b17002763bfe5af.js:26
+t.apply @ _app-5b17002763bfe5af.js:26
+(anônimo) @ _app-5b17002763bfe5af.js:26
+next @ _app-5b17002763bfe5af.js:6
+next @ _app-5b17002763bfe5af.js:6
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+b @ _app-5b17002763bfe5af.js:9
+y @ _app-5b17002763bfe5af.js:9
+t.next @ _app-5b17002763bfe5af.js:9
+(anônimo) @ _app-5b17002763bfe5af.js:26
+(anônimo) @ main-215d22dc8c5808c8.js:1
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+Promise.then
+n @ main-215d22dc8c5808c8.js:1
+u @ main-215d22dc8c5808c8.js:1
+workspace_iframe.html:32 Error while parsing the 'sandbox' attribute: 'allow-downloads-without-user-activation' is an invalid sandbox flag.
+workspace_iframe.html:32 Unrecognized feature: 'ambient-light-sensor'.
+workspace_iframe.html:32 Unrecognized feature: 'battery'.
+workspace_iframe.html:32 Unrecognized feature: 'execution-while-not-rendered'.
+workspace_iframe.html:32 Unrecognized feature: 'execution-while-out-of-viewport'.
+workspace_iframe.html:32 Unrecognized feature: 'layout-animations'.
+workspace_iframe.html:32 Unrecognized feature: 'legacy-image-formats'.
+workspace_iframe.html:32 Unrecognized feature: 'navigation-override'.
+workspace_iframe.html:32 Unrecognized feature: 'oversized-images'.
+workspace_iframe.html:32 Unrecognized feature: 'publickey-credentials'.
+workspace_iframe.html:32 Unrecognized feature: 'speaker-selection'.
+workspace_iframe.html:32 Unrecognized feature: 'unoptimized-images'.
+workspace_iframe.html:32 Unrecognized feature: 'unsized-media'.
+workspace_iframe.html:32 Allow attribute will take precedence over 'allowfullscreen'.
+workspace_iframe.html:32 Allow attribute will take precedence over 'allowpaymentrequest'.
+Console.js:61 Firebase config: {projectId: 'preskriptor-e8a69', authDomain: 'preskriptor-e8a69.firebaseapp.com', storageBucket: 'preskriptor-e8a69.appspot.com', messagingSenderId: '361328259562', appId: '[PRESENTE]', …}
+Console.js:61 Criada nova instância do Firebase
+Console.js:61 Setting up auth state listener...
+Console.js:61 Auth state changed: User logged in
+Console.js:61 Getting user profile for UID: sXqCssn1fYMirNtQfqhzvbU3Mhn1
+Console.js:61 🔍 Getting user profile for UID: sXqCssn1fYMirNtQfqhzvbU3Mhn1
+Console.js:61 Trying to get user document with UID as document ID
+Console.js:61 User document reference created: users/sXqCssn1fYMirNtQfqhzvbU3Mhn1
+Console.js:61 User document exists? true
+Console.js:61 User data found by direct ID: sXqCssn1fYMirNtQfqhzvbU3Mhn1
+Console.js:61 Firestore user profile: {name: 'ALEX SANTANA SANTOS', uid: 'sXqCssn1fYMirNtQfqhzvbU3Mhn1', cellphone: '34998959018', stripeSessionId: 'cs_test_a1LX41TmO1ZNIWPaW3WJGVJntxSA0mNCjCghFPfSiMOHZfJllmmBbW003T', updatedAt: Thu May 08 2025 01:54:54 GMT-0300 (Horário Padrão de Brasília), …}
+Console.js:61 User data set with Firestore profile
+Console.js:61 Tentativa de buscar pacientes (1/3)
+Console.js:61 Erro ao descriptografar dados: Error: Malformed UTF-8 data
+    at Object.stringify (crypto-js.js?v=bc13f525:411:21)
+    at WordArray.init.toString (crypto-js.js?v=bc13f525:219:37)
+    at EncryptionService.decrypt (encryption.ts:48:40)
+    at encryption.ts:84:33
+    at Array.forEach (<anonymous>)
+    at EncryptionService.decryptObject (encryption.ts:82:21)
+    at decryptPatientData (encryption.ts:113:28)
+    at firebase.ts:437:31
+    at firebase_firestore.js?v=bc13f525:17431:9
+    at firebase_firestore.js?v=bc13f525:13466:48
+Mt.forEach.n.<computed> @ Console.js:61
+decrypt @ encryption.ts:51
+(anônimo) @ encryption.ts:84
+decryptObject @ encryption.ts:82
+decryptPatientData @ encryption.ts:113
+(anônimo) @ firebase.ts:437
+(anônimo) @ firebase_firestore.js?v=bc13f525:17431
+(anônimo) @ firebase_firestore.js?v=bc13f525:13466
+inorderTraversal @ firebase_firestore.js?v=bc13f525:4366
+inorderTraversal @ firebase_firestore.js?v=bc13f525:4282
+forEach @ firebase_firestore.js?v=bc13f525:13466
+forEach @ firebase_firestore.js?v=bc13f525:17430
+getPatients @ firebase.ts:433
+await in getPatients
+loadPatients @ prescricoes.tsx:29
+(anônimo) @ prescricoes.tsx:41
+commitHookEffectListMount @ chunk-XQLYTHWV.js?v=bc13f525:16915
+commitPassiveMountOnFiber @ chunk-XQLYTHWV.js?v=bc13f525:18156
+commitPassiveMountEffects_complete @ chunk-XQLYTHWV.js?v=bc13f525:18129
+commitPassiveMountEffects_begin @ chunk-XQLYTHWV.js?v=bc13f525:18119
+commitPassiveMountEffects @ chunk-XQLYTHWV.js?v=bc13f525:18109
+flushPassiveEffectsImpl @ chunk-XQLYTHWV.js?v=bc13f525:19490
+flushPassiveEffects @ chunk-XQLYTHWV.js?v=bc13f525:19447
+(anônimo) @ chunk-XQLYTHWV.js?v=bc13f525:19328
+workLoop @ chunk-XQLYTHWV.js?v=bc13f525:197
+flushWork @ chunk-XQLYTHWV.js?v=bc13f525:176
+performWorkUntilDeadline @ chunk-XQLYTHWV.js?v=bc13f525:384
+Console.js:61 Pacientes carregados com sucesso: 3
+Console.js:61 Firestore timeout reached
+Console.js:61 Erro na integração com Memed: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+Mt.forEach.n.<computed> @ Console.js:61
+configurarPrescritor @ memed.ts:85
+await in configurarPrescritor
+initializePrescritor @ prescricoes.tsx:51
+callCallback2 @ chunk-XQLYTHWV.js?v=bc13f525:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=bc13f525:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=bc13f525:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=bc13f525:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=bc13f525:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=bc13f525:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=bc13f525:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=bc13f525:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=bc13f525:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=bc13f525:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=bc13f525:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=bc13f525:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=bc13f525:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=bc13f525:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=bc13f525:5449
+Console.js:61 Erro ao inicializar Memed: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+Mt.forEach.n.<computed> @ Console.js:61
+initializePrescritor @ prescricoes.tsx:64
+await in initializePrescritor
+callCallback2 @ chunk-XQLYTHWV.js?v=bc13f525:3674
+invokeGuardedCallbackDev @ chunk-XQLYTHWV.js?v=bc13f525:3699
+invokeGuardedCallback @ chunk-XQLYTHWV.js?v=bc13f525:3733
+invokeGuardedCallbackAndCatchFirstError @ chunk-XQLYTHWV.js?v=bc13f525:3736
+executeDispatch @ chunk-XQLYTHWV.js?v=bc13f525:7014
+processDispatchQueueItemsInOrder @ chunk-XQLYTHWV.js?v=bc13f525:7034
+processDispatchQueue @ chunk-XQLYTHWV.js?v=bc13f525:7043
+dispatchEventsForPlugins @ chunk-XQLYTHWV.js?v=bc13f525:7051
+(anônimo) @ chunk-XQLYTHWV.js?v=bc13f525:7174
+batchedUpdates$1 @ chunk-XQLYTHWV.js?v=bc13f525:18913
+batchedUpdates @ chunk-XQLYTHWV.js?v=bc13f525:3579
+dispatchEventForPluginEventSystem @ chunk-XQLYTHWV.js?v=bc13f525:7173
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ chunk-XQLYTHWV.js?v=bc13f525:5478
+dispatchEvent @ chunk-XQLYTHWV.js?v=bc13f525:5472
+dispatchDiscreteEvent @ chunk-XQLYTHWV.js?v=bc13f525:5449

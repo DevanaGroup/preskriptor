@@ -1,0 +1,127 @@
+ Firebase config: Object
+ Criada nova instância do Firebase
+ 🔍 Carregando módulos exclusivamente do Firestore
+ 🔍 Carregando módulos exclusivamente do Firestore
+ Setting up auth state listener...
+ Object
+ Auth state changed: User logged in
+ Getting user profile for UID: V17uYhaSupbLGD2LdaSvBBuyzGr2
+ 🔍 Getting user profile for UID: V17uYhaSupbLGD2LdaSvBBuyzGr2
+ Trying to get user document with UID as document ID
+ User document reference created: users/V17uYhaSupbLGD2LdaSvBBuyzGr2
+ 📄 Dados do módulo: Algoritmo-Indicação-de-Cirurgia-Bariátrica Object
+ 📄 Dados do módulo: Medicação Antiobesidade (MAO) - Prescrição Inteligente Object
+ 📄 Dados do módulo: Prontuário Blindado Object
+ 📄 Dados do módulo: Reposição de Vitaminas e Minerais Object
+ 📄 Dados do módulo: algoritmo-mao Object
+ 📄 Dados do módulo: bioimpedancia Object
+ 📄 Dados do módulo: conversor-semaglutina Object
+ 📄 Dados do módulo: diabetes-tipo-2 Object
+ 📄 Dados do módulo: exames-hormonais Object
+ 📄 Dados do módulo: exames-laboratoriais Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: fitoterapia-na-obesidade Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: pre-diabetes Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: terapia-hormonal-feminina Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: terapia-hormonal-masculina Object
+index-D9gg8ijl.js:3716 ✅ Módulos carregados do Firestore: 14
+index-D9gg8ijl.js:3716 📋 Módulos: Array(14)
+index-D9gg8ijl.js:3716 📄 Dados do módulo: Algoritmo-Indicação-de-Cirurgia-Bariátrica Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: Medicação Antiobesidade (MAO) - Prescrição Inteligente Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: Prontuário Blindado Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: Reposição de Vitaminas e Minerais Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: algoritmo-mao Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: bioimpedancia Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: conversor-semaglutina Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: diabetes-tipo-2 Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: exames-hormonais Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: exames-laboratoriais Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: fitoterapia-na-obesidade Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: pre-diabetes Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: terapia-hormonal-feminina Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: terapia-hormonal-masculina Object
+index-D9gg8ijl.js:3716 ✅ Módulos carregados do Firestore: 14
+index-D9gg8ijl.js:3716 📋 Módulos: Array(14)
+index-D9gg8ijl.js:3676 User document exists? true
+index-D9gg8ijl.js:3676 User data found by direct ID: V17uYhaSupbLGD2LdaSvBBuyzGr2
+index-D9gg8ijl.js:3676 Firestore user profile: Object
+index-D9gg8ijl.js:3676 User data set with Firestore profile
+index-D9gg8ijl.js:3676 Firestore timeout reached
+index-D9gg8ijl.js:3676 Auth state changed: User logged in
+index-D9gg8ijl.js:3676 Getting user profile for UID: sXqCssn1fYMirNtQfqhzvbU3Mhn1
+index-D9gg8ijl.js:3676 🔍 Getting user profile for UID: sXqCssn1fYMirNtQfqhzvbU3Mhn1
+index-D9gg8ijl.js:3676 Trying to get user document with UID as document ID
+index-D9gg8ijl.js:3676 User document reference created: users/sXqCssn1fYMirNtQfqhzvbU3Mhn1
+index-D9gg8ijl.js:3676 🔍 Getting user profile for UID: sXqCssn1fYMirNtQfqhzvbU3Mhn1
+index-D9gg8ijl.js:3676 Trying to get user document with UID as document ID
+index-D9gg8ijl.js:3676 User document reference created: users/sXqCssn1fYMirNtQfqhzvbU3Mhn1
+index-D9gg8ijl.js:3676 User document exists? true
+index-D9gg8ijl.js:3676 User data found by direct ID: sXqCssn1fYMirNtQfqhzvbU3Mhn1
+index-D9gg8ijl.js:3676 Firestore user profile: Object
+index-D9gg8ijl.js:3676 User data set with Firestore profile
+index-D9gg8ijl.js:3676 User document exists? true
+index-D9gg8ijl.js:3676 User data found by direct ID: sXqCssn1fYMirNtQfqhzvbU3Mhn1
+index-D9gg8ijl.js:3716 🔍 Carregando módulos exclusivamente do Firestore
+index-D9gg8ijl.js:3716 🔍 Carregando módulos exclusivamente do Firestore
+index-D9gg8ijl.js:3716 📄 Dados do módulo: Algoritmo-Indicação-de-Cirurgia-Bariátrica Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: Medicação Antiobesidade (MAO) - Prescrição Inteligente Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: Prontuário Blindado Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: Reposição de Vitaminas e Minerais Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: algoritmo-mao Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: bioimpedancia Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: conversor-semaglutina Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: diabetes-tipo-2 Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: exames-hormonais Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: exames-laboratoriais Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: fitoterapia-na-obesidade Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: pre-diabetes Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: terapia-hormonal-feminina Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: terapia-hormonal-masculina Object
+index-D9gg8ijl.js:3716 ✅ Módulos carregados do Firestore: 14
+index-D9gg8ijl.js:3716 📋 Módulos: Array(14)
+index-D9gg8ijl.js:3716 📄 Dados do módulo: Algoritmo-Indicação-de-Cirurgia-Bariátrica Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: Medicação Antiobesidade (MAO) - Prescrição Inteligente Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: Prontuário Blindado Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: Reposição de Vitaminas e Minerais Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: algoritmo-mao Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: bioimpedancia Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: conversor-semaglutina Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: diabetes-tipo-2 Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: exames-hormonais Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: exames-laboratoriais Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: fitoterapia-na-obesidade Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: pre-diabetes Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: terapia-hormonal-feminina Object
+index-D9gg8ijl.js:3716 📄 Dados do módulo: terapia-hormonal-masculina Object
+index-D9gg8ijl.js:3716 ✅ Módulos carregados do Firestore: 14
+index-D9gg8ijl.js:3716 📋 Módulos: Array(14)
+index-D9gg8ijl.js:3676 Firestore timeout reached
+index-D9gg8ijl.js:3676 🔍 Getting user profile for UID: sXqCssn1fYMirNtQfqhzvbU3Mhn1
+index-D9gg8ijl.js:3676 Trying to get user document with UID as document ID
+index-D9gg8ijl.js:3676 User document reference created: users/sXqCssn1fYMirNtQfqhzvbU3Mhn1
+index-D9gg8ijl.js:3676 User document exists? true
+index-D9gg8ijl.js:3676 User data found by direct ID: sXqCssn1fYMirNtQfqhzvbU3Mhn1
+index-D9gg8ijl.js:3809 Configurações de módulos carregadas do Firestore: 14
+index-D9gg8ijl.js:40 Error: A <Select.Item /> must have a value prop that is not an empty string. This is because the Select value can be set to an empty string to clear the selection and show the placeholder.
+    at index-D9gg8ijl.js:3721:58586
+    at SN (index-D9gg8ijl.js:38:17031)
+    at rF (index-D9gg8ijl.js:40:1575)
+    at kU (index-D9gg8ijl.js:40:46080)
+    at CU (index-D9gg8ijl.js:40:39822)
+    at Oae (index-D9gg8ijl.js:40:39748)
+    at Db (index-D9gg8ijl.js:40:39598)
+    at EP (index-D9gg8ijl.js:40:35960)
+    at pF (index-D9gg8ijl.js:40:36765)
+    at mc (index-D9gg8ijl.js:38:3288)
+dP @ index-D9gg8ijl.js:40
+index-D9gg8ijl.js:38 Uncaught Error: A <Select.Item /> must have a value prop that is not an empty string. This is because the Select value can be set to an empty string to clear the selection and show the placeholder.
+    at index-D9gg8ijl.js:3721:58586
+    at SN (index-D9gg8ijl.js:38:17031)
+    at rF (index-D9gg8ijl.js:40:1575)
+    at kU (index-D9gg8ijl.js:40:46080)
+    at CU (index-D9gg8ijl.js:40:39822)
+    at Oae (index-D9gg8ijl.js:40:39748)
+    at Db (index-D9gg8ijl.js:40:39598)
+    at EP (index-D9gg8ijl.js:40:35960)
+    at pF (index-D9gg8ijl.js:40:36765)
+    at mc (index-D9gg8ijl.js:38:3288)
+index-D9gg8ijl.js:3676 Cleaning up auth state listener
